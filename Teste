@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Laboratório G.I.A.N.</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background: linear-gradient(135deg, #101827, #233b61);
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    main { padding: 30px; }
+    h1 { font-size: 42px; }
+    p { color: #cbd5e1; }
+    button {
+      padding: 14px 25px;
+      border: 0;
+      border-radius: 10px;
+      background: #38bdf8;
+      color: #082f49;
+      font-weight: bold;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Laboratório G.I.A.N. 🚀</h1>
+    <p>Meu primeiro projeto no GitHub!</p>
+    <p>Criando o futuro com inteligência artificial.</p>
+    <button onclick="alert('Funcionou! Bem-vindo ao G.I.A.N.!')">
+      Testar interação
+    </button>
+  </main>
+</body>
+</html>
