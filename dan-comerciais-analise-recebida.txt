@@ -1,0 +1,1189 @@
+How To Create Cinematic AI Ads — análise completa
+
+Vídeo analisado: 
+
+How To Create Cinematic AI Ads – Full AI Video Course
+Criador identificado: Dan Kieft
+Tema: criação de anúncios cinematográficos e curtas com IA, usando um fluxo dividido em pré-produção, produção e edição.
+Exemplo central: um comercial de futebol em que um garoto cresce sonhando em ser jogador e chega à seleção holandesa, além de uma demonstração de anúncio para uma chuteira Nike Tiempo.
+Título alternativo identificado no conteúdo: How to Get Started With AI Video in 2026.
+Duração aproximada do conteúdo analisado: cerca de 16 minutos.
+
+
+Nota sobre a transcrição: as legendas literais não ficaram disponíveis para extração direta neste ambiente. A seção de transcrição é uma reconstrução limpa e organizada da fala e das demonstrações, não uma transcrição palavra por palavra. Nomes de modelos e recursos são registrados conforme identificados no vídeo e podem depender da versão atual das plataformas.
+
+1. Resumo executivo
+
+O vídeo ensina um fluxo completo para criar anúncios cinematográficos com vídeo generativo. A principal ideia é que o resultado não começa no prompt de vídeo. Ele começa na pré-produção: história, arco emocional, personagens, idades, locais, referências visuais, moodboard e storyboard.
+
+O criador mostra um comercial de futebol produzido integralmente com IA. A história acompanha um personagem desde a infância até uma fase profissional, passando por treinamento, sonho, evolução e chegada ao grande jogo. O projeto serve para demonstrar como manter identidade e mundo visual em diferentes períodos da vida do personagem.
+
+O fluxo divide-se em três fases:
+
+1.
+Pré-produção: definir história, personagens, character sheets, moodboards, storyboard e locais.
+
+2.
+Produção: combinar referências de personagem e ambiente, gerar cenas, usar start frames, referências de identidade e storyboards.
+
+3.
+Edição: organizar clipes no Premiere, fazer cortes de ritmo, inserir som e regenerar cenas quando necessário.
+
+O vídeo enfatiza que a organização dos ativos antes de gerar o vídeo reduz desperdício de créditos. Em vez de tentar gerar uma cena completa repetidamente, o usuário prepara as referências que irão controlar identidade, local, estilo e composição.
+
+As técnicas mais importantes são:
+
+•
+criar character sheets para diferentes idades;
+
+•
+organizar personagens e referências em Figma;
+
+•
+usar um LLM, como Claude, para desenvolver storyboard e moodboard;
+
+•
+construir o mundo visual com vários ângulos do mesmo local;
+
+•
+usar a função Multi-shot para obter referências do ambiente;
+
+•
+combinar personagem e local em modelos de vídeo;
+
+•
+iniciar cenas complexas com um Start Frame;
+
+•
+anexar referências de identidade para impedir que a IA misture rostos;
+
+•
+usar character sheets em cenas com muitos personagens;
+
+•
+criar anúncios de produto a partir de grids de storyboard;
+
+•
+editar e regenerar cenas dentro do fluxo do Premiere.
+
+2. Estrutura cronológica do vídeo
+
+00:00–01:06 — Introdução e demonstração do comercial
+
+O vídeo começa contextualizando a importância de grandes eventos esportivos, especialmente a Copa do Mundo, para marcas como a Nike. O criador apresenta um anúncio de aproximadamente um minuto com estética cinematográfica.
+
+A história acompanha um garoto que sonha em ser jogador de futebol e, ao longo do tempo, chega à seleção holandesa patrocinada pela Nike. O curta mostra a progressão do personagem, sua relação com o esporte e a transformação do sonho infantil em uma carreira profissional.
+
+O exemplo é usado para mostrar que publicidade gerada por IA pode combinar narrativa, personagem, locais, evolução temporal, produto e emoção em um único filme.
+
+01:07–01:22 — Revelação do processo
+
+Dan Kieft revela que personagens, locais e história foram produzidos com IA. Ele divide o processo em três partes:
+
+•
+pré-produção;
+
+•
+produção;
+
+•
+edição.
+
+Essa divisão é importante porque evita tratar geração como uma ação única. O anúncio só se torna controlável quando os elementos são planejados antes de gerar os clipes.
+
+01:23–02:04 — Pré-produção: começar pela história
+
+O criador explica que tudo começa pela história. A inspiração vem de um sonho de infância: imaginar-se como jogador de futebol profissional.
+
+A narrativa é organizada em etapas de vida e carreira. O personagem começa como criança, treina, cresce, aproxima-se de uma oportunidade profissional e finalmente chega ao grande momento esportivo.
+
+O arco emocional fornece uma função para cada cena. Não se trata apenas de mostrar diferentes imagens de futebol, mas de acompanhar uma transformação:
+
+1.
+sonho inicial;
+
+2.
+prática e esforço;
+
+3.
+amadurecimento;
+
+4.
+reconhecimento ou contrato;
+
+5.
+competição profissional;
+
+6.
+realização do sonho.
+
+A recomendação prática é resolver a história antes de gerar os vídeos. Se o usuário muda o enredo durante a produção, perde consistência, tempo e créditos.
+
+02:05–04:30 — Construção dos personagens
+
+O criador apresenta o uso de character sheets para representar o mesmo personagem em diferentes idades. O exemplo mostra variações correspondentes à infância, adolescência e fase profissional.
+
+A folha pode conter:
+
+•
+frente;
+
+•
+perfil;
+
+•
+costas;
+
+•
+vista três quartos;
+
+•
+close-up do rosto;
+
+•
+corpo inteiro;
+
+•
+roupas e acessórios;
+
+•
+marcas de identidade;
+
+•
+diferenças de idade planejadas.
+
+A grande dificuldade é envelhecer o personagem sem perder a identidade. A criança, o adolescente e o adulto precisam parecer versões do mesmo indivíduo, não pessoas aleatórias com características parecidas.
+
+O criador recomenda começar com uma imagem de entrada de boa qualidade. A frase central do segmento é que a qualidade da saída depende da qualidade da entrada. Fotos ou referências fracas tornam a consistência mais difícil.
+
+O modelo Nano Banana Pro é citado como opção mais econômica para testes iniciais. A estratégia é usar uma opção de menor custo para explorar e reservar modelos mais caros para as imagens finais ou cenas importantes.
+
+04:31–05:25 — Organização no Figma e plugin Higgsfield
+
+Depois de gerar os personagens, o criador organiza as referências em um quadro visual. O Figma é usado para reunir character sheets, variações de idade e elementos necessários à produção.
+
+A organização facilita localizar rapidamente:
+
+•
+personagem infantil;
+
+•
+versão adolescente;
+
+•
+versão adulta;
+
+•
+expressões;
+
+•
+roupas;
+
+•
+poses;
+
+•
+referências de produto;
+
+•
+locais.
+
+O plugin ou integração da Higgsfield é apresentado como forma de aproximar o espaço de organização da etapa de geração. O objetivo é reduzir a troca manual entre ferramentas e manter o projeto visualmente centralizado.
+
+05:26–06:48 — Moodboard e storyboard
+
+O criador usa um modelo de linguagem, identificado como Claude via Supercomputer, para refinar a história e gerar inspiração visual.
+
+O LLM pode ajudar a transformar a ideia em:
+
+•
+lista de cenas;
+
+•
+enquadramentos;
+
+•
+cores;
+
+•
+referências de luz;
+
+•
+progressão emocional;
+
+•
+ideias de transição;
+
+•
+ritmo do anúncio;
+
+•
+sugestões de locação;
+
+•
+cenas de produto.
+
+O moodboard define a direção visual geral. O storyboard traduz essa direção em quadros e planos concretos.
+
+A utilidade do storyboard é evitar que o usuário gere imagens bonitas, mas sem função narrativa. Cada frame deve responder a uma pergunta: onde estamos, quem está presente, o que acontece, como a câmera registra e qual informação ou emoção a cena entrega?
+
+06:49–08:21 — Construção do mundo e locais
+
+O criador explica que personagens não bastam. O mundo visual também precisa de referências consistentes.
+
+Ele cria locais como:
+
+•
+quartos ou ambientes de infância;
+
+•
+campos de rua;
+
+•
+espaços de treino;
+
+•
+vestiários;
+
+•
+estádios;
+
+•
+ambientes de jogo;
+
+•
+cenários para anúncios de produto.
+
+A função Multi-shot é usada para obter diferentes ângulos do mesmo local. Isso ajuda a manter o ambiente reconhecível quando a câmera muda.
+
+Uma referência de local deve estabelecer:
+
+•
+arquitetura;
+
+•
+materiais;
+
+•
+cores;
+
+•
+luz;
+
+•
+escala;
+
+•
+objetos permanentes;
+
+•
+posição de portas e janelas;
+
+•
+textura do chão;
+
+•
+atmosfera.
+
+Sem essa etapa, cada ângulo pode parecer um lugar diferente. O vídeo trata o world building como equivalente a criar uma locação real para a produção.
+
+08:22–10:27 — Produção: combinação de ativos
+
+Na produção, o criador combina referências de personagem e local em um modelo de vídeo identificado como Cinema Studio 3.5.
+
+A entrada pode incluir:
+
+•
+character sheet;
+
+•
+imagem do local;
+
+•
+imagem inicial da composição;
+
+•
+descrição da ação;
+
+•
+movimento de câmera;
+
+•
+estilo de iluminação;
+
+•
+intenção emocional.
+
+A principal diferença entre uma geração aleatória e uma cena controlada é o uso de ativos fixos. O prompt não precisa recriar toda a identidade do zero; as imagens de referência fornecem um ponto de partida visual.
+
+O vídeo também mostra o uso desse processo em um anúncio para a chuteira Nike Tiempo. A estética é tratada como um comercial de perfume ou produto premium, com close-ups, gotas de água, luz controlada e atenção à textura do objeto.
+
+10:28–12:28 — Técnica 1: usar um Start Frame
+
+A primeira técnica avançada é começar o vídeo com um quadro inicial definido. O exemplo é uma cena complexa de conversa com Cristiano Ronaldo.
+
+Em vez de deixar o modelo inventar o primeiro frame, o criador fornece uma imagem de referência já composta. O vídeo começa a partir dessa imagem e desenvolve o movimento.
+
+O Start Frame ajuda a controlar:
+
+•
+quem aparece;
+
+•
+posição dos personagens;
+
+•
+enquadramento;
+
+•
+ambiente;
+
+•
+direção da luz;
+
+•
+composição inicial;
+
+•
+relação espacial;
+
+•
+aparência do produto ou uniforme.
+
+Essa técnica é especialmente útil quando a cena precisa começar em uma composição específica. O primeiro frame funciona como uma âncora de continuidade.
+
+O resultado ainda pode mudar durante o movimento, mas o início fica mais próximo do planejado. O criador recomenda usar isso em cenas com muitas relações espaciais ou com uma posição inicial difícil de descrever somente por texto.
+
+12:29–13:20 — Técnica 2: referências de identidade
+
+A segunda técnica é anexar imagens de referência dos personagens ao gerar novos vídeos.
+
+O objetivo é impedir que o modelo troque o rosto, misture identidades ou transforme um personagem em outro ao longo da sequência.
+
+O fluxo consiste em:
+
+1.
+separar a referência de cada personagem;
+
+2.
+indicar qual imagem corresponde a qual pessoa;
+
+3.
+explicar a relação entre os personagens;
+
+4.
+descrever a ação sem alterar a identidade;
+
+5.
+gerar a cena e revisar os rostos.
+
+Essa técnica é diferente de simplesmente escrever o nome do personagem. A referência visual fornece informação que o texto não consegue capturar com precisão.
+
+13:21–13:58 — Técnica 3: Start Frame combinado com Character Sheet
+
+Em cenas de grupo, o criador combina o quadro inicial com as folhas de personagem.
+
+Essa combinação serve a duas funções:
+
+•
+o Start Frame controla composição, número de pessoas e posição inicial;
+
+•
+o Character Sheet controla identidade, rosto, roupa e aparência de cada personagem.
+
+A técnica é demonstrada em uma cena de vestiário com vários jogadores, fumaça ou atmosfera e múltiplas pessoas no mesmo espaço.
+
+Quanto mais personagens aparecem, maior o risco de o modelo misturar rostos ou trocar roupas. Por isso, as referências devem ser separadas e identificadas com clareza.
+
+13:59–14:47 — Técnica 4: storyboard completo para anúncio de produto
+
+A quarta técnica consiste em criar um grid de imagens que funciona como storyboard completo para um comercial de produto.
+
+O exemplo usa uma chuteira Nike Tiempo. O grid pode conter:
+
+•
+plano geral do produto;
+
+•
+close-up de textura;
+
+•
+gotas de água;
+
+•
+sola e detalhes de material;
+
+•
+produto em movimento;
+
+•
+interação com o atleta;
+
+•
+plano final de marca.
+
+Esse processo permite planejar o anúncio antes de gerar as cenas. O produto não aparece de forma aleatória; cada plano cumpre uma função de venda.
+
+A estética de comercial de perfume é usada para valorizar luz, material, detalhe, contraste e ritmo. O produto precisa parecer premium, mas também deve manter forma, marca e proporções.
+
+14:48–15:56 — Edição no Premiere
+
+Na etapa de edição, o criador mostra a timeline no Adobe Premiere. Ele descreve o processo como relativamente simples depois que os ativos e clipes estão prontos: empilhar, cortar e organizar os planos pelo ritmo da história.
+
+O plugin ou integração da Higgsfield para Premiere pode ajudar a importar cenas, gerar novas versões ou retornar à etapa de criação sem sair do software de edição.
+
+A edição envolve:
+
+•
+ordenar os clipes;
+
+•
+cortar sobras;
+
+•
+escolher os melhores takes;
+
+•
+sincronizar música e efeitos;
+
+•
+ajustar ritmo;
+
+•
+conectar cenas de diferentes idades;
+
+•
+equilibrar produto e narrativa;
+
+•
+regenerar um plano quando a tomada não funciona.
+
+A IA não elimina a necessidade de montagem. Uma sequência só se torna anúncio quando os planos formam uma progressão compreensível e emocional.
+
+15:57–final — Conclusão
+
+O criador convida o público para sua comunidade NextGen AI e oferece acesso a prompts ou ativos relacionados ao processo.
+
+A conclusão reforça que a produção de vídeo com IA deve ser tratada como um fluxo organizado. A chave não é apertar um botão e esperar um filme completo, mas criar referências, planejar o mundo, controlar os frames e editar os resultados.
+
+3. Transcrição limpa organizada por assuntos
+
+Esta seção é uma reconstrução condensada da fala, não uma transcrição literal.
+
+Abertura
+
+“A Copa do Mundo é um dos maiores eventos do mundo e as marcas investem muito em anúncios para esse momento. Eu queria descobrir o que conseguiria fazer usando somente IA.”
+
+“Este curta mostra um garoto que sonha em ser jogador e finalmente chega à seleção holandesa. Tudo o que vocês viram foi criado com IA: personagens, lugares e história.”
+
+As três fases
+
+“Vou dividir o processo em pré-produção, produção e edição. O erro de muita gente é ir direto para o vídeo. Antes disso, precisamos saber qual é a história e quais ativos serão usados.”
+
+História
+
+“A ideia veio de um sonho de infância. Eu queria ser jogador de futebol, então construí uma história que acompanha o personagem desde criança até o futebol profissional.”
+
+“O arco precisa mostrar evolução. Não são apenas cenas soltas; cada cena deve representar uma etapa do caminho.”
+
+Personagens
+
+“Personagens são fundamentais. Criei sheets de mim mesmo em diferentes idades. Usei uma opção mais barata para testar e reservei modelos mais caros para os resultados finais.”
+
+“A qualidade da entrada é tão importante quanto a qualidade da saída. Se a referência inicial for ruim, o vídeo também terá mais dificuldade de manter consistência.”
+
+Organização
+
+“Coloquei os personagens e suas variações em um quadro no Figma. Assim, sei qual versão usar em cada fase da história e consigo encontrar rapidamente as referências.”
+
+Storyboard e moodboard
+
+“Usei um modelo de linguagem para desenvolver a história e criar ideias de storyboard. Isso ajudou a pensar em cores, ângulos e estilo antes de gastar créditos gerando cenas.”
+
+Locais
+
+“Depois dos personagens, precisamos construir o mundo. Criei os lugares onde a história acontece e usei Multi-shot para obter diferentes ângulos do mesmo local.”
+
+“Isso ajuda a fazer o ambiente parecer o mesmo quando a câmera muda.”
+
+Produção
+
+“Na produção, combinamos a referência do personagem, a referência do local e o movimento que queremos ver. O modelo de vídeo usa esses elementos para criar a cena.”
+
+Start Frame
+
+“Para uma cena complexa com Ronaldo, comecei com uma imagem de referência. O Start Frame garante que o vídeo comece exatamente com a composição que eu planejei.”
+
+Referências de identidade
+
+“Quando existem vários personagens, use imagens separadas para cada um. Isso reduz a chance de a IA misturar os rostos.”
+
+Character Sheet e cenas de grupo
+
+“Para cenas com muitas pessoas, combino o Start Frame com as character sheets. O primeiro controla a composição e as sheets ajudam a preservar cada identidade.”
+
+Produto
+
+“Para o anúncio da chuteira, criei um storyboard em grid. Cada imagem representa um plano do comercial: textura, gotas, detalhes e produto em destaque.”
+
+Edição
+
+“Depois, a edição consiste em empilhar os clipes, fazer cortes de ritmo e escolher os melhores resultados. O plugin ajuda a importar e regenerar cenas sem sair do Premiere.”
+
+Conclusão
+
+“Com uma boa pré-produção, fica muito mais fácil criar vídeos consistentes. A organização de personagens, locais, frames e storyboards economiza créditos e torna a produção controlável.”
+
+4. Workflow completo reproduzível
+
+Fase 1 — Conceito e arco
+
+1.
+Escolha o objetivo do vídeo: anúncio, curta, trailer ou apresentação de produto.
+
+2.
+Defina a emoção que o público deve sentir.
+
+3.
+Escreva a premissa em uma frase.
+
+4.
+Crie o arco do personagem.
+
+5.
+Divida a história em começo, desenvolvimento e final.
+
+6.
+Liste as cenas necessárias.
+
+7.
+Defina o produto ou mensagem que precisa aparecer.
+
+Fase 2 — Character design
+
+1.
+Defina os personagens principais.
+
+2.
+Determine idade, roupas, cabelo, marcas e postura.
+
+3.
+Crie uma imagem base de alta qualidade.
+
+4.
+Gere uma character sheet com frente, costas, perfil e três quartos.
+
+5.
+Faça versões para cada idade ou fase da história.
+
+6.
+Elimine acessórios frágeis ou desnecessários.
+
+7.
+Nomeie os arquivos de forma clara.
+
+8.
+Organize tudo no Figma ou em outro quadro visual.
+
+Exemplo de nomenclatura:
+
+Plain Text
+
+
+personagem_principal_06_anos_sheet
+personagem_principal_15_anos_sheet
+personagem_principal_18_anos_sheet
+personagem_principal_profissional_sheet
+personagem_treinador_sheet
+personagem_adversario_sheet
+
+
+
+Fase 3 — Moodboard e storyboard
+
+1.
+Peça a um LLM para transformar a história em cenas.
+
+2.
+Descreva a função emocional de cada plano.
+
+3.
+Defina paleta de cores por fase.
+
+4.
+Escolha referências de cinematografia.
+
+5.
+Planeje enquadramento, lente e movimento.
+
+6.
+Crie um grid de storyboard.
+
+7.
+Inclua planos de transição e planos de produto.
+
+8.
+Revise o storyboard antes de gerar vídeos.
+
+Fase 4 — World building
+
+1.
+Liste todas as locações.
+
+2.
+Crie uma imagem base de cada uma.
+
+3.
+Gere variações de ângulo com Multi-shot.
+
+4.
+Preserve materiais, luz, arquitetura e objetos-chave.
+
+5.
+Nomeie cada ângulo.
+
+6.
+Relacione cada local às cenas do storyboard.
+
+Fase 5 — Geração de cenas
+
+Para cada cena:
+
+1.
+Escolha o personagem correto.
+
+2.
+Escolha o local correto.
+
+3.
+Defina se haverá Start Frame.
+
+4.
+Anexe referências de identidade.
+
+5.
+Descreva a ação e o movimento.
+
+6.
+Defina câmera e estilo.
+
+7.
+Gere uma versão de teste com custo menor.
+
+8.
+Corrija o prompt ou a referência.
+
+9.
+Gere a versão final com modelo de maior qualidade.
+
+10.
+Salve o clipe com o número da cena.
+
+Fase 6 — Edição
+
+1.
+Importe todos os clipes.
+
+2.
+Organize por ordem narrativa.
+
+3.
+Faça uma seleção dos melhores takes.
+
+4.
+Corte planos longos ou com artefatos.
+
+5.
+Ajuste ritmo e duração.
+
+6.
+Inclua música, sons e possíveis diálogos.
+
+7.
+Faça a mensagem do produto aparecer com clareza.
+
+8.
+Revise continuidade entre idades e locais.
+
+9.
+Exporte uma versão de revisão.
+
+10.
+Corrija cenas antes do master.
+
+5. Prompts reutilizáveis
+
+5.1 Prompt para criar character sheet
+
+Plain Text
+
+
+Create a high-quality photorealistic character sheet of [CHARACTER DESCRIPTION], wearing [WARDROBE].
+
+Show the same character consistently in:
+- front view;
+- back view;
+- left profile;
+- right profile;
+- three-quarter view;
+- detailed face close-up;
+- full-body view.
+
+Use a neutral grey background and clean consistent lighting. Preserve the same facial structure, hairstyle, skin tone, age, body proportions, clothing, colors, and essential accessories in every view. The sheet is a production reference for multiple AI video shots.
+
+Do not recast the character. Do not beautify or alter the identity. Do not add distracting small accessories. No text, no watermark, no extra people, no inconsistent clothing.
+
+
+
+5.2 Prompt para diferentes idades
+
+Plain Text
+
+
+Create a consistent age progression sheet for the same original character at these stages:
+1. age 6;
+2. age 15;
+3. age 18;
+4. professional adult.
+
+The person must clearly remain the same individual across all ages. Preserve recognizable facial structure, eyes, nose, smile, skin tone, hairline logic, and emotional identity while making age-appropriate changes to height, face shape, body proportions, hairstyle, and wardrobe.
+
+Show front, profile, three-quarter, and close-up views for each age. Use a neutral background and consistent lighting. Avoid random recasting, generic faces, exaggerated aging, or unrelated facial features.
+
+
+
+5.3 Prompt para construir local com Multi-shot
+
+Plain Text
+
+
+Create a consistent cinematic location sheet for [LOCATION].
+
+Show the same environment from multiple movie-style angles:
+- establishing wide shot;
+- front angle;
+- left side angle;
+- right side angle;
+- rear angle;
+- medium interaction area;
+- close-up of important textures and objects.
+
+Preserve architecture, materials, colors, lighting direction, time of day, weather, scale, doors, windows, furniture, ground texture, and permanent background elements in every angle. This is a reference set for generating multiple video shots in the same location.
+
+No layout changes, no random objects, no inconsistent weather, no different architecture, no text, no watermark.
+
+
+
+5.4 Prompt para cena cinematográfica com personagem e local
+
+Plain Text
+
+
+Create a cinematic video scene using the attached character reference and the attached location reference.
+
+CHARACTER
+Use the exact identity, face, age, hairstyle, wardrobe, body proportions, and accessories from the character sheet. Do not recast or beautify the character.
+
+LOCATION
+Preserve the architecture, materials, lighting, color palette, scale, and permanent objects from the location reference.
+
+ACTION
+The character [DESCRIBE THE ACTION] from beginning to end. Show a clear physical progression: [BEAT 1], then [BEAT 2], then [BEAT 3]. Keep the movement physically plausible and maintain continuity.
+
+CAMERA
+Use [SHOT TYPE] with a [LENS] lens. Start with [INITIAL FRAME], then [CAMERA MOVEMENT]. Keep the main action readable. Use [FOCUS CHANGE] when [TRIGGER].
+
+STYLE
+[DOCUMENTARY/CINEMATIC/SPORTS COMMERCIAL/PREMIUM PRODUCT AD]. Realistic lighting, natural motion, coherent depth of field, controlled color grade, high production value.
+
+
+
+5.5 Prompt para estilo documentário
+
+Plain Text
+
+
+Create a photorealistic handheld documentary-style shot in [LOCATION].
+
+The camera is discreet and observational, as if filmed by a real documentary crew. Use natural real-time movement, slight focus hunting, a small imperfect punch-in, careful reframing, subtle handheld instability, realistic exposure changes, and believable ambient light.
+
+The character is [DESCRIPTION] and performs [ACTION]. Preserve identity, clothing, location, and physical continuity. Do not make the movement overly smooth, glossy, weightless, or commercial unless explicitly requested.
+
+
+
+5.6 Prompt para Start Frame
+
+Plain Text
+
+
+Use the attached image as the exact Start Frame for the video.
+
+Begin with the same composition, character positions, facial identities, wardrobe, location, lighting direction, camera height, lens perspective, and object placement shown in the reference. Do not reinterpret or redesign the opening frame.
+
+From this starting point, animate the scene as follows:
+[DESCRIBE THE MOTION IN TEMPORAL BEATS]
+
+Maintain continuity as the scene develops. Preserve faces, hands, clothing, props, architecture, and lighting. The movement must grow naturally from the first frame. No sudden recasting, no background changes, no extra characters, no object morphing.
+
+
+
+5.7 Prompt para cena com vários personagens
+
+Plain Text
+
+
+Create a group scene using the attached Start Frame and the separate identity references.
+
+Character A: [REFERENCE FILE / DESCRIPTION]
+Character B: [REFERENCE FILE / DESCRIPTION]
+Character C: [REFERENCE FILE / DESCRIPTION]
+
+Keep each identity separate and consistent. Do not merge faces, swap clothing, duplicate people, or assign one character’s features to another.
+
+The group begins in [COMPOSITION]. Then [ACTION BEAT 1], [ACTION BEAT 2], and [ACTION BEAT 3]. Preserve the number of characters, their relative positions, the environment, and the intended lighting throughout the shot.
+
+
+
+5.8 Prompt para anúncio de produto
+
+Plain Text
+
+
+Create a premium cinematic product commercial for [PRODUCT].
+
+PRODUCT PRIORITY
+Preserve exact product shape, proportions, materials, colors, logo placement, stitching, texture, sole, surface details, and recognizable design. Do not invent or distort branding.
+
+SHOT PLAN
+1. Establish the product and environment.
+2. Reveal a close-up of [DETAIL].
+3. Show [MATERIAL/EFFECT, such as water droplets] interacting realistically with the product.
+4. Transition to [ATHLETE/HAND/USER] using the product.
+5. End with a clean hero shot and clear brand/product presentation.
+
+STYLE
+Premium sportswear campaign with perfume-commercial lighting, controlled highlights, rich but accurate color, elegant camera movement, shallow depth of field, macro details, and cinematic sound.
+
+Keep the product consistent across every shot and use the storyboard grid as the shot order.
+
+
+
+5.9 Prompt para um LLM criar storyboard
+
+Plain Text
+
+
+Atue como diretor de criação, roteirista e diretor de fotografia.
+
+Transforme a ideia abaixo em um storyboard de anúncio de [DURAÇÃO].
+
+IDEIA
+[COLE A PREMISSA]
+
+PRODUTO OU MARCA
+[DESCRIÇÃO]
+
+PÚBLICO
+[DESCRIÇÃO]
+
+Crie uma tabela conceitual com, para cada plano:
+- número da cena;
+- duração aproximada;
+- fase da história;
+- personagem e idade;
+- local;
+- ação;
+- emoção;
+- enquadramento;
+- lente sugerida;
+- movimento de câmera;
+- iluminação;
+- paleta de cores;
+- som ou música;
+- função narrativa;
+- produto visível ou não;
+- referência necessária;
+- risco de inconsistência.
+
+O arco deve ter começo, progressão e conclusão. Não crie planos bonitos sem função. Inclua transições que possam ser produzidas com referências de personagem, local e Start Frame.
+
+
+
+6. Como economizar créditos
+
+O vídeo destaca que geração de vídeo é cara e pode exigir várias tentativas. Algumas práticas reduzem desperdício:
+
+1.
+Planejar a história antes de gerar.
+
+2.
+Criar character sheets uma vez e reutilizá-las.
+
+3.
+Criar referências de local antes da produção.
+
+4.
+Usar modelos mais econômicos para exploração.
+
+5.
+Aprovar o storyboard antes de pedir vídeos finais.
+
+6.
+Testar somente um trecho curto antes de gerar a cena completa.
+
+7.
+Usar Start Frame para cenas com composição difícil.
+
+8.
+Salvar versões e prompts que funcionaram.
+
+9.
+Regenerar apenas a cena problemática, não o anúncio inteiro.
+
+10.
+Reservar modelos mais caros para planos importantes.
+
+7. Organização recomendada de arquivos
+
+Plain Text
+
+
+projeto_anuncio/
+├── 00_brief/
+│   ├── conceito.md
+│   ├── arco_narrativo.md
+│   └── requisitos_produto.md
+├── 01_characters/
+│   ├── personagem_06_sheet.png
+│   ├── personagem_15_sheet.png
+│   ├── personagem_18_sheet.png
+│   └── personagem_profissional_sheet.png
+├── 02_locations/
+│   ├── quarto_multi_shot.png
+│   ├── campo_rua_multi_shot.png
+│   ├── vestiario_multi_shot.png
+│   └── estadio_multi_shot.png
+├── 03_moodboard_storyboard/
+│   ├── moodboard.png
+│   ├── storyboard_grid.png
+│   └── storyboard_prompts.md
+├── 04_start_frames/
+│   ├── cena_01_start.png
+│   ├── cena_02_start.png
+│   └── cena_03_start.png
+├── 05_video_generations/
+│   ├── cena_01_take_01.mp4
+│   ├── cena_01_take_02.mp4
+│   └── cena_02_take_01.mp4
+├── 06_edit/
+│   ├── projeto_premiere.prproj
+│   ├── projeto_v01.prproj
+│   └── exports_review/
+└── 07_final/
+
+
+
+8. Limitações e pontos de atenção
+
+•
+A consistência de personagem pode falhar em cenas com muitos atores, movimentos rápidos ou ângulos extremos.
+
+•
+Start Frame controla o começo, mas não garante que todos os frames seguintes permanecerão idênticos.
+
+•
+Uma referência de local com baixa qualidade pode gerar arquitetura ou iluminação inconsistente.
+
+•
+Modelos mais baratos são úteis para exploração, mas podem não ter a mesma qualidade da versão final.
+
+•
+Marcas, logos e produtos reais podem sofrer distorções; é necessário conferir forma e identidade visual.
+
+•
+Cenas com pessoas reais ou figuras públicas exigem atenção a direitos, consentimento e uso comercial. O vídeo usa uma cena com Ronaldo como demonstração; isso não significa que qualquer uso comercial de uma pessoa real esteja automaticamente autorizado.
+
+•
+O fato de um anúncio ser “100% gerado por IA” não elimina a necessidade de edição, seleção e controle humano.
+
+•
+Diálogos em outros idiomas ou falas geradas como algaravia podem não ter significado linguístico verificável. A análise do vídeo identifica esse ponto em parte das cenas de vestiário.
+
+•
+O nome exato e a disponibilidade de modelos, plugins e integrações podem mudar. Confirme no ambiente atual antes de reproduzir o fluxo.
+
+9. Checklist final
+
+História
+
+
+
+
+A premissa cabe em uma frase.
+
+
+
+
+O protagonista tem um objetivo.
+
+
+
+
+Existe progressão emocional.
+
+
+
+
+Cada cena tem função narrativa.
+
+
+
+
+O produto aparece em momentos planejados.
+
+Personagens
+
+
+
+
+Existe uma imagem base de boa qualidade.
+
+
+
+
+Há character sheets para cada idade.
+
+
+
+
+Os personagens estão identificados.
+
+
+
+
+Roupas e acessórios essenciais foram definidos.
+
+
+
+
+A identidade é preservada nas referências.
+
+Locais
+
+
+
+
+Todas as locações foram listadas.
+
+
+
+
+Cada local tem referência principal.
+
+
+
+
+Há ângulos alternativos do mesmo ambiente.
+
+
+
+
+Luz, materiais e arquitetura estão consistentes.
+
+Storyboard
+
+
+
+
+O anúncio tem começo, meio e fim.
+
+
+
+
+Os planos têm duração prevista.
+
+
+
+
+Os movimentos de câmera foram planejados.
+
+
+
+
+Há plano geral, ação e detalhes de produto.
+
+
+
+
+As cenas mais difíceis têm Start Frame.
+
+Produção
+
+
+
+
+Cada cena usa o personagem correto.
+
+
+
+
+Cada cena usa o local correto.
+
+
+
+
+Referências estão anexadas e identificadas.
+
+
+
+
+O prompt descreve movimento, não apenas aparência.
+
+
+
+
+Foram geradas variações antes da seleção final.
+
+Edição
+
+
+
+
+Os melhores takes foram selecionados.
+
+
+
+
+Os cortes seguem o arco emocional.
+
+
+
+
+Os planos de produto são legíveis.
+
+
+
+
+Som e música sustentam o ritmo.
+
+
+
+
+A continuidade entre idades e locais foi verificada.
+
+
+
+
+A versão final foi assistida do começo ao fim.
+
+10. Conclusão final
+
+O vídeo apresenta a criação de anúncios com IA como uma produção cinematográfica completa, e não como uma única geração automática. O resultado depende de pré-produção, ativos de referência, controle de identidade, construção de mundo, storyboard, Start Frames e edição.
+
+A técnica mais importante é preparar tudo antes da geração: personagens, idades, locais, ângulos, produto e sequência de planos. Quando essas referências estão organizadas, o modelo tem menos liberdade para inventar e mais informação para preservar consistência.
+
+O princípio que pode ser aplicado a qualquer ferramenta é simples: planeje como diretor, construa referências como designer de produção, gere como operador de câmera e edite como montador. A IA acelera a realização, mas a coerência do filme nasce das decisões tomadas antes do botão de gerar.
+
+Referências
+
+[1] How To Create Cinematic AI Ads – Full AI Video Course

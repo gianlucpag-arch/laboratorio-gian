@@ -1,0 +1,4 @@
+interface:
+  display_name: "Criação de vídeos com IA"
+  short_description: "Roteiros, prompts, câmera e produção com IA"
+  default_prompt: "Use $criar-videos-ia para transformar minha ideia em um vídeo com IA, preservando o personagem e adaptando o fluxo à ferramenta escolhida."

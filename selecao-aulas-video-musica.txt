@@ -1,0 +1,82 @@
+**O melhor caminho que recomendo é aprender um processo completo: planejar, gerar por partes, corrigir e finalizar.** Para vídeo, isso significa trabalhar por planos e usar referências visuais. Para música, significa dirigir composição, voz e arranjo, depois editar os trechos e instrumentos.
+
+Pesquisei fontes oficiais e aulas com procedimentos demonstráveis. A seleção abaixo prioriza **confiabilidade, aplicação prática e documentação disponível**, conferida em **18/10/2026**. Validei os materiais e os recursos descritos; não executei testes comparativos nem assisti integralmente a todas as aulas, portanto não seria correto declarar um gerador como campeão absoluto.
+
+**1. Os vídeos e cursos que eu priorizaria**
+
+| Material | Por que vale estudar | Prioridade |
+|---|---|---|
+| **[Runway — Getting Started with Gen-4.5 Image to Video](https://academy.runwayml.com/tutorial/gen-45-image-to-video)** | Aula oficial para transformar uma imagem em vídeo. É uma boa entrada para aprender a dirigir movimento a partir de uma composição visual definida. | Comece aqui para vídeo |
+| **[Adobe — Create cinematic video from prompts and keyframes](https://www.adobe.com/learn/firefly/web/create-ai-video-with-text-prompts?learnIn=1)** | Tutorial em vídeo com transcrição. Demonstra enquadramento, ação, câmera e imagens de início e fim. Permite acompanhar o procedimento por escrito. | Fundamentos de direção |
+| **[Runway — Character Animation with Act-Two](https://academy.runway.com/course/character-animation-act-two)** | Curso oficial sobre transferência de expressões e gestos para personagens. Útil quando a atuação exige uma referência de performance. | Personagens e interpretação |
+| **[Suno — Introducing Suno Studio 2.0](https://www.youtube.com/watch?v=GZHp3WFc9Ps)** | Vídeo indicado pela documentação oficial atual para conhecer o ambiente de produção do Studio 2.0. | Comece aqui para música |
+| **[Suno — Complete Beginner’s Guide](https://www.youtube.com/watch?v=qR4BefPvSiI)** | Aula oficial com capítulos sobre stems, edição, gravação e criação de instrumentos. **É da versão anterior:** use para fundamentos e consulte o material 2.0 para a interface atual. | Complemento prático |
+
+A maior parte dessa seleção está em inglês. Priorizei a origem e a possibilidade de conferir o procedimento; os materiais da Adobe e os guias escritos ajudam a estudar com tradução do navegador.
+
+**2. As documentações mais úteis para consultar durante a produção**
+
+| Fonte | O que você encontra |
+|---|---|
+| **[Runway — Prompting Guide](https://academy.runwayml.com/guides/prompting-guide)** | Como começar com instruções simples, acrescentar detalhes e descrever movimento, câmera e progressão temporal. |
+| **[Google DeepMind — Guia de prompts do Veo](https://deepmind.google/models/veo/prompt-guide/)** | Exemplos de enquadramento, iluminação, estilo, personagens e direção de som. |
+| **[Google Flow — Criar vídeos](https://support.google.com/flow/answer/16353334?hl=pt-BR)** | Fluxos com texto, referências e quadros de início e fim. |
+| **[Kling — Motion Control User Guide](https://kling.ai/quickstart/motion-control-user-guide)** | Como combinar imagem de personagem com vídeo de movimento; inclui orientações de enquadramento e limitações das referências. |
+| **[Suno — Studio 2.0](https://help.suno.com/en/articles/13670529)** | Edição, efeitos, automação, MIDI, exportação e problemas conhecidos. |
+| **[Suno — Separação de stems](https://help.suno.com/en/articles/13925185)** | Como separar voz e instrumentos, com diferenças de acesso e custo entre os modos. |
+| **[Eleven Music — Boas práticas](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** | Direção de gênero, clima, instrumentos, andamento, voz e estrutura musical. |
+| **[ElevenLabs — Text to Speech](https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech)** | Narração, pronúncia e controle de interpretação. Explica diferenças entre modelos, inclusive no uso de pausas. |
+
+**Minha seleção para começar:** Runway e Adobe para fundamentos de vídeo; Veo/Flow para direção audiovisual; Kling ou Act-Two para performance; Suno para desenvolver canções; Eleven Music para estudar direção musical por seções. São escolhas por função, não um ranking de qualidade visual ou sonora.
+
+**3. A melhor forma de produzir vídeos com IA**
+
+Minha recomendação de trabalho, baseada nesses guias, é:
+
+1. **Escreva uma cena clara.** Defina o que acontece, o que o público precisa entender e qual emoção você quer provocar.
+2. **Divida em planos.** Cada plano deve ter uma ação principal e uma intenção de câmera.
+3. **Prepare as referências.** Aprove personagem, roupa, cenário e iluminação antes de animar. Em projetos com continuidade, mantenha um pequeno banco de imagens aprovadas.
+4. **Escolha o modo pela necessidade.** Imagem para vídeo quando a composição inicial importa; texto para vídeo para explorar cenas; referência de performance quando gestos e atuação forem centrais.
+5. **Gere e compare variações controladas.** Mude uma instrução relevante por vez para descobrir o que resolveu o problema.
+6. **Monte, revise e finalize.** Avalie continuidade, anatomia, movimento, cortes e áudio no contexto da sequência.
+
+O guia do Runway recomenda começar simples e iterar. Para imagem para vídeo, a imagem já fornece parte da aparência: o texto deve se concentrar principalmente no movimento desejado. O Flow documenta o uso de referências e quadros para orientar a geração. [Runway](https://academy.runwayml.com/guides/prompting-guide), [Google Flow](https://support.google.com/flow/answer/16353334?hl=pt-BR).
+
+Uma estrutura prática de instrução é:
+
+> **Enquadramento + ação do sujeito + movimento de câmera + ritmo + estado final.**
+
+Exemplo meu, para adaptar ao modelo:
+
+> Plano médio. A personagem fecha o caderno, levanta os olhos e sorri discretamente. A câmera se aproxima lentamente. Movimento suave, com uma breve pausa ao final.
+
+Para dança, gestos ou atuação específicos, estude referência de movimento. O Kling orienta combinar enquadramentos compatíveis e evitar cortes ou movimentos excessivamente rápidos na referência, conforme a versão utilizada. [Guia oficial de Motion Control](https://kling.ai/quickstart/motion-control-user-guide).
+
+**4. A melhor forma de produzir músicas com IA**
+
+Eu seguiria este processo:
+
+1. **Defina a função:** canção completa, trilha de vídeo, vinheta ou música de fundo.
+2. **Escolha a identidade musical:** gênero, emoção, instrumentos, andamento, tipo de voz e estética de produção.
+3. **Prepare letra e estrutura.** Para maior controle no Suno, use o modo Custom com sua própria letra. [Documentação de criação](https://help.suno.com/en/categories/550017).
+4. **Compare versões pelo refrão, melodia e interpretação.** Escolha a base que melhor atende à intenção.
+5. **Edite os trechos problemáticos.** Trabalhe introdução, versos, refrão e final conforme os controles disponíveis.
+6. **Separe os instrumentos quando precisar corrigir a mistura.** Stems são partes separadas do áudio e permitem trabalhar voz, bateria e outros elementos individualmente. [Guia do Suno](https://help.suno.com/en/articles/13925185).
+7. **Confira o resultado inteiro.** Ouça pronúncia, palavras omitidas, transições, equilíbrio e distorção.
+
+A documentação do Eleven Music recomenda especificar os elementos musicais e construir arranjos com instruções de sequência. Para controle mais preciso, apresenta planos de composição por seções. Isso sustenta o método, mas cada resultado precisa de avaliação auditiva. [Boas práticas oficiais](https://elevenlabs.io/docs/overview/capabilities/music/best-practices).
+
+Exemplo meu de briefing musical:
+
+> Pop brasileiro intimista, andamento moderado, violão de nylon, baixo suave e percussão discreta. Voz feminina próxima e delicada, cantando em português brasileiro. Primeiro verso contido, refrão mais aberto, final com redução gradual dos instrumentos.
+
+**Para videoclipe, eu aprovaria a música primeiro.** Depois marcaria versos, refrões e mudanças de energia para planejar as imagens. Se houver personagem cantando, faria um teste curto de sincronização labial antes de produzir todas as cenas.
+
+**5. O que a pesquisa mostrou que merece atenção**
+
+- **Udio:** a central oficial informa que os downloads de áudio, vídeo e stems estão desativados. Por isso, eu não o escolheria como base de um projeto que precisa exportar arquivos para montagem. [Comunicado oficial](https://help.udio.com/en/articles/12683565-changes-associated-with-the-universal-music-group-umg-partnership).
+- **Suno:** o comunicado de setembro de 2026 vincula o uso comercial às músicas baixadas como assinante pago e introduz limites de download. Tutoriais antigos podem apresentar regras diferentes. [Atualização oficial](https://www.suno.com/blog/suno-updates-tos).
+- **Studio 2.0:** está incluído no Premier; a documentação também reconhece possíveis problemas de alinhamento rítmico nas novas gerações. Confira o tempo dos instrumentos durante a edição. [Documentação oficial](https://help.suno.com/en/articles/13670529).
+- **Recursos de vídeo variam por modelo:** referências, duração, extensão e quadros inicial/final não estão disponíveis da mesma forma em todas as opções. Confira a tabela antes de gastar créditos. [Modelos e recursos do Flow](https://support.google.com/flow/answer/16352836?hl=pt-BR).
+
+**Minha ordem de estudo seria:** aula de imagem para vídeo do Runway → tutorial da Adobe → guia do Veo → introdução ao Suno Studio 2.0 → guia de direção musical do Eleven Music. Depois, faça um projeto pequeno: **uma música curta e uma sequência de três planos**, registrando o que funcionou e o custo das tentativas aproveitadas.

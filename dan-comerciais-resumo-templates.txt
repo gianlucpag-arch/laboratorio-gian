@@ -1,0 +1,69 @@
+Com base no vídeo "How To Create Cinematic AI Ads - Full AI Video Course" de Dan Kieft, aqui estão os 3 formatos completos e detalhados para você salvar e aplicar as técnicas de criação de comerciais cinematográficos com IA.
+
+---
+
+### 1. Resumo Super Detalhado em Tópicos (A Metodologia Completa)
+
+**O Conceito Principal (Estilo Comercial Nike/World Cup)**
+
+* **O Objetivo:** Criar um anúncio em formato de vídeo de alto nível (estilo campanha da Nike para a Copa do Mundo) totalmente gerado por IA — incluindo personagens, cenários, narrativa e atuações.
+* **A Fundamentação da História:** Todo grande anúncio precisa de um ganho emocional ou narrativa de superação (no caso do autor, o sonho de infância frustrado de se tornar jogador de futebol, resolvido através da IA colocando-se como atleta da seleção holandesa e contratado pela Nike).
+
+**Passo 1: Pré-Produção e Criação de Personagens**
+
+* **Construção de Lore:** Um bom vídeo precisa de personagens marcantes. Defina a história, o visual e as idades (o autor criou variações de si mesmo aos 6, 15, 18 anos e na fase adulta).
+* **Character Sheets:** Utilize ferramentas como o *Nano Banana Pro* ou *GPT Image 2* no Hicksfield para gerar folhas de personagem com fundo cinza neutro (frente, costas e close-up).
+* **AI Cast:** Caso esteja criando personagens do zero, utilize o recurso *AI Cast / Cinematic Locations* no Cinema Studio do Hicksfield para gerar elencos e locações rapidamente com prompts vagos.
+
+**Passo 2: World Building (Locações e Moodboards)**
+
+* Utilize o assistente de IA (como o *Supercomputer* ou Claude) para transformar suas ideias em storyboards e moodboards antes de gastar créditos gerando vídeos.
+* No Cinema Studio, gere múltiplos ângulos de uma locação (*Multi-shot*) para garantir consistência espacial (cenários de vestiários, túneis de estádios, campos de treinamento).
+* **Reference Bank:** Mantenha uma pasta organizada (ou use plugins como o do Figma ou pastas dedicadas no Hicksfield) para salvar todos os ativos visuais e prompts de referência.
+
+**Passo 3: Técnicas de Produção de Vídeo (Geração)**
+
+* **Técnica 1: Start Frame (Quadro Inicial):** Gere uma imagem de alta qualidade primeiro (ex: o autor conversando secretamente com o Cristiano Ronaldo após a partida em um corredor de estádio). Defina essa imagem como o *Start Frame* no gerador de vídeo (Kling ou Seedance) para forçar o modelo a respeitar a cena inicial enquanto cria o movimento.
+* **Técnica 2: Multi-References (Múltiplas Referências):** Suba os *Character Sheets* dos personagens, áudios ou vídeos na aba de mídias de referência do Seedance 2.5. Isso impede que a IA altere a fisionomia do ator durante a ação.
+* **Técnica 3: Storyboard de Campanha:** Para sequências complexas (como um anúncio de tênis com pegada de comercial de perfume), estruture a sequência de quadros em grade e deixe a IA interpolar e animar a narrativa geral.
+
+**Passo 4: Pós-Produção e Edição Final**
+
+* **Organização da Timeline:** Monte as cenas em blocos lógicos no Premiere Pro ou DaVinci Resolve.
+* **Plugin do Hicksfield:** Utilize o plugin oficial do Hicksfield para Premiere/DaVinci para importar e regenerar cenas diretamente de dentro do software de edição, economizando tempo precioso de fluxo de trabalho.
+
+---
+
+### 2. Prompt Estruturado (Para você copiar, preencher e usar)
+
+Para guiar o gerador de imagens e vídeos na criação de comerciais cinematográficos ultra-realistas, utilize estas estruturas:
+
+**Prompt para Geração de Personagem / Elenco (Character Sheet):**
+
+> `A photorealistic cinematic character sheet of a [Idade, ex: 26-year-old male athlete] wearing a [Descrição da Roupa, ex: custom Nike tracksuit with number 9]. Gray background, front view, back view, and a detailed close-up facial portrait. Shot on 35mm lens, dramatic studio lighting, high detail, 8k.`
+
+**Prompt de Vídeo Baseado em Start Frame (Exemplo do Túnel do Estádio):**
+
+> `A photorealistic handheld documentary-style shot in a stadium service corridor after a high-stakes match, filmed discreetly past a blurred staff member in the foreground. Grainy texture, showcasing a young player having a private, tense moment. Real-time motion, natural focus hunting, raw cinematic aesthetic. [Insira a imagem de referência como Start Frame].`
+
+---
+
+### 3. Transcrição Limpa e Organizada por Assuntos (Conteúdo Adaptado)
+
+**[00:00 - 02:40] Introdução e a Concepção da Campanha**
+O vídeo aborda a criação de um anúncio nos moldes das grandes produções da Nike para a Copa do Mundo, explorando a premissa de que qualquer pessoa pode construir uma narrativa visual de alto impacto usando inteligência artificial. O autor detalha a história base de sua jornada imaginária no futebol profissional até vestir a camisa da seleção nacional.
+
+**[02:40 - 06:40] Pré-Produção: Criando Elenco e Linha do Tempo**
+A criação de personagens exige profundidade (o autor gerou a si mesmo em 4 idades diferentes). Ele explica o uso do *Nano Banana Pro* para gerar Character Sheets precisos e demonstra como utilizar o recurso *AI Cast* do Hicksfield para povoar o cenário com treinadores e coadjuvantes de apoio sem esforço criativo excessivo.
+
+**[06:40 - 10:25] World Building e Gestão de Ativos (Reference Bank)**
+A construção do mundo exige locações fixas. Através do Cinema Studio, o autor gera dezenas de variações de interiores de luxo ou túneis de estádio, utilizando a função *Multi-shot* para extrair um grid de 4 ângulos perfeitos de uma só vez. Ele reforça a necessidade de centralizar tudo em um banco de referências organizado.
+
+**[10:25 - 14:50] As 3 Técnicas de Produção de Vídeo na Prática**
+
+* *Técnica 1 (Start Frame):* Como usar uma imagem impecável (gerada via GPT Image 2/Nano Banana) como ponto de partida travado no Kling ou Seedance.
+* *Técnica 2 (Reference Uploads):* O cuidado de alimentar a IA com as folhas de personagens corretas para evitar que o rosto do ator "derreta" ou mude no meio do take.
+* *Técnica 3 (Storyboard Completo):* A criação de sequências narrativas complexas para vídeos comerciais de produtos (como calçados).
+
+**[14:50 - Fim] Edição, Cenas de Bastidores e Conclusão**
+O vídeo se encerra detalhando o processo de montagem na linha do tempo, a integração fluida proporcionada pelo plugin do Hicksfield para softwares de edição, e o uso de falsas entrevistas de bastidores ("fictional behind-the-scenes") para dar ainda mais organicidade e realismo corporativo/publicitário ao projeto.

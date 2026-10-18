@@ -1,0 +1,658 @@
+
+Procurar no vídeo
+0:00
+influencers are taking over the AI
+0:01
+scene. Just look at Itana Lopez. She is
+0:04
+made by AI and her creators are making
+0:06
+over $10,000 a month, which is crazy if
+0:08
+you think about it. But here's the
+0:10
+issue. When most people try to create an
+0:12
+influencer like Itana, they end up with
+0:14
+this disaster. The eyes change, the
+0:16
+jawline is different. Even the
+0:18
+highlights in the hair are a slightly
+0:20
+different shade of color. Character
+0:22
+consistency is the biggest problem
+0:24
+people are dealing with when they try to
+0:25
+make their own AI influencer. And that's
+0:28
+the reason why 99% of people give up
+0:30
+before they even get started. Now look
+0:32
+at Itana again. She looks absolutely
+0:34
+identical in every single photo. So
+0:36
+what's her secret? The reason it looks
+0:39
+flawless while everyone else fails isn't
+0:41
+luck. Her creators are using a specific
+0:43
+method that they keep heavily guarded.
+0:45
+And honestly, I don't blame them. If
+0:47
+everyone cracks the code on character
+0:49
+consistency, Lopez's career might be
+0:51
+shortlived. But I'm obsessed with
+0:53
+figuring out how stuff works. So, after
+0:55
+trying every AI image generator on the
+0:58
+market and generating close to 1,000
+1:00
+images myself, I finally discovered the
+1:02
+secret that influencers like Itana are
+1:05
+using. With this method, I created this
+1:07
+influencer myself. She has perfect
+1:09
+character consistency in every single
+1:11
+generation, no matter what crazy
+1:13
+scenario I prompt her to be in. I
+1:15
+haven't seen anyone else on YouTube
+1:17
+talking about this method. So, if you
+1:19
+want your very own AI influencer and
+1:21
+want to start growing a real following
+1:23
+with her, make sure to follow these
+1:25
+exact steps in this video. Because if
+1:27
+you don't and you skip step three, your
+1:29
+influencer might end up looking like
+1:31
+this and not like this. The AI platform
+1:33
+we'll be using is called Open Art. And
+1:35
+if you want to follow along, I'll leave
+1:36
+a link to Open Art in the description
+1:38
+below. The most important thing is
+1:40
+creating a perfect looking avatar that
+1:42
+doesn't look obviously AI generated. To
+1:45
+do this, go to OpenArt homepage and
+1:47
+click on create image. Here you go to
+1:49
+model and click on switch. You'll see a
+1:51
+bunch of different image models and it
+1:53
+can get pretty overwhelming at first.
+1:55
+I've tried most of them and I've only
+1:56
+found two models that consistently
+1:58
+create the most realistic AI avatars.
+2:01
+So, in this video, I'll show you both
+2:03
+methods, but this is actually why I love
+2:06
+Open Art so much. There are so many
+2:08
+models to choose from. They have
+2:09
+Google's image in for model and they
+2:12
+even have Chedd's model. So, you don't
+2:14
+need a Chad Gypty subscription. The
+2:16
+first model we'll use is Flux Dev. So,
+2:18
+click on that. You'll see a prompt box
+2:20
+where you can describe your character.
+2:22
+Now, this is where most people go wrong.
+2:24
+They will type a 24 year old blonde
+2:26
+woman wearing a summer dress on a beach
+2:28
+and wonder why the results don't look
+2:30
+good. You need to be extremely detailed
+2:32
+about what you want your influencer to
+2:34
+look like, but do not over complicate
+2:35
+it. It's a fine balance, but I'll teach
+2:37
+you how to prompt correctly. So, here's
+2:40
+my prompt. Notice how specific I am
+2:42
+about every feature. I'm not just saying
+2:44
+a blonde woman. I'm describing exactly
+2:46
+what she looks like. I'm also avoiding
+2:48
+complex patterns like tattoos, logos, or
+2:51
+difficult jewelry, as that might confuse
+2:53
+the AI. For the settings, change your
+2:55
+prompt adherence to two. I'll explain
+2:57
+why in a second. Then change the aspect
+3:00
+ratio to vertical. Now, hit create. Look
+3:02
+at this result. If you follow my steps,
+3:04
+you'll notice this person doesn't have
+3:06
+that typical AI generation look. You
+3:08
+know, that plasticky fake appearance you
+3:10
+get with other AI image generators. And
+3:12
+that's why lowering the prompt adherence
+3:14
+to two is so important. It removes that
+3:17
+plastic edge from your images. I really
+3:19
+like this image already, but let me show
+3:20
+you the second method. This method is
+3:23
+great for replicating real life humans.
+3:25
+Go back to model and click on switch.
+3:27
+This time we'll use flux context. This
+3:30
+is the latest flux model and it has this
+3:32
+feature called omni reference that lets
+3:34
+us create something truly unique. So
+3:36
+let's use that. For this example, I'm
+3:39
+going to use Scarlett Johansson, Ariana
+3:41
+Grande, and Anna de Armas. What Omni
+3:43
+reference does is reference all of their
+3:45
+features, their hair, eyebrows, facial
+3:48
+structure, even their body type, and
+3:50
+creates a completely unique person based
+3:52
+on that combination. Let's use the same
+3:55
+prompt to really show the differences
+3:57
+between the two Flux engines. Hit
+3:59
+create. As you can see, the generation
+4:01
+is completely different from our first
+4:03
+example. I find that flux defaf works
+4:05
+best on text to image and flux context
+4:07
+works best using the omni reference
+4:09
+feature. Both methods will generate
+4:11
+varying results without that plasticky
+4:13
+look. Personally, I prefer flux defaf,
+4:15
+but you should try both methods and
+4:17
+decide which one you like better. Now,
+4:18
+we have an image of our AI influencer.
+4:21
+But before we move on to the next step,
+4:23
+here's where most people go wrong. They
+4:25
+completely forget about this crucial
+4:27
+step. If you zoom into our image right
+4:29
+here, you'll realize it isn't actually
+4:31
+high quality. We're going to use this
+4:33
+image as our core reference for all
+4:35
+future generations. So, if your
+4:36
+reference image is bad quality, all your
+4:38
+images will turn out blurry, vague, and
+4:41
+you will never get a good AI influencer
+4:43
+like Itana. But if you follow this step
+4:45
+that 99% people don't do, then you get a
+4:47
+result like this. Can you spot the
+4:49
+difference from the original to the
+4:51
+enhanced version? Yeah, that's the image
+4:53
+we want to use as a reference. There are
+4:54
+tons of image upscalers out there, but
+4:57
+Open Art has a built-in upscaler that
+4:59
+does an amazing job. So to upscale your
+5:02
+image, go to the upscale feature and
+5:04
+click on choose upscale mode. Then
+5:07
+select 2x plus face. It'll only cost you
+5:10
+one credit. So just apply it to every
+5:13
+image you generate. Click upscale and it
+5:15
+should only take about 10 seconds. Once
+5:17
+that's done, you can check the before
+5:19
+and after comparison on the top left,
+5:22
+and you can clearly see the noticeable
+5:24
+difference in quality. Now that you have
+5:26
+upscaled your image, it's time for the
+5:28
+next step. And the next step is super
+5:30
+important because this will make or
+5:32
+break your AI influencer. You see, if
+5:34
+you train your model with just a single
+5:36
+image, all your future results are going
+5:38
+to look the same. But if you train your
+5:40
+AI model with images of your avatar in
+5:43
+multiple angles, different lighting, and
+5:45
+various different expressions, then your
+5:47
+results are going to look more lively
+5:49
+and more humanlike. This is the key step
+5:52
+between creating an AI influencer that
+5:54
+looks obviously AI generated and
+5:56
+creating an influencer that looks
+5:57
+extremely lifelike. I'm certain the
+6:00
+people who created itana use similar
+6:02
+technique to this. Okay, so we
+6:04
+established that we need to create
+6:06
+multiple variations of our influencer.
+6:08
+So I'm going to prompt our character to
+6:10
+turn sideways so we have an image of her
+6:12
+from a different angle. I find the best
+6:14
+results come from simple prompting. So
+6:16
+I'll say rotate her slightly to see a
+6:19
+different angle. And now here's the most
+6:21
+important part. Add this prompt at the
+6:23
+end. Maintain the exact face,
+6:25
+expression, hair, outfit, and
+6:27
+background. This is absolutely crucial
+6:30
+for character consistency. If you don't
+6:32
+have this prompt, you might get a result
+6:34
+where your character looks slightly
+6:36
+different with every generation. So,
+6:37
+make sure you include this prompt at the
+6:39
+end. So, add that prompt and hit create.
+6:43
+As you can see, the result looks exactly
+6:45
+like our reference image. Her clothes
+6:47
+are identical and even her earrings and
+6:49
+necklace are the same. Now, one angle
+6:51
+isn't enough, so I'm going to generate
+6:53
+more, but this is where I see a lot of
+6:55
+people go wrong. Most people only
+6:57
+generate 12 to 15 different variations
+6:59
+and think that's good enough. I've
+7:01
+tested with 12 to 15 images, and I've
+7:03
+also tested with something crazy like 40
+7:06
+to 50 reference images. What I found is
+7:09
+that the more references you generate,
+7:11
+the more consistent your AI avatar will
+7:13
+be. So, I'd say go absolutely ham on
+7:16
+this step. For this video, we're going
+7:18
+to generate 40 images of her in
+7:20
+different poses, angles, and clothing.
+7:23
+Remember to always include that prompt
+7:25
+at the end. Most important section is
+7:27
+the exact face part. So, if I want to
+7:29
+generate her in sports attire, I' I'd
+7:31
+remove the word outfit from the end
+7:33
+prompt and click create. Now, you can
+7:35
+see that she's in a sports attire while
+7:37
+keeping perfect facial consistency. This
+7:39
+is going to take a while, so I'll be
+7:41
+back when I'm done generating
+7:42
+everything. Okay, I've finished
+7:44
+generating 40 different variations of my
+7:46
+character. Now, we go back to Open Art
+7:48
+homepage and in the storytelling
+7:50
+section, there's an option for
+7:52
+consistent character. Open Art has this
+7:54
+feature where they will use all the
+7:56
+reference images you've generated to
+7:57
+train an AI model specifically for your
+7:59
+character. This ensures nearperfect
+8:01
+consistency in every generation, no
+8:04
+matter what you prompt. So, click on
+8:06
+consistent character and then choose
+8:08
+start with four plus images. Upload all
+8:10
+your images here, but make sure the
+8:12
+first image is that core reference
+8:14
+image. Name your character. I will call
+8:16
+mine Lily and click create character.
+8:19
+This feature is what truly separates
+8:21
+Open Art from other AI tools on the
+8:23
+market. Instead of just relying on
+8:24
+reference images, Open Art creates a
+8:26
+dedicated model that's specifically
+8:28
+trained to always preserve your
+8:30
+character's features. It almost never
+8:32
+fails, so you never need to worry about
+8:35
+character consistency ever again. We
+8:37
+finally have our AI model. Let's start
+8:40
+testing her out. Go back to the
+8:41
+homepage. Click on the character
+8:43
+section. And here you can see your
+8:45
+character. Click create and then select
+8:47
+prompt and reference. You'll see your
+8:50
+character's name in the prompt box. Now,
+8:52
+before you start prompting, make sure to
+8:53
+tone down the prompt coherence back to
+8:55
+two. And here's the key part most people
+8:58
+miss. Right here, you'll want to disable
+9:00
+preserve key features. If you leave it
+9:03
+on, the AI will try to maintain the same
+9:05
+clothing and background, which will
+9:06
+limit your creativity. Now you can start
+9:09
+prompting. Again, be specific about the
+9:12
+clothes, lighting, and photography
+9:13
+style, but don't over complicate it. So,
+9:16
+let's generate her on the beach using
+9:18
+this prompt. And let's see what we have
+9:19
+generated. As you can see, we have
+9:21
+maintained perfect character
+9:22
+consistency. You can really let your
+9:25
+imagination go wild here. For example,
+9:27
+here's my virtual influencer in an
+9:28
+expensive cafe in an art gallery at a
+9:31
+farmers market. As you can see, each
+9:33
+generation has perfect facial
+9:34
+consistency, but the clothing and
+9:36
+environment are completely different.
+9:39
+You can really let your creativity shine
+9:41
+here. Now, let me be honest with you.
+9:43
+Most people are wasting their time and
+9:45
+money on AI tools that simply can't
+9:47
+deliver the results they're looking for.
+9:49
+AI influencers like Etona Lopez are
+9:51
+making crazy amounts of money on
+9:53
+Instagram. She has brand deals with
+9:55
+multiple companies and she has gathered
+9:57
+hundreds of thousands of followers. Do
+9:59
+you think this amount of success is
+10:01
+possible if her AI isn't consistent and
+10:03
+she looks a little different in every
+10:05
+post? It wasn't created with some free
+10:08
+AI platform. She was built using
+10:10
+professional AI models that maintain
+10:12
+perfect character consistency. If you
+10:15
+want to create an AI influencer like
+10:17
+Itana, you need access to the best tools
+10:19
+available. You need a platform that can
+10:21
+train dedicated character models, not
+10:23
+just generate random images that look
+10:25
+different every time. That's exactly
+10:27
+what Open Arts consistent character
+10:29
+feature does. It's an all-in-one
+10:31
+platform that lets you train custom AI
+10:34
+models specifically for your characters.
+10:36
+We're talking about technology that
+10:37
+remembers everything from the exact
+10:39
+shade of your character's hair to the
+10:41
+specific jewelry they wear. With Open
+10:44
+Arts Pro Plan, you can actually train
+10:45
+multiple characters, so you can
+10:47
+experiment with this. If you want, you
+10:49
+can follow all the steps in this video
+10:51
+and have an entire roster of consistent
+10:53
+characters for different niches and
+10:55
+audiences. And if you use my code DN20,
+10:59
+you'll get 20% off your first month.
+11:01
+Look, I'm not saying this will make you
+11:03
+the next Ita Lopez overnight. But I am
+11:06
+saying that if you're serious about
+11:07
+creating AI influencers that look
+11:09
+professional and consistent, this is the
+11:12
+only platform I found that actually
+11:14
+delivers on that promise. Click the link
+11:16
+in the description to try Open Art for
+11:18
+yourself. And click the video on the
+11:19
+screen right now if you want to see me
+11:21
+create multiple consistent characters
+11:23
+and then animate them all in just 5
+11:26
+minutes.

@@ -1,0 +1,186 @@
+
+Pesquisar transcrição
+
+Capítulo 1: Introduction to AI video
+0:000 segundoI created the same animation in every AI video generator to find out which tool is actually the best. So I took the
+0:077 segundosexact same prompt and I ran it through every AI video generator I could get my hands on, whether it is text to video or image to video. Now to do all of that,
+0:1515 segundosI've built this entire workflow where I can compare each and every model that is out there. So you no longer need multiple different subscriptions or you need to jump between different tools.
+0:2525 segundosWith this tool that is called Weevi, you can do all of this in one platform. I will leave the link to this exact workflow in the description down below.
+0:3333 segundosSo you can check out each and every prompt that I used. You can use this yourself because you can duplicate it to your own files and then for each project
+0:4141 segundosthat you have, you can use this to compare the results of each video generator. Now I want you to keep in mind that this is one of the most
+0:4848 segundosadvanced AI video tools that is on the market right now. And if you want to use this, you need to use this on desktop, not on mobile because it's not available
+0:5656 segundosyet. There are people that built some of the most creative stuff on here, including this example right here where he built like an entire coliseum naval
+1:051 minuto e 5 segundosbattle, and it is insane. But more on wee later. Let's get now into the comparison.
+Capítulo 2: Text-to-video test 1 & 2
+1:161 minuto e 16 segundosSo, we will be testing out both text to video, which is on this side right here, and both image to video. And to give you an idea what Weev is, essentially, you
+1:261 minuto e 26 segundoscan enter in your prompt, you can enter in your file, and then you can link it through multiple different video generation platforms. You have like all
+1:331 minuto e 33 segundosof the major video generation tools built inside of this. This workflow is actually super simple, but yeah, let's get started on the texttovide examples.
+1:471 minuto e 47 segundosSo, we're starting off with a prompt about an astronaut that is drilling on an asteroid in space. And I'm looking in particularly for how things are floating
+1:561 minuto e 56 segundosaround because we're on space. So, we're starting off with Google V3. So, Google V3 also adds in audio.
+2:092 minutos e 9 segundosHonestly, the drilling is quite good. The astronaut is not doing much.
+2:132 minutos e 13 segundosAnd it also doesn't quite have that space vibe like we see things floating around. But let's see how seed dance does.
+2:252 minutos e 25 segundosSame thing going on here. We don't have the idea that we're floating around, but I quite like how the drill is being operated and that we actually see the
+2:342 minutos e 34 segundosdrill going into the asteroid. So seance quite good. So for Halo, it is as followed.
+2:412 minutos e 41 segundosHonestly, not quite good, but I have high hopes in the image to video on Halo AI. Like, it just looked like he's
+2:492 minutos e 49 segundosfidgeting around with his tools. Moving on, we got Moon Valley. Probably the only one that is ethically trained, but also I I have my doubts on this.
+3:023 minutos e 2 segundosYeah, that doesn't look very good. Like, it I have no idea what's going on there at his hand. like it looks like he hit
+3:103 minutos e 10 segundoslike a he hits like oil and it's like splattering all over the place. Then we have Cling 2.1 Master.
+3:203 minutos e 20 segundosSo we actually have the idea that he's floating on the asteroid, but at the same time he's just like one time jabbing the asteroid and with the drill
+3:293 minutos e 29 segundosdoesn't look that realistic, but I like that he's floating around at least. And lastly for the text to video, we got one 2.2. too.
+3:383 minutos e 38 segundosI do like the gravity things going around, but it's it almost look like it is a uh a boomerang where he just like it doesn't look it doesn't look great.
+3:483 minutos e 48 segundosAlso, his feet there is is not doing well. Overall, on this example, my favorite is V3 and Sea Dance. Moon Valley is just not good enough.
+Capítulo 3: Text-to-video test 3 & 4
+3:593 minutos e 59 segundosLet's move on to the next example. For example two, I actually want to stay within the space theme. So, I want to generate an alien that's reading a holographic newspaper.
+4:094 minutos e 9 segundosWe're starting off with Google V3.
+4:144 minutos e 14 segundosYeah, this is this is amazing. Like, I love how he's holding it and then it still floats because it's like a holograph and he's he's looking at his
+4:224 minutos e 22 segundoswatch and then he's like, "Oh, I'm tired. Ready to go to bed." I quite like this look from Google V3.
+4:284 minutos e 28 segundosNext up, we got Sea Dance.
+4:324 minutos e 32 segundosIt's not a holographic newspaper, but it is a floating newspaper, which is also quite impressive. And he is he doing the yarn? He is doing the yarn. It's quite humanlike, but it's not as good as V3.
+4:444 minutos e 44 segundosThen Miniax.
+4:474 minutos e 47 segundosSo, he does use a holographic newspaper, but it is glitching a little bit. Yeah, this one is not great. And that's my
+4:544 minutos e 54 segundosexperience so far with Miniax. Like, it is a great tool, but maybe not for text to video. Moving on. Moon Valley.
+5:045 minutos e 4 segundosThat That looks like it hurts the way his glasses are on his face. Yeah. Now, Moon Valley just it just isn't it. Even for this example, I generate like 10 seconds to see how it would hold up.
+5:145 minutos e 14 segundosThen, Cling 2.1, it's a bit of a hybrid mix between a real newspaper and some kind of
+5:215 minutos e 21 segundosholograph. The Alien though looks very good. Like, it looks looks insane. The yawn, however, bit of a weak yawn in my opinion, but quite good. One 2.2.
+5:345 minutos e 34 segundosYeah, this just looks like crazily sped up. We also don't have holographic. So, in terms of object generation, one 2.2 wasn't that good here. If I have to
+5:435 minutos e 43 segundoschoose between all of these, then Google View3 is clearly my favorite. Moving on, I would say it's between Seedance and
+5:505 minutos e 50 segundosCling and yeah, Moon Valley and one 2.2 and including Miniax. they all weren't as good with Moon Valley significantly
+6:006 minutosbeing the worst because the glasses are just going into his eye. By the way, at the end of this video, I will also discuss the pricing of each and every
+6:086 minutos e 8 segundostool so you can have that comparison too. But first, let's move on to example number three, which is of an AI anime
+Capítulo 4: Prompt adherence analysis
+6:156 minutos e 15 segundosfighter. And I want to see how realistic the movements are than he's doing. So, we're using this prompt right here.
+6:216 minutos e 21 segundosWe're checking if he can do a powerful combination punch. Then he's taking a step back drinking a sip of water and he's also using a towel to clean his
+6:306 minutos e 30 segundosface. Again, if you want to go through all of my prompts and if you want to see all of my generations, then you can do so with the first link in the description. Starting off with V3.
+6:406 minutos e 40 segundosYeah, this is a bit of a fill like he's he's punching the air like half of the time. He tries to take a sip of water,
+6:486 minutos e 48 segundosbut the towel it just makes a short appearance and then it's like it isn't really used. Not that great to be honest. But also, this is one of the
+6:566 minutos e 56 segundosmore complex scenes. So, let's check out how Cance does.
+7:017 minutos e 1 segundoOkay, the punch actually looks a bit better, but the water bottle, I don't know how he does it, but it it just makes it appear also not that great.
+7:127 minutos e 12 segundosThen we have Miniax.
+7:187 minutos e 18 segundosYo, honestly, I'm quite surprised by this one. The punching looks really good. Um, and then he does a magic trick how he like makes the the towel appear
+7:277 minutos e 27 segundosand then under that he he grabs a bottle of water. It's out of the three of them, I think this is the best one so far, even though it's still like randomly appearing objects.
+7:387 minutos e 38 segundosNow for Moon Valley, it's not quite an anime character.
+7:447 minutos e 44 segundosYeah, this one completely flopped. I don't know what's happening with Moon Valley here. Now for cling 2.1.
+7:547 minutos e 54 segundosOkay, this is quite good. I like how he goes down probably to grab something and then he's drinking an actual sip of his
+8:028 minutos e 2 segundosbottle of water. We don't have any towel action though. Now moving on one 2.2. We got the punch combination. Then we got a sip of water.
+8:128 minutos e 12 segundosIt looks decent.
+8:158 minutos e 15 segundosHonestly, this test was quite hard and in my opinion, it is between Miniax, Clling, and one 2.2. Maybe with a few
+8:228 minutos e 22 segundosdifferent generations or a few tweaks in prompts, we can actually make this work.
+8:268 minutos e 26 segundosFO3 disappointed me on this one. Seance was also not that great and and Moon Valley, I I just don't know what to say.
+8:338 minutos e 33 segundosI I think we should even remove Moon Valley from the test. It's nowhere close. For example number four, we're looking for prompt adherence. So, I got
+8:418 minutos e 41 segundosthis prompt about a squirrel that is holding a giant sandwich, and I have all kind of details on that sandwich. He
+8:478 minutos e 47 segundosalso wears a red cape with blue lining, and he's riding a bicycle. So, quite a lot going on here. Now, I also want to
+8:558 minutos e 55 segundoshave this in the style of Pixar style with a smooth, playful camera tracking.
+8:598 minutos e 59 segundosSo, let's see how all of these tools do in terms of prompt adherence. I already see a giant sandwich here with Google, so let's play it.
+9:119 minutos e 11 segundosI'm quite impressed. Like they also added in the birds. That's also one of the things I added in that prompt to have birds like flattering around the
+9:199 minutos e 19 segundosbicycle. So V3 Tree has done quite a good job with this squirrel. Moving on, we got see that.
+9:279 minutos e 27 segundosThe motion on this is just insane. And we got a few birds, but the birds are not birding very well, if I can say in
+9:359 minutos e 35 segundosmy broken English. But yeah, this one is quite good. It could work. Moving on. Miniax.
+9:449 minutos e 44 segundosIt's not quite Disney Pixar style in my opinion. And the sandwich is a bit broken, but it but it is a tracking shot. And we do have the birch. So, in
+9:529 minutos e 52 segundosterms of prompt adherence, it's doing quite well. Moon. Okay, moving on. We got Moon Valley. Let's just see what it makes.
+10:0110 minutos e 1 segundoOh my god, bro. Hell no, man. What the man?
+10:0610 minutos e 6 segundosYeah, for Moon Valley, it's like a surprise every time what you get. You're literally paying to be amazed about what
+10:1310 minutos e 13 segundosAI can do for the wrong reasons. It just is awful. Moving on, we got Cling 2.1.
+10:2010 minutos e 20 segundosGot high hopes for this one. Not quite Disney Pixar style, but we do have the cape on point. We have the sandwich.
+10:2710 minutos e 27 segundosEven looks into the camera. We have some birds flying around. Honestly, not bad.
+10:3110 minutos e 31 segundosI I also like the movements of how he's riding the bicycle. It's a bit of a strange angle though, but it is a tracking shot. Lastly, one 2.2.
+10:4310 minutos e 43 segundosYeah, this just isn't that great. We do have a few things on point though. We do have the cape. We do have the birds. We
+10:5010 minutos e 50 segundosdo have the sandwich. But the movement, the background, it's going a bit too fast in my opinion. And also feels like a mix between like a different art
+10:5910 minutos e 59 segundosstyle. It's not the Disney Pixar style I was looking for. Like it feels like the character is Disney Pixar style but the background is not if you understand what I mean. Yeah, this is a close one
+11:0711 minutos e 7 segundosbetween in my opinion Google V3 and Seance are your best options with Cling coming in at a close second. Minimax and
+11:1611 minutos e 16 segundosone like third and fourth and Moon Valley just don't invest your money in Moon Valley. I'm not sure why I waste my money on this but I guess it's for science.
+Capítulo 5: Image-to-video test 1
+11:2911 minutos e 29 segundosMoving on, we have image to video. This is by far the most used way to generate your videos because you have more control over your input because you're
+11:3711 minutos e 37 segundosliterally input your image. Now, for this example or for this test, I have about eight different generators. So, we
+11:4311 minutos e 43 segundoshave V3 2.2 Hicks Fields, we got Moon Valley again. Let's hope it's better this time. Then, we got Cling Video, we
+11:5111 minutos e 51 segundosgot Runway, we got Seance, and we got Miniax. So, the image that I'm putting in is this image right here. And I'm using it with the following prompt,
+11:5911 minutos e 59 segundoswhich is a zombie is walking and reaching his hands towards the camera.
+12:0412 minutos e 4 segundosHe has yellow eyes that are glowing brighter and there's like a storm. So, I kind of want to see the dynamic different movements that are going on on
+12:1212 minutos e 12 segundosthis ship. So, let's start with Google V3 image to video.
+12:2112 minutos e 21 segundosSo, he is reaching out to the camera and he's kind of like giving you a bit of a jump scare. I think the sea behind him looks quite realistic. Overall, I don't
+12:3012 minutos e 30 segundossee any weird stuff going on here. I honestly think this is quite good. Then we got one 2.2. This is only a 4 second
+12:3812 minutos e 38 segundosgeneration and I'm not sure what's going on with
+12:4412 minutos e 44 segundosthe like speed up version of one 2.2. It is 60 frames per second. So maybe you want to slow this down and it is a bit
+12:5212 minutos e 52 segundosbetter in terms of the movement and quality. It's quite decent. It's a bit of a handheld footage. Maybe if we
+12:5812 minutos e 58 segundosslowing down it's actually good. Then we got Hicksfield video.
+13:0513 minutos e 5 segundosWe do have the hand reaching out, but this again is slow-mo. So this feels super slow, but I do like the blurred hand. It's not as great as as Google was. Then we got Moon Valley.
+13:1913 minutos e 19 segundosI don't know where that other zombie is coming from. Yeah, this is this is not good. Like the this is not you cannot
+13:2613 minutos e 26 segundoseven use this. The face is morphing. So yeah, let's let's abort that. Then we got Miniax.
+13:3413 minutos e 34 segundosFinally, the eyes are probably glowing.
+13:3613 minutos e 36 segundosWe have water going over the ship. I'm not sure why it's not sinking. I quite like this to be honest. I think it's not bad. Next up, Sea Dance.
+13:4913 minutos e 49 segundosYeah. And this guy is actually getting close into your face. And then a pirate behind him appears and he disappears.
+13:5613 minutos e 56 segundosAlso bit spooky. It could work, but it's not great. Next up, we got runway.
+14:0414 minutos e 4 segundosYeah, there's no movement going on at all with the zombie. It's just a statue.
+14:0814 minutos e 8 segundosWe only have the glowing eyes. That's unfortunate. Lastly, we got Cling 2.1.
+14:1914 minutos e 19 segundosI quite like this. I think looking at all of them like clinging is probably my favorite because there's a lot more going on. You actually seem struggling
+14:2714 minutos e 27 segundosto stand on there. There's waves hitting the boats and overall it might be the best. Then in terms of which one is the worst is probably Moon Valley. Then also
+14:3614 minutos e 36 segundosrunway and sea dance did quite bad at this one. And the other ones are decent I would say. For image to video example
+Capítulo 6: Image-to-video test 2
+14:4314 minutos e 43 segundosnumber two, I have this girl that is like hanging out of a train and I want to see how it does with motion. So I have this prompt right here where I want
+14:5114 minutos e 51 segundosto look for how the train is speeding, how the camera is weaving through the trees and I want to get the sense of speed. So yeah, let's see how it does.
+14:5914 minutos e 59 segundosWe got Google V3 even with the sound. I honestly quite like this. I think the only thing that I
+15:0715 minutos e 7 segundoswould change is her mouth is open all the time. She will probably like swallow a fly if she if she keep her mouth open like that. Moving on, we got one 2.2.
+15:2015 minutos e 20 segundosYeah, we got a real sense of speed here.
+15:2215 minutos e 22 segundosThe train is going in the other direction, which is also quite cool. This one is quite decent.
+15:2915 minutos e 29 segundosThen Hicksfield.
+15:3315 minutos e 33 segundosYeah, that this just didn't work with Hicksfield. That's unfortunate. Moving on. Moon Valley.
+15:4415 minutos e 44 segundosYeah, Moon Valley. Same issue here. It just doesn't work even if you have an image input.
+15:5115 minutos e 51 segundosThen Miniax, you know, it's kind of changing the scene. But I love the the camera angle.
+15:5915 minutos e 59 segundosI love how it pans around, but the character consistency is is not really there cuz it doesn't look anything like
+16:0616 minutos e 6 segundosour input image, but I like the way the train moves. Then we got seance.
+16:1516 minutos e 15 segundosYeah, this is quite good. This is decent. It's a bit slow-mo, but honestly, there's not much strange things going on there.
+16:2316 minutos e 23 segundosAnd for runway, quite fast movement. We can see the train moving well. We can see the trees appearing. There's not much going on
+16:3116 minutos e 31 segundoswith her character. She's basically again being a statue with her hair being the only exception to the thing that's moving. Then lastly, we got Cling.
+16:4416 minutos e 44 segundosYeah, Cling is switching up the entire scene here. I do like the movement though, but the character is not consistent. It it changed from anime to
+16:5216 minutos e 52 segundosbeing more realistic. Google V3 is definitely my favorite in this scene. I think 1 2.2 2 is also quite good, but
+16:5916 minutos e 59 segundosnothing beats Google V3 in this comparison.
+17:0417 minutos e 4 segundos[Music]
+Capítulo 7: Image-to-video test 3
+17:0717 minutos e 7 segundosFor the third example, we got these two warriors, these Vikings that are fighting. I want to see how it does with action, how it does with closeup shots,
+17:1617 minutos e 16 segundosand basically if we get any morphing going around. So, let's see how it does with V3.
+17:2617 minutos e 26 segundosThis guy doesn't even have an axe. And that's that guy is only hitting him.
+17:3217 minutos e 32 segundosYeah, Google, I expected you to do better on this one. Moving on, we got one 2.2.
+17:4017 minutos e 40 segundosOkay, at least there's somewhat fighting.
+17:4317 minutos e 43 segundosDefinitely some morphing going on there for one 2.2. Not that great. Then for Hicksfield.
+17:5317 minutos e 53 segundosYeah, Hicksfield. It's not great for this video example. Then Moon Valley. Do we even want to check this?
+18:0618 minutos e 6 segundosThe whole scene changed like that. Nah. The Moon Valley is not good enough. Miniax.
+18:1618 minutos e 16 segundosOverall, every tool right here is struggling quite a bit with the movement and action, but let's see how sea dance does.
+18:2818 minutos e 28 segundosOkay, I quite like Sea Dance, but I I dislike that you don't see the impact of him hitting him. So, he's hitting him,
+18:3518 minutos e 35 segundosbut it's just disappearing into his body without leaving any marks. It's not the type of video I'm looking for. For runway,
+18:4318 minutos e 43 segundoswe have the statue thing again. I don't know what's up with runway. Then cling.
+18:5518 minutos e 55 segundosOkay, cling is probably the best one here. And that's also a bit of my experience. Cling is good for movement, good for dynamic stuff. So here I would
+19:0319 minutos e 3 segundosgive it to Cling and Sea Dance. All not great. But overall, if I have to choose one, it's Cling and Se dance.
+Capítulo 8: Image-to-video test 4
+19:1119 minutos e 11 segundosThen for the last example on image to video, I have this image of this Lego barbecue that's going on on a rooftop and I want to check for prompt adherence
+19:1919 minutos e 19 segundosand style consistency. So this is the prompt that I used. Then for VO3, we are looking for a bird to flying to steal something.
+19:2719 minutos e 27 segundosOh no, my sausage.
+19:3419 minutos e 34 segundosI like how she says, "Oh no, my sausage." Even before the bird has taken it, but the bird is flying in and taking it and it follows the bird. I quite like
+19:4319 minutos e 43 segundosthis. It looks like it could be in a Lego movie. Then for one 2.2.
+19:5019 minutos e 50 segundosThe bird doesn't steal a sausage. The bird is stealing two people.
+19:5619 minutos e 56 segundosI do like this, but it's not following up on prompt. Now for Hicksfield.
+20:0420 minutos e 4 segundosOh, this is actually very good. It did take the sausage, but then it also took a plate. Yeah, this is great.
+20:1320 minutos e 13 segundosAnd Moon Valley.
+20:2120 minutos e 21 segundosMoon Valley. Let's Let's just not waste our time on Moon Valley anymore. Minimax.
+20:3020 minutos e 30 segundosquite decent. Quite decent. It's not as good as the as Hicksfield, for example.
+20:3620 minutos e 36 segundosBut now we have seance.
+20:4320 minutos e 43 segundosYeah, the bird flew in, but he's not taking anything. Seance didn't quite work on this one. Then runway. Let's see if we have a statue again. No statue. We
+20:5220 minutos e 52 segundosactually have something moving in in the runway. And it took this button thing. I didn't took the the
+20:5820 minutos e 58 segundossausage, but not too bad. Then lastly, we have cling.
+21:0721 minutos e 7 segundosI love how they're all moving away.
+21:0921 minutos e 9 segundosLike, I cannot see what has been taken there, but I love how all the the characters are all moving into the direction of the bird and they're all looking at like, yo, what just happened?
+21:1921 minutos e 19 segundosLike, yeah, this is a close one between, in my opinion, Kling because of the movement, VO3 because of how good the
+21:2621 minutos e 26 segundosbird is and Hicksfield because Hicksfield it actually takes a sausage and it takes an extra plate. Then, in terms of which one is the worst is
+21:3521 minutos e 35 segundosprobably Moon Valley and the other ones are decent, I would say. Let me know in the comments down below which one is your favorite on this example. Now, in
+Capítulo 9: Pricing and final verdict
+21:4221 minutos e 42 segundosterms of pricing, which model is actually the most affordable when we compare all of the prices of the models we've used in image to video, then we
+21:5021 minutos e 50 segundoscan see that runway right here is the cheapest. Keep in mind, I'm using the pro or the best models in each and every tool. For example, you can also use
+21:5921 minutos e 59 segundosCance, the light version, which is a lot lot cheaper than the pro version. The light version is around like 18 credits.
+22:0722 minutos e 7 segundosV3 is of course the most expensive one.
+22:1022 minutos e 10 segundosInterestingly, Moon Valley is also quite expensive and these are all for 5 seconds of generation time. Now, for
+22:1722 minutos e 17 segundosVO3, we get 8 seconds. You cannot do the 5-second one um because they have different times. But Moon Valley, way, way, way overpriced. I wouldn't
+22:2522 minutos e 25 segundosrecommend using Moon Valley at all. It's just a waste of money right now. It is a good concept, but it just doesn't work that great. In terms of value for money,
+22:3322 minutos e 33 segundoskilling Sea Dance, and Miniax are quite good in that segment. One 2.2 tuna as well, but it didn't do quite well. So, I
+22:4222 minutos e 42 segundoswould use cling minimax and seed dance quite a lot if you're not using Google V3 or if you don't have that much of a big budget. Now, if you want to try out
+22:5022 minutos e 50 segundosthis entire workflow or all the models I've mentioned yourself through weave, then I will leave the link to that in the description down below. I will do
+22:5822 minutos e 58 segundosmore videos on Weevi as it is one of the most advanced AI video generation tools in the market right now. And if you want
+23:0523 minutos e 5 segundosto learn what the best AI thumbnail generator is, then click the video that's on the screen right now. There I will compare all the major AI thumbnail
+23:1323 minutos e 13 segundosgenerators and you can see which one is the best

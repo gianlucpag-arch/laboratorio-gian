@@ -1,0 +1,30 @@
+[
+  {
+    "source": "C:/Users/Ggian/Downloads/Dominando o realismo em vídeo com IA (Seedance 2.5 + Higgsfield) – Resumo, Prompts e Transcrição.md",
+    "stored_as": "dan-realismo-seedance-documento-download.md",
+    "kind": "Resumo, prompts e transcrição limpa",
+    "sha256": "3158016189BD19F14B3DE548CB6DBB12F314F9DA3DD462BD963B29D6A7E1A347",
+    "bytes": 34355
+  },
+  {
+    "source": "C:/Users/Ggian/.codex/attachments/e78efc04-a4f4-4e20-81a3-f359e4285251/Texto colado.txt",
+    "stored_as": "dan-realismo-seedance-transcricao.txt",
+    "kind": "Transcrição com timestamps 00:07–22:40",
+    "sha256": "8D9190B259740804D3979678169AD811EDFECC32E06DC225CCEEBF930E3925E7",
+    "bytes": 23992
+  },
+  {
+    "source": "C:/Users/Ggian/.codex/attachments/e9126b57-ffce-42bb-8488-503e06d1e22d/Texto colado.txt",
+    "stored_as": "dan-realismo-seedance-resumo-templates.txt",
+    "kind": "Resumo, templates e adaptação",
+    "sha256": "88429EFB9DE623B3B09623270E4420BD80C25988AA829ECF613C48354E7DCBF2",
+    "bytes": 8539
+  },
+  {
+    "source": "C:/Users/Ggian/.codex/attachments/65b8edeb-38cc-469a-b163-e086886dd4db/Texto colado.txt",
+    "stored_as": "dan-realismo-seedance-analise-fornecida.txt",
+    "kind": "Análise fornecida, workflow e prompts",
+    "sha256": "91638E9048547C5E4221A290093432F54F0D4441357F70900C96EC9CD7B274A6",
+    "bytes": 31617
+  }
+]

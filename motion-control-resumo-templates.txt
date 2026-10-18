@@ -1,0 +1,66 @@
+Com base no vídeo "NÃO GASTE COM GENJUTSU: Faça Seu Influenciador de IA de Graça" do canal *Porão da IA*, aqui estão os 3 formatos completos e detalhados para você salvar e aplicar a técnica de criação de influenciadores e motion control sem gastar dinheiro.
+
+---
+
+### 1. Resumo Super Detalhado em Tópicos (A Metodologia Completa)
+
+**O Contexto do Mercado e o "Hype" dos Influenciadores**
+
+* **A Onda Atual:** As redes sociais estão inundadas de vídeos de influenciadores virtuais bizarros gerados por IA, acompanhados de relatos inflados de ganhos financeiros absurdos.
+* **O Propósito por Trás do Hype:** Trata-se de uma grande campanha de marketing/publicidade para a plataforma **Higgsfield**, divulgando a criação de avatares e a ferramenta de *motion control* chamada **Genjutsu** (que substitui o personagem de um vídeo base pelo avatar que você criou).
+
+**O Problema do Genjutsu (Custos e Limitações)**
+
+* O uso direto da ferramenta oficial do Higgsfield (Genjutsu) é extremamente custoso (ex: gerações em alta resolução cobram centenas de créditos que equivalem a dezenas de dólares por poucos segundos). Além disso, campanhas de parceria exigem exclusividade e contratos rigorosos.
+
+**O Método Gratuito: Criando o Avatar e Fazendo Motion Control sem Pagar**
+
+1. **Criação do Personagem (Avatar):**
+* Você pode usar a ferramenta gratuita inicial de criação de personagens do Higgsfield ou utilizar o **ChatGPT** / **Claude** para refinar o visual e gerar prompts detalhados (*character sheets*) de personagens estilizados ou realistas (ex: versão realista do Vegeta com a Bulma).
+
+
+2. **O Processo de Motion Control Gratuito (Google Veo / Google Flow):**
+* Pegue um vídeo viral de referência curto (máximo de 10 segundos), redimensione para o formato vertical (9:16) se necessário.
+* Utilize o ChatGPT para redigir o prompt de substituição com base nas referências visuais (o vídeo base + o *character sheet* do seu personagem novo).
+* Utilize o **Google Veo / Google Flow** (ou contas com créditos de teste/planos acessíveis) para aplicar o prompt de substituição de personagens (*replace/motion control*).
+
+
+3. **Pós-Produção (Montagem):**
+* Divida os clipes em blocos de até 10 segundos, processe a substituição do personagem mantendo a mesma orientação e movimentos do vídeo original, e faça a montagem final em um editor simples como o **CapCut**.
+
+
+
+---
+
+### 2. Prompt Estruturado (Para você copiar, preencher e usar)
+
+Para guiar o ChatGPT na criação do prompt técnico que será utilizado na ferramenta de IA (como o Google Veo/Flow) para fazer o *motion control* e substituir a pessoa do vídeo base pelo seu avatar, utilize esta estrutura:
+
+**Prompt para o ChatGPT criar o comando de substituição:**
+
+> `Estou criando um vídeo de motion control usando inteligência artificial. Tenho um vídeo base de referência de 10 segundos [descrever brevemente a cena, ex: homem dançando ou conversando] e o "character sheet" do meu personagem personalizado [descrever o personagem, ex: uma versão realista do Vegeta com armadura tática]. Crie um prompt detalhado em inglês para o Google Veo/Flow instruindo a IA a substituir totalmente a pessoa do vídeo base pelo meu personagem, mantendo exatamente os mesmos movimentos de câmera, a mesma física, a mesma iluminação e a sincronia de gestos do vídeo original (motion control style).`
+
+**Exemplo de Prompt Gerado para a IA de Vídeo:**
+
+> `A video prompt: Full replacement motion control. Replace the original human character in the reference video with the specific custom character defined in the character sheet [Insert Character Details]. Maintain the exact same body movements, hand gestures, facial orientation, camera tracking, and environmental lighting. Cinematic style, photorealistic textures, seamless integration, 720p/1080p vertical 9:16 aspect ratio.`
+
+---
+
+### 3. Transcrição Limpa e Organizada por Assuntos (Conteúdo Adaptado)
+
+**[00:00 - 02:20] Introdução e o Fenômeno dos Influenciadores de IA**
+O vídeo começa expondo a enxurrada de perfis de influenciadores virtuais que viralizaram recentemente nas redes sociais. O autor aponta que grande parte desse movimento faz parte de campanhas agressivas de divulgação de plataformas como o Higgsfield e sua nova ferramenta de *motion control*, o **Genjutsu**, muitas vezes atrelada à divulgação de criptomoedas ou tokens especulativos.
+
+**[02:20 - 06:15] Analisando o Higgsfield e os Custos do Genjutsu**
+Embora a ferramenta de criação de avatares inicial ofereça testes gratuitos, os créditos se esgotam rapidamente. Quando o usuário tenta utilizar o Genjutsu para aplicar os avatares em vídeos virais de terceiros, os preços cobrados por segundo de vídeo em alta resolução tornam-se inviáveis para criadores independentes sem orçamento elevado. Participar de competições oficiais da plataforma também exige termos contratuais rígidos e exclusividade.
+
+**[06:15 - 09:30] Criando o Avatar Sem Pagar (ChatGPT + Referências)**
+O autor demonstra que é possível desenhar e estruturar o visual do influenciador de graça. Usando o ChatGPT, ele alimenta o assistente com referências visuais (como personagens clássicos de anime adaptados para o estilo realista) até obter um *character sheet* e descrições visuais perfeitas, economizando os recursos limitados das plataformas pagas.
+
+**[09:30 - Fim] O Segredo do Motion Control Gratuito com o Google Veo/Flow**
+A grande sacada do vídeo é ensinar a burlar o custo elevado do Genjutsu. O criador explica que é possível utilizar o **Google Veo / Google Flow** para realizar a mesma tarefa de *motion control*:
+
+1. Cortar um vídeo viral em trechos de até 10 segundos no formato vertical (9:16).
+2. Pedir para o ChatGPT estruturar o prompt de substituição unindo o vídeo de referência e o design do personagem.
+3. Executar o processamento utilizando as quotas gratuitas ou acessíveis do ecossistema Google.
+Por fim, basta juntar os fragmentos gerados no CapCut para obter um vídeo de influenciador virtual idêntico aos caros comerciais do Higgsfield, mas sem gastar nada além de tempo.

@@ -1,0 +1,176 @@
+Comparação de geradores de vídeo com IA (Dan Kieft) – Resumo, Prompt e Transcrição
+Vídeo: "I Made the Same Animation in Every AI Video Generator - FULL Comparison" Canal: Dan Kieft | Publicado em: 8/out/2025 | Link: https://www.youtube.com/watch?v=gBRblVfSuG8 Base deste material: transcrição colada pelo usuário (cobre de 0:00 até ~23:13, até a frase de despedida).
+Nota sobre nomes: a legenda automática erra vários nomes. Corrigi pelo contexto: "Weevi/Weave" = Weavy (Weavy AI); "V3" = Veo 3 (Google); "Seance/Sea Dance" = Seedance; "Miniax/Halo" = MiniMax / Hailuo; "Cling" = Kling; "one 2.2" = Wan 2.2; "Hicksfield" = Higgsfield; "Moon Valley" = Moonvalley. São interpretações minhas; confirme no vídeo se algum nome for crítico para você.
+PARTE 1 – RESUMO DETALHADO EM TÓPICOS
+1. INÍCIO – Objetivo, método e a ferramenta (0:00 – 1:45)
+• Objetivo: descobrir qual gerador de vídeo com IA é realmente o melhor, rodando o mesmo prompt em todos, tanto em texto para vídeo quanto em imagem para vídeo.
+• Como foi feito: um workflow único no Weavy, onde dá para comparar todos os modelos sem várias assinaturas nem trocar de ferramenta.
+• Sobre o Weavy:
+    ◦ Você insere o prompt e/ou um arquivo e liga a vários geradores de vídeo dentro da mesma plataforma.
+    ◦ O link do workflow fica na descrição: dá para ver todos os prompts usados, duplicar para os seus arquivos e reutilizar em cada projeto para comparar resultados.
+    ◦ O autor o descreve como uma das ferramentas de vídeo com IA mais avançadas do mercado.
+    ◦ Só funciona no desktop, ainda não está disponível no celular.
+    ◦ Exemplo citado de criação de outro usuário: uma batalha naval em um coliseu inteiro.
+    ◦ O workflow dele é "super simples".
+• Estrutura do teste: 4 testes de texto para vídeo + 4 de imagem para vídeo, e no final comparação de preços.
+2. MEIO A – Texto para vídeo (1:47 – 11:25)
+Modelos testados: Veo 3, Seedance, Hailuo/MiniMax, Moonvalley, Kling 2.1 (Master), Wan 2.2. (O Veo 3 gera áudio junto.)
+Teste T2V 1 – Astronauta perfurando um asteroide (foco: objetos flutuando no espaço)
+• Veo 3: a perfuração é bem boa, mas o astronauta faz pouco e falta a "vibe de espaço" (nada flutuando).
+• Seedance: também sem sensação de flutuação, mas gostou de como a broca é operada e de ver a broca entrando no asteroide. Bom.
+• Hailuo: não foi bom; parece que ele só mexe nas ferramentas. Autor tem esperança em imagem para vídeo no Hailuo.
+• Moonvalley: citado como talvez o único "treinado de forma ética" (o autor tem dúvidas). Ficou ruim; a mão parece espirrar óleo.
+• Kling 2.1 Master: passa a ideia de flutuar, mas ele só dá uma "espetada" no asteroide e a broca não parece realista. Gostou da flutuação.
+• Wan 2.2: gostou da gravidade/flutuação, mas parece um bumerangue e os pés vão mal.
+• Favoritos: Veo 3 e Seedance. Moonvalley "não é bom o bastante".
+Teste T2V 2 – Alienígena lendo um jornal holográfico
+• Veo 3: "incrível". Segura o jornal, ele flutua como holograma, olha o relógio e parece dizer que está cansado e pronto pra dormir. Gostou muito.
+• Seedance: jornal flutuante (não holográfico), bocejo bem humano, mas abaixo do Veo 3.
+• MiniMax: jornal holográfico, porém com glitch. Não ótimo; o autor vê o MiniMax como ótima ferramenta, mas talvez não para texto para vídeo.
+• Moonvalley: os óculos no rosto parecem doer; gerou 10 s para testar. Os óculos entram no olho; o pior do teste.
+• Kling 2.1: híbrido de jornal real com holograma; o alienígena ficou muito bom, bocejo um pouco fraco.
+• Wan 2.2: parece acelerado, sem holograma; geração de objetos fraca.
+• Ranking: Veo 3 claramente primeiro; depois entre Seedance e Kling; Moonvalley, Wan 2.2 e MiniMax não tão bons, com Moonvalley o pior.
+• O autor promete falar de preços no fim do vídeo.
+Teste T2V 3 – Lutador estilo anime (realismo de movimento)
+• Prompt (descrição): combo de socos potente; depois dá um passo atrás, bebe um gole de água e limpa o rosto com uma toalha.
+• Veo 3: soca o ar metade do tempo; tenta beber água, mas a toalha só aparece rapidamente e quase não é usada. Decepcionou (cena mais complexa).
+• Seedance: soco melhor, mas a garrafa de água "simplesmente aparece". Não ótimo.
+• MiniMax: surpreendeu. Socos muito bons; faz um "truque de mágica": a toalha aparece e, debaixo dela, pega uma garrafa. Melhor dos três até ali, apesar de objetos surgirem do nada.
+• Moonvalley: nem é anime; "flopou completamente".
+• Kling 2.1: bom; abaixa para pegar algo e bebe um gole de verdade da garrafa; sem toalha.
+• Wan 2.2: faz o combo e o gole de água; parece decente.
+• Conclusão: teste difícil; disputa entre MiniMax, Kling e Wan 2.2; com outras gerações/ajustes de prompt poderia funcionar. Veo 3 decepcionou, Seedance não foi tão bom, e o autor sugere remover o Moonvalley do teste.
+Teste T2V 4 – Aderência ao prompt (esquilo com sanduíche gigante)
+• Prompt (descrição): esquilo segurando um sanduíche gigante com muitos detalhes, usando capa vermelha com forro azul, andando de bicicleta, pássaros voando em volta, estilo Pixar, câmera de acompanhamento (tracking) suave e divertida.
+• Veo 3: impressionante; inclusive colocou os pássaros ao redor da bicicleta.
+• Seedance: movimento "insano"; alguns pássaros, que não ficaram muito bons, mas funcionaria.
+• MiniMax: não é bem estilo Disney/Pixar, sanduíche meio quebrado, mas há tracking e pássaros; boa aderência.
+• Moonvalley: resultado terrível; "você paga para se surpreender pelos motivos errados".
+• Kling 2.1: não é bem Pixar, mas a capa está certa, tem sanduíche, o esquilo olha para a câmera, pássaros voando, bom movimento ao pedalar, ângulo estranho, mas é tracking. "Nada mal".
+• Wan 2.2: tem capa, pássaros e sanduíche, mas o movimento e o fundo são rápidos demais e mistura estilos (personagem Pixar, fundo não).
+• Veredito T2V: melhores = Veo 3 e Seedance; Kling logo em segundo; MiniMax e Wan 2.2 em 3º/4º; Moonvalley: "não invista seu dinheiro".
+3. MEIO B – Imagem para vídeo (11:29 – 21:40)
+O autor explica que este é o jeito mais usado de gerar vídeos, porque dá mais controle (você fornece a imagem). Modelos: Veo 3, Wan 2.2, Higgsfield, Moonvalley, Kling, Runway, Seedance, MiniMax (cerca de 8).
+Teste I2V 1 – Zumbi em um navio
+• Prompt (descrição): um zumbi caminha e estende as mãos para a câmera, olhos amarelos brilhando cada vez mais, tempestade.
+• Veo 3: estende a mão para a câmera (susto), mar realista, nada estranho. Bom.
+• Wan 2.2: só 4 segundos; parece acelerado (60 fps, então vale desacelerar); movimento/qualidade decentes; estilo câmera na mão.
+• Higgsfield: a mão se estende, mas em câmera lenta; gostou da mão desfocada; não tão bom quanto o Google.
+• Moonvalley: surge outro zumbi, o rosto faz morphing; inutilizável (abortou).
+• MiniMax: olhos brilham, água passa sobre o navio (sem afundar); gostou, "não é ruim".
+• Seedance: o zumbi chega perto do rosto; aparece um pirata atrás e o zumbi some; meio assustador, podia funcionar, mas não é ótimo.
+• Runway: nenhum movimento; zumbi parece estátua, só os olhos brilham.
+• Kling 2.1: favorito; muita coisa acontecendo, o zumbi parece lutar para ficar em pé, ondas batendo no barco. Possivelmente o melhor.
+• Pior: Moonvalley; Runway e Seedance também foram mal; os demais decentes.
+Teste I2V 2 – Garota pendurada para fora de um trem (movimento e sensação de velocidade)
+• Prompt: foco em trem em alta velocidade e câmera passando entre as árvores.
+• Veo 3 (com som): gostou; só mudaria a boca sempre aberta ("vai engolir uma mosca").
+• Wan 2.2: forte sensação de velocidade, trem indo na direção oposta; decente.
+• Higgsfield: não funcionou.
+• Moonvalley: mesmo problema, não funciona nem com imagem.
+• MiniMax: muda a cena; adorou o ângulo e o giro de câmera, mas a consistência de personagem não existe (não parece a imagem), embora goste do movimento do trem.
+• Seedance: bom, decente, um pouco em câmera lenta, nada muito estranho.
+• Runway: movimento rápido, trem e árvores bem; o personagem de novo vira estátua (só o cabelo se mexe).
+• Kling: troca a cena inteira, gostou do movimento, mas o personagem não é consistente (passou de anime para mais realista).
+• Veredito: Veo 3 é o favorito; Wan 2.2 também bom; "nada supera o Veo 3 nessa comparação".
+Teste I2V 3 – Dois vikings lutando (ação, closes, morphing)
+• Veo 3: um viking nem tem machado, o outro só apanha; o autor esperava mais.
+• Wan 2.2: há alguma luta, mas com morphing; não é bom.
+• Higgsfield: não é bom para este exemplo.
+• Moonvalley: a cena inteira mudou; não é bom o bastante.
+• MiniMax: o autor comenta que todas as ferramentas sofrem com movimento e ação nesse teste.
+• Seedance: gostou, mas não se vê o impacto dos golpes (o golpe some no corpo sem deixar marca); não é o tipo de vídeo que ele procura.
+• Runway: de novo o efeito "estátua".
+• Kling: provavelmente o melhor aqui; na experiência do autor, Kling é bom para movimento e coisas dinâmicas.
+• Veredito: Kling e Seedance, nenhum ótimo.
+Teste I2V 4 – Churrasco de Lego no terraço (aderência e consistência de estilo)
+• Prompt (descrição): um pássaro entra voando e rouba algo (a salsicha).
+• Veo 3: a personagem diz "Oh no, my sausage" antes de o pássaro pegar; o pássaro entra, leva e a câmera o segue; parece cena de filme de Lego.
+• Wan 2.2: o pássaro não rouba a salsicha, rouba duas pessoas; gostou, mas não segue o prompt.
+• Higgsfield: "muito bom"; pegou a salsicha e também um prato.
+• Moonvalley: não vale perder tempo.
+• MiniMax: bem decente, mas não tão bom quanto o Higgsfield.
+• Seedance: o pássaro entra, mas não leva nada; não funcionou.
+• Runway: desta vez houve movimento (sem estátua); pegou um botão/objeto, não a salsicha; não mal.
+• Kling: todos os personagens se movem na direção do pássaro, olhando como quem diz "o que aconteceu?"; não dá para ver o que foi levado.
+• Veredito: disputa entre Kling (movimento), Veo 3 (qualidade do pássaro) e Higgsfield (pega a salsicha e um prato extra). Pior: Moonvalley; os outros, decentes. Pede ao público nos comentários qual é o favorito.
+4. FIM – Preços e conclusão (21:42 – 23:13)
+• Preços (imagem para vídeo, usando o modelo Pro/melhor de cada ferramenta):
+    ◦ Runway é o mais barato.
+    ◦ Veo 3 é o mais caro.
+    ◦ Moonvalley também é caro; "muito, muito superfaturado", "desperdício de dinheiro" (bom conceito, mas não funciona bem).
+    ◦ Os preços são para 5 segundos de geração; no Veo 3 são 8 segundos (não dá para fazer 5).
+    ◦ O Kling Lite custa bem menos que o Pro (cerca de 18 créditos).
+• Custo-benefício: Kling, Seedance e MiniMax são bons nessa faixa. Wan 2.2 também é barato, mas não foi bem nos testes.
+• Recomendação final: se não usar o Veo 3 ou não tiver orçamento grande, o autor usaria bastante Kling, MiniMax e Seedance.
+• Encerramento: link do workflow do Weavy na descrição; prometeu mais vídeos sobre o Weavy; sugeriu o vídeo dele comparando os principais geradores de thumbnails com IA.
+5. SÍNTESE – Quadro geral por ferramenta (opinião do autor)
+• Veo 3 (Google): melhor em texto para vídeo (junto com Seedance) e nos testes de trem/alienígena/Lego; áudio incluso; falhou em ação complexa (luta anime, vikings). Mais caro; clipes de 8 s.
+• Seedance: forte em texto para vídeo (astronauta, esquilo); fraco em vários de imagem para vídeo (zumbi, Lego); bom custo-benefício.
+• Kling 2.1: bom em movimento e dinâmica (zumbi, vikings, Lego); em imagem para vídeo às vezes muda a cena/estilo; ótimo custo-benefício; versão Lite bem mais barata.
+• MiniMax/Hailuo: surpresa na luta anime; ruim em texto para vídeo simples (astronauta, jornal), mas decente em imagem para vídeo; boa relação preço/qualidade.
+• Wan 2.2: irregular, com morphing e movimento acelerado; 4 s/60 fps no teste do zumbi; barato.
+• Higgsfield: fraco em alguns (trem, vikings), mas ótimo no teste Lego.
+• Runway: efeito "estátua" em vários testes; velocidade boa no trem; o mais barato.
+• Moonvalley: pior em praticamente tudo; caro; autor recomenda não investir.
+6. LIÇÕES PRÁTICAS DO VÍDEO
+• Imagem para vídeo dá mais controle e é o método mais usado.
+• Rodar o mesmo prompt em vários modelos revela pontos fortes distintos: movimento/ação (Kling), aderência ao prompt e áudio (Veo 3), custo-benefício (Kling/Seedance/MiniMax).
+• Cenas complexas com várias ações em sequência exigem várias gerações e ajustes de prompt.
+• Wan 2.2 a 60 fps pode ser desacelerado para ficar melhor.
+• Cuidado com consistência de personagem e estilo em imagem para vídeo (MiniMax e Kling mudaram o personagem no teste do trem).
+• Compare preço por segundo, já que a duração do clipe varia (Veo 3 = 8 s; os demais = 5 s).
+PARTE 2 – PROMPT ESTRUTURADO PARA REPLICAR O MÉTODO
+Aviso: o vídeo só descreve os prompts em linhas gerais; os textos exatos estão no workflow do Weavy (link na descrição do vídeo). Abaixo, as descrições das cenas são reconstruções do que o autor falou, para você adaptar.
+2.1 Prompt-mestre (para usar em um assistente de IA ao planejar uma comparação)
+Papel: você é um analista de geradores de vídeo com IA.
+
+Objetivo: montar e avaliar uma comparação justa entre geradores de vídeo, rodando EXATAMENTE o mesmo prompt (e a mesma imagem, no caso de imagem para vídeo) em todas as ferramentas.
+
+Ferramentas a comparar: [Veo 3, Seedance, Kling, MiniMax/Hailuo, Wan 2.2, Higgsfield, Runway, outras].
+Plataforma de orquestração (opcional): Weavy (desktop), com um nó de prompt/arquivo ligado a um nó de cada gerador.
+
+Para cada teste:
+1. Defina a cena e o que ela avalia (ex.: física/flutuação, objetos holográficos, ação com sequência de movimentos, aderência a detalhes, ação com closes e morphing, consistência de estilo).
+2. Escreva o prompt único (sujeito, ação em ordem, cenário, estilo, câmera).
+3. Gere em cada ferramenta e anote duração, resolução/fps e custo (créditos).
+4. Avalie com a rubrica abaixo (nota 1 a 5 + observação curta).
+
+Rubrica:
+- Aderência ao prompt (todos os elementos e a ordem das ações)
+- Qualidade e realismo do movimento
+- Física/gravidade e sensação de velocidade
+- Consistência do personagem e do estilo (em imagem para vídeo: fidelidade à imagem original)
+- Ausência de morphing e de objetos que aparecem do nada
+- Áudio (se houver)
+- Custo por segundo
+
+Entrega final:
+- Tabela: ferramenta x teste, com nota e observação.
+- Melhor por teste, pior por teste.
+- Recomendação por cenário: melhor qualidade, melhor custo-benefício, melhor para ação/movimento, melhor para aderência ao prompt.
+- Lista de ajustes de prompt para as cenas em que todas falharam.
+2.2 Bateria de testes sugerida (baseada no vídeo)
+Texto para vídeo
+1. Física no espaço: astronauta perfurando um asteroide; avaliar objetos flutuando e uso da broca.
+2. Objeto holográfico: alienígena lendo um jornal holográfico; avaliar hologramas, óculos/rosto e bocejo.
+3. Ação em sequência: lutador de anime faz combo de socos, dá um passo atrás, bebe água e limpa o rosto com uma toalha.
+4. Aderência ao prompt: esquilo com sanduíche gigante detalhado, capa vermelha com forro azul, andando de bicicleta, pássaros ao redor, estilo Pixar, câmera de acompanhamento suave.
+Imagem para vídeo (enviar a mesma imagem a todos)
+1. Dinâmica e atmosfera: zumbi num navio estendendo as mãos para a câmera, olhos amarelos cada vez mais brilhantes, tempestade.
+2. Velocidade: garota pendurada para fora de um trem, trem em alta velocidade, câmera passando entre as árvores.
+3. Ação e closes: dois vikings lutando; observar morphing, impacto dos golpes, armas.
+4. Aderência e estilo: churrasco de Lego num terraço; um pássaro entra voando e rouba a salsicha.
+2.3 Modelo de prompt para cada cena
+[Estilo/visual] + [Sujeito e detalhes] + [Ação 1 → ação 2 → ação 3, em ordem] + [Cenário e atmosfera] + [Câmera: tipo de plano e movimento] + [Áudio/diálogo, se a ferramenta suportar]
+
+Exemplo (adaptar):
+"Estilo Pixar. Um esquilo de capa vermelha com forro azul pedala uma bicicleta segurando um sanduíche gigante e detalhado. Pássaros voam ao redor da bicicleta. Câmera de acompanhamento suave e divertida."
+2.4 Checklist de execução
+[ ] Abrir o Weavy no desktop e duplicar o workflow do vídeo (link na descrição do original).
+[ ] Colocar o prompt (e a imagem) uma única vez e ligar a todos os geradores.
+[ ] Usar o modelo mais forte de cada ferramenta, ou registrar qual versão usou (Pro, Lite, Master).
+[ ] Registrar duração do clipe, fps e créditos de cada geração.
+[ ] Se o resultado vier em câmera lenta ou acelerado (ex.: Wan 2.2 a 60 fps), ajustar a velocidade antes de julgar.
+[ ] Refazer as cenas mais complexas com 2 a 3 gerações e ajustes de prompt antes de descartar a ferramenta.

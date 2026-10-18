@@ -1,0 +1,51 @@
+[
+  {
+    "source": "C:/Users/Ggian/.codex/attachments/3a834d71-85e4-477f-8d38-1f79c0a1310e/Texto colado.txt",
+    "stored_as": "dan-videoclipe-suno-prompts-pagina.txt",
+    "kind": "Página de prompts de música, personagens, sets, câmera e lip sync",
+    "sha256": "ECF93233D327D2D1C50C97CE4FAB30A528CEDEB52A608B041C90DE3FDF77A729",
+    "bytes": 36516
+  },
+  {
+    "source": "C:/Users/Ggian/.codex/attachments/4f34ebb9-29c3-4a5b-935e-ee8c0d444c93/Texto colado.txt",
+    "stored_as": "dan-camera-biblioteca-46.txt",
+    "kind": "Texto dos 46 cartões de câmera",
+    "sha256": "63ABE6CDAE61649E4CE690D8537D1CDF074F71821DC3DD2C6E2AF310C3A66D7D",
+    "bytes": 16035
+  },
+  {
+    "source": "C:/Users/Ggian/.codex/attachments/710bc26c-c742-43fb-8136-9f9229c4153d/Texto colado.txt",
+    "stored_as": "dan-camera-aula-transcricao.txt",
+    "kind": "Transcrição de câmera até 14:08",
+    "sha256": "3A06B2D0D51B4AFB174A61500ACC4489D5CA752585B39822FC9A63420078EA45",
+    "bytes": 19036
+  },
+  {
+    "source": "C:/Users/Ggian/.codex/attachments/9b085c27-1a14-4387-b5c8-1a780c91773d/Texto colado.txt",
+    "stored_as": "dan-camera-aula-resumo-templates.txt",
+    "kind": "Resumo, templates e adaptação",
+    "sha256": "123E1DF697A86953168487A2EB477C131FF435B65E450885DD41CF212789D15E",
+    "bytes": 8868
+  },
+  {
+    "source": "C:/Users/Ggian/.codex/attachments/f9094417-1d38-4370-993b-03c70a36eaad/Texto colado.txt",
+    "stored_as": "dan-camera-aula-resumo-templates.txt",
+    "kind": "Cópia idêntica do resumo",
+    "sha256": "123E1DF697A86953168487A2EB477C131FF435B65E450885DD41CF212789D15E",
+    "bytes": 8868
+  },
+  {
+    "source": "C:/Users/Ggian/.codex/attachments/d62d2e34-b51f-4997-85dd-739ab3a5da28/Texto colado.txt",
+    "stored_as": "dan-emocoes-biblioteca-25.txt",
+    "kind": "25 cartões de direção de performance",
+    "sha256": "EE2254C1B38DF418BD322E7657B7A6E9AB924FD9F66AA6851271EDECA8995BEB",
+    "bytes": 7954
+  },
+  {
+    "source": "C:/Users/Ggian/.codex/attachments/4d42bed9-c545-44ae-ae5a-07bdca53fa62/Texto colado.txt",
+    "stored_as": "dan-emocoes-biblioteca-25.txt",
+    "kind": "Cópia idêntica da biblioteca de performance",
+    "sha256": "EE2254C1B38DF418BD322E7657B7A6E9AB924FD9F66AA6851271EDECA8995BEB",
+    "bytes": 7954
+  }
+]

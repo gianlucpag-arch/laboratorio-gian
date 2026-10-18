@@ -1,0 +1,1510 @@
+
+Procurar no vídeo
+Intro
+0:00
+Few days ago, I was doing the final
+0:01
+check on one of my videos. Then I
+0:03
+noticed that my editor kept putting in
+0:05
+these kind of disturbing images. So I
+0:09
+texted him like, "My hairline isn't that
+0:10
+bad." But he just sent me more images
+0:12
+mogging my appearance, which made me
+0:14
+wonder, do I even need this guy now that
+0:16
+we got GPT Astra? So I did some research
+0:19
+and I found six methods of how you can
+0:21
+start using AI to [music] edit your
+0:23
+videos. In fact, everything you've just
+0:25
+seen was all made using AI.
+0:29
+Okay, before we dive into this, I just
+0:30
+want to get one thing clear. The goal is
+0:32
+not to replace my editor. This is just a
+0:35
+joke intro. The idea is if editing takes
+0:38
+less time, a human can spend more time
+0:40
+on creativity and edit their videos even
+0:43
+better. And that's why in this video,
+0:44
+I'll be breaking down all of the
+0:46
+different techniques that go into AI
+0:48
+video editing. I will show you how you
+0:49
+can easily trim and cut down your video.
+0:51
+Then I will show you how you can make
+0:53
+multiple different camera angles just
+0:55
+from your A-roll. We will go over cool
+0:57
+looking motion graphics that are now
+0:59
+easier than ever to create and I will
+1:00
+even cover a bit of VFX.
+1:05
+Now, last but not least, AI can do a lot
+1:07
+when it comes to sound design. So, make
+1:09
+sure you watch this entire video to the
+1:11
+end and let's get started.
+1:14
+There are five things that you're going
+1:15
+to need if you want to follow along with
+1:17
+this AI video editing tutorial. The
+1:19
+first one is the obvious one, which is
+1:20
+Chetik T. We're using Astra as the brain
+1:23
+for all of our projects. The second one
+1:25
+is Hicksfield MCP. This is used for all
+1:28
+of our generations. They were also the
+1:30
+sponsor of this video, but even if they
+1:32
+didn't, this is the best MCP out there
+1:34
+and they also have an API now, which we
+1:37
+are using for all of the generations
+1:39
+that are about to come that are being
+1:40
+done through GPT Astra together with
+1:43
+Hix. The third thing that you're going
+1:45
+to need if you're editing through Da
+1:46
+Vinci Resolve, you're going to need the
+1:48
+Dainci MCP. Don't worry if you're
+1:50
+editing through Premiere Pro, then you
+1:52
+just need Premiere Pro. Same with After
+1:54
+Effects. If you want to do things
+1:55
+through After Effects, you just need to
+1:57
+have that app on your computer. If
+1:59
+you're missing one of the three editing
+2:00
+softwares, as long as you have one of
+2:02
+them, this can still work.
+Basic Editing
+2:05
+Okay, let's start with basic editing.
+2:07
+We're going to be trimming dead spaces.
+2:09
+For this, you want to download the CHP
+2:12
+desktop app or the codeex app. The
+2:15
+reason why is because the cloud version,
+2:17
+if you're using this cloud, you have a
+2:19
+limit of the file size that you can
+2:21
+attach to this. If you're using this on
+2:23
+your PC, you can click to on your
+2:25
+computer and now you can upload really
+2:27
+big files that are already on your
+2:29
+computer and it can use it directly from
+2:31
+that and work directly from that. In the
+2:33
+cloud, as you can see, you're limited to
+2:35
+512 megabits. And I don't know about you
+2:38
+guys, but my camera files are way bigger
+2:40
+than that. So, make sure you switch to
+2:41
+on your computer. Then you drop in the
+2:43
+video that you want to edit. And here
+2:45
+you can select GPT Astra. I'm using
+2:47
+medium most of the times because it's
+2:49
+already expensive enough. You could go
+2:51
+high, but only if you're rich. Then we
+2:53
+need to start prompting it. And I have a
+2:55
+very detailed prompt that anyone can
+2:57
+use. It's a universal prompt. I will
+2:59
+explain to you right now. So, you upload
+3:01
+your video and then you're going to add
+3:02
+in this exact prompt. And this is a
+3:05
+super long prompt. So, I'm going to
+3:07
+break it down for you. Basically, what
+3:08
+this prompt does is it first instructs
+3:10
+Chet to trim the raw footage. Then, it
+3:14
+will ask it to transcribe that footage
+3:16
+and trim out the dead spaces. After
+3:18
+that, it will add in editor instructions
+3:20
+as adjustment layers. Then it will
+3:22
+figure out potential spaces in your
+3:23
+video where you can have or add in Bcam
+3:26
+or even CC cam. And it uses that with
+3:29
+the markers. And lastly, it will give
+3:30
+you the finished version in Premiere Pro
+3:33
+or Dainci Resolve. I'm using Premiere
+3:35
+Pro right here because we are using that
+3:37
+for most of the editing that we do on
+3:39
+this channel. And this is what my team
+3:41
+is also using. But this also works with
+3:43
+Da Vinci. I will show you an example
+3:45
+later. you might get some things that
+3:47
+you need to allow. So, I'm just going to
+3:48
+do always allow for now. This might cost
+3:50
+you more credits. Keep in mind this
+3:52
+process is still quite slow. You can
+3:54
+literally see it take over your PC and
+3:57
+clicking on things for you. Still, some
+3:59
+of these things annoyed me as it took
+4:01
+like 14 minutes to do some of these
+4:03
+trims. So, I would only do this while
+4:05
+you're working on something else and
+4:06
+while you don't want to do the trimming
+4:08
+yourself because you still got to
+4:09
+sometimes monitor if it's doing
+4:11
+everything correctly. So, it's literally
+4:12
+taking over your PC and it's doing
+4:14
+everything for you. As you can see, we
+4:17
+now have a new version where it's
+4:19
+marking potential B-roll. It is adding
+4:22
+some adjustment layers. It is doing
+4:24
+everything for me. Like, it's now even
+4:26
+rendering. Now, as you can see, Chetupty
+4:28
+has ran all of these commands using my
+4:31
+Premiere Pro and it made this version. I
+4:33
+actually stopped this because I already
+4:35
+had this version to begin with, and
+4:37
+that's the one I want to show you
+4:38
+because here it basically has done the
+4:40
+same thing. We're just one step ahead,
+4:42
+which I'm going to explain to you in a
+4:43
+second. But I always start my videos
+4:45
+with a clap to sync the audio. This is
+4:48
+the intro. A few days ago, I was doing
+4:49
+the and using these adjustment layers.
+4:52
+It says intro starts here. Then other
+4:54
+notes that I have like for example here,
+4:56
+I say something about I want to add in
+4:58
+some V effects here. And then like it
+5:00
+mentions it. Trying to do this. I'm not
+5:02
+sure if this works. I'm trying to think
+5:03
+like what if we can like this is not the
+5:05
+part that I want to have in the video.
+5:07
+These are just instructions for me and
+5:09
+my team to go over later. So we can
+5:11
+manually trim these out or you can even
+5:12
+ask JPT to do that for you. The other
+5:14
+thing that it has done is it has marked
+5:16
+these potential Bcam positions and the
+5:19
+potential or optional CC cam positions.
+5:21
+And here again optional CC cam.
+Multiple Angles
+5:25
+Let me explain to you what I mean by
+5:27
+Bcam and CC cam. So this what you're
+5:29
+watching right now is the A cam. Then
+5:32
+this is a B cam. It's a secondary side
+5:35
+angle. I don't have a camera there. Like
+5:37
+there's no camera there. I wish there
+5:39
+was a camera there. If you have like
+5:40
+three different cameras, like that's
+5:42
+expensive. It's a lot of storage.
+5:44
+Storage these days is expensive. But we
+5:46
+can use AI. So this clip is entirely
+5:48
+generated with AI. And I literally asked
+5:51
+Astra to do that for me. Now the other
+5:53
+thing that we can do is we can also
+5:55
+create CC cam. That's another angle. You
+5:57
+can literally create as many different
+5:59
+angles as you want. So how do you add in
+6:01
+multiple camera angles? Well, the first
+6:03
+thing you need is you need to have a
+6:04
+reference that you can feed JGPT to what
+6:07
+your surrounding looks like. So, I gave
+6:09
+it this image. It's with all of the
+6:10
+studio lights turned off. It's a bit of
+6:12
+a behind the scenes. It's It's not the
+6:14
+most clean looking setup. Like, what the
+6:16
+hell's happening here? I'm not going to
+6:18
+I'm I'm renting this place, okay? I
+6:20
+cannot do too much to the place. But I
+6:22
+then use the same chip text, but this
+6:24
+time we're going to use this entire
+6:26
+prompt. What it does is we're going to
+6:28
+ask it to add in the B-roll on specific
+6:32
+segments. So, I'm just going to copy
+6:33
+this prompt. We're going to go back to
+6:36
+Chachi. And now we're going to enter it
+6:37
+in there. And now you can just ask it
+6:40
+and it will start up Premiere Pro again
+6:42
+and it will start generating all of
+6:44
+these things if you have the Hickfield
+6:46
+MCP connected. That's the main thing you
+6:48
+need to do. So you're basically going to
+6:50
+start up this new chat by pasting in
+6:52
+that prompt. Then you're going to add in
+6:54
+that extra reference of your room of the
+6:57
+space of the side angle. And then you're
+6:59
+going to say use the Hickfield MCP. Make
+7:03
+sure you have the Hickfield MCP
+7:04
+connected. Basically, what you can ask
+7:06
+Chetchip to do, I will show you right
+7:08
+now. Install Hicksfield MCP, install
+7:11
+Dainci MCP. While you're at it, you
+7:14
+might as well install Blender MCP. And
+7:16
+literally, by just sending this, it will
+7:18
+install all of these things for you if
+7:20
+you have a subscription. If you don't
+7:21
+have a subscription, get a subscription
+7:23
+first. If you want to support my
+7:24
+channel, use my link. Basically, this is
+7:26
+the task that you need to do. Okay, once
+7:28
+you have done that, you can hit send.
+7:30
+And now it will get to work using that
+7:33
+prompt. Again, this process might take
+7:35
+some time as it's still quite slow and
+7:37
+we don't have an actual Premiere Pro
+7:39
+plugin [music] yet. With Da Vinci, this
+7:41
+might be a lot quicker, but now it's
+7:43
+also like generating these videos using
+7:45
+Cense 2.5. And again, like that's a
+7:48
+lengthy process regardless. Now, you can
+7:50
+see it working here right now. So, you
+7:52
+can see it use these Hicksfield MCPS.
+7:54
+And if you then go over to Hickfield
+7:56
+itself and you go to the video tab, you
+7:58
+can literally see it prompt this and it
+8:00
+is using Cense 2.5. is asking it to
+8:03
+replace video one using this as a
+8:05
+reference. Pretty sick, right? I'm just
+8:06
+going to tell you like it might stop
+8:08
+occasionally because right here it's for
+8:10
+example waiting on the video to confirm.
+8:13
+But this is the B-roll that it made for
+8:16
+that video. Then I noticed that my
+8:18
+editor kept putting in these kind of
+8:20
+disturbing images. Keep in mind this is
+8:22
+entirely like AI generated. I didn't
+8:24
+record this myself. It's just using it
+8:26
+based on this reference and it's made up
+8:28
+itself what I look like from the site
+8:30
+and looking at everything. It's done
+8:32
+quite an amazing job. Like we can even
+8:34
+see like you don't see it but I see
+8:36
+there a shadow on my wall like this
+8:38
+shadow. Then if we look at the C cam
+8:40
+even this one it's time a human can
+8:43
+spend more time on creativity like it's
+8:45
+really really good. Like this thing
+8:47
+there [music] that light actually is
+8:50
+positioned like that. The light behind
+8:51
+me is positioned like that. just this
+8:53
+mouse mat thing is not positioned like I
+8:55
+don't have that but overall this quite
+8:56
+good the only thing is this is if you
+8:58
+want to have CC cam I I don't think this
+9:00
+this angle is flattering of me so I just
+9:02
+want to use the Bcam and the A cam you
+9:04
+can also do this in Dainci because it is
+9:06
+much much quicker as someone has created
+9:09
+a MCP for Dainci so basically by just
+9:12
+prompting it use the Dainci MCP within a
+9:16
+heartbeat you would have a trimmed
+9:17
+version of your timeline so if you are
+9:20
+Da Vinci editor or if you are trying to
+9:22
+get into editing yourself, you might
+9:24
+actually want to try out Dainci. Keep in
+9:26
+mind, you need to use the paid version
+9:28
+for this as the free version doesn't
+9:30
+have the MCP to my knowledge. But this
+9:32
+is to show you how you can generate
+9:33
+multiple different angles of your main
+9:36
+A- roll. All right, so you now
+9:37
+understand how you can trim up your
+9:39
+video and how you can create multiple
+9:41
+different angles of the person that's
+9:43
+talking on the screen. But the next
+Generating B-Roll
+9:44
+thing that I'm going to show you is
+9:46
+B-rolls. B-rolls are a great way to
+9:48
+spice up your videos. The problem,
+9:50
+however, is that generic stock footage
+9:52
+B-roll looks boring and might not fit
+9:55
+your vibe. The solution is generating
+9:58
+those B-rolls yourself using AI. You can
+10:00
+completely customize them based on the
+10:02
+prompt you put in. Anything is possible
+10:04
+really. The other thing is is that you
+10:06
+can get exactly what you want in like 10
+10:08
+minutes. You can save credits by using
+10:10
+costefficient models like Cling and they
+10:13
+still do the job quite well. Cool. So,
+10:16
+how do you generate the B-rolls like
+10:17
+I've just shown you? The first thing
+10:19
+you're going to need is you need to have
+10:20
+multiple different references of the
+10:22
+character that you want to have B-roll
+10:24
+from. In this case, it's me. So, what I
+10:26
+did is I used my iPhone and then I made
+10:29
+these three images to get a full picture
+10:31
+of my face. But if you have something a
+10:33
+bit more complex, then you might want to
+10:35
+use a character sheet like this one or
+10:38
+this one. This one is like 100%
+10:41
+accurate. Like I literally scan my body
+10:43
+and this is actually how muscled I am.
+10:46
+I'm just trying to make a joke here
+10:48
+because I'm not that muscled. But as you
+10:49
+can see, this is super simple. I use my
+10:51
+face as a reference. Then I just add in
+10:53
+a prompt explaining what I want to have
+10:56
+on the screen. If you want to see all of
+10:58
+the prompts that I'm using in this
+11:00
+video, then make sure you're joining the
+11:01
+free school community here. For every
+11:03
+video that I make, I'm uploading all of
+11:05
+the assets, all of the prompts, sharing
+11:07
+them with you so you can go through that
+11:09
+at your own pace. To create your B-roll,
+11:11
+I will just give you a quick rundown.
+11:13
+What I did is I uploaded the three
+11:15
+images of me. Then I used this skill MD
+11:18
+file that explains how to make a
+11:20
+character sheet. And then I just gave it
+11:22
+a simple prompt like this. Using the
+11:24
+skill and my three reference images, can
+11:26
+you help me generate a character sheet
+11:27
+in Hickfield? You also want might add in
+11:31
+Hickfield like this. And then explain
+11:34
+what you want it to look like. So now
+11:36
+you hit generate. After it's done
+11:38
+generating, it will give you the carrot
+11:39
+sheet that would look something like
+11:41
+this. you now are ready to generate your
+11:43
+video. But first, you need to have a
+11:44
+video that needs B-roll. So, I recorded
+11:47
+this segment for that.
+11:50
+[snorts] So, the sentence is, if you're
+11:51
+stuck for ideas on what to generate
+11:53
+next, go for a walk or take a shower.
+11:55
+Sometimes the best ideas come when you
+11:56
+stop trying so hard. If you're stuck for
+11:58
+ideas and you don't know what to
+12:00
+generate next, the best thing that you
+12:02
+could do is you can either go for a walk
+12:04
+or take a shower because sometimes the
+12:06
+best ideas come when you stop trying so
+12:08
+hard. Okay. So, at the part of go for a
+12:12
+walk, I want to have B-roll. And at the
+12:14
+part of taking a shower, I want to have
+12:15
+B-roll just for visual context. So, at
+12:18
+the part where I say you go for a walk,
+12:20
+I want to generate B-roll for that. So,
+12:22
+I'm basically asking it to generate me
+12:25
+with this character sheet a CD 2.5 video
+12:28
+of me walking in the park. And then I
+12:30
+describe what my shot looks like. I do
+12:32
+the same for the shower part. Then
+12:34
+literally what it does is it uses
+12:36
+Hicksfield again to generate the video
+12:38
+and it will give you the video right
+12:40
+here. And then if you combine that, you
+12:42
+get something like this. If you're stuck
+12:44
+for ideas and you don't know what to
+12:46
+generate next, the best thing that you
+12:47
+could do is you can either go for a walk
+12:49
+or take a shower because sometimes the
+12:52
+best ideas come when you stop trying so
+12:54
+hard. Okay, let's go a little bit more
+12:56
+advanced. Let's talk about motion
+Motion Graphics
+12:58
+graphics. Here's an example of the
+13:00
+motion graphics that AI made for me.
+13:03
+Video editors need to start using GT
+13:05
+Astra ASAP. Not only does it create
+13:07
+small motion graphic elements like this,
+13:10
+it can also create full range animations
+13:12
+that used to take hours in After
+13:14
+Effects. All of that on autopilot. If
+13:17
+you want to learn how to use GPT as then
+13:19
+check out the full tutorial that is in
+13:21
+my free school community linked down
+13:24
+below. Here's the entire timeline that
+13:27
+AI helped me make for all of these. And
+13:30
+I'm naming this a bit more advanced
+13:32
+because the misconception is AI is this
+13:34
+magical thing that will do everything
+13:36
+for you and it will look amazing. You
+13:38
+won't get this result by just prompting
+13:40
+it. You need to combine a bit of your
+13:42
+own skill together with AI. And that's
+13:44
+why I'm saying like editors are not
+13:46
+replaced. Like me and my editor actually
+13:48
+collab on this. So we're trying to
+13:50
+figure out what can be done and what
+13:52
+cannot be done with AI. And we have used
+13:55
+a lot of AI. It was also a bit of a
+13:56
+painful process sometimes to figure out
+13:58
+how to do these different style of
+14:01
+motion graphics. I'm going to show you
+14:02
+three different workflows. The first one
+14:04
+is this basic animation workflow. What I
+14:07
+did is I uploaded references of what my
+14:09
+community looks like because I would
+14:11
+love to have some cool looking motion
+14:12
+graphics of that community. Here's the
+14:14
+banner of that community. Still need to
+14:16
+update this. Then I also added in some
+14:18
+style inspiration. So, I found these
+14:21
+different type of motion graphic
+14:23
+inspiration and this is kind of like
+14:25
+what I screenshotted and then I asked it
+14:28
+to help me. Then I basically used
+14:29
+Whisper Flow to give me these motion
+14:32
+graphics and it just went to work. Like
+14:34
+it just used After Effects and it made
+14:36
+all of these things for me and after
+14:37
+going a bit of back and forth, it
+14:39
+finished the After Effects motion
+14:41
+graphic for me. It even gave me the
+14:43
+complete project file so I can go in
+14:45
+there and I can edit it myself and I
+14:48
+have the finished video. So again, I am
+14:50
+not an After Effects user myself, but my
+14:52
+editor is. So I can now give this to my
+14:54
+editor to tweak little things. The next
+14:56
+one is more of an advanced workflow, and
+14:58
+this is quite hard to explain because
+15:00
+there were so many different prompts
+15:01
+that went into this. But I'll try my
+15:03
+best to give you a summary. First, we're
+15:05
+talking about this kind of motion
+15:06
+graphics. And this is cool because we're
+15:08
+trying to create a new style that would
+15:10
+add to my videos where we have custom
+15:12
+animated images of me that we can use in
+15:14
+different situations. The way I made
+15:16
+this is I added in a bunch of different
+15:18
+references of styles that I liked and
+15:20
+then again I just started talking using
+15:22
+Whisper Flow about the kind of
+15:24
+animations and things that I want to
+15:26
+see. So then it started to create these
+15:28
+references of me first and then
+15:30
+eventually it made these images of GT
+15:33
+Astra 6 and me again and then we got
+15:36
+this generation. So, it made like all of
+15:38
+these different images and it kept me
+15:40
+updated and then it gave me the prompts
+15:42
+of what it wanted to use. And then I
+15:44
+manually used these prompts inside of
+15:46
+Hicksfield because I didn't trust Astra
+15:48
+there and didn't want to waste too many
+15:49
+credits. Keep in mind if you're doing
+15:51
+this and you have the approve for me or
+15:53
+full access available. It might cost you
+15:56
+a lot of credits if you go into the
+15:58
+wrong direction. If you have money,
+15:59
+you're good. If you don't have money,
+16:00
+please don't do it. Like, I'm not doing
+16:02
+this either. Like, this is risky. Like,
+16:03
+I always want to approve because you
+16:05
+will burn through tokens. [music] so
+16:07
+quickly using this method. So then I got
+16:09
+like all of these different prompts. I
+16:11
+manually created them inside of
+16:13
+Hicksfield and then I tweaked like all
+16:14
+of the different settings. So this is me
+16:16
+going back and forth before I did the
+16:18
+final generation and then eventually
+16:20
+like this is the whole chat. Like you
+16:21
+can see how long it is. Eventually like
+16:23
+it made like all of these different
+16:25
+things for me and then I imported them
+16:27
+into my timeline and I added like a
+16:29
+small little things like this white
+16:31
+transition right here. But all of this
+16:33
+is done handinhand with Astra. Okay, so
+16:36
+there's one motion graphic which is this
+16:38
+pixel version of me and I'm going to
+16:40
+share with you how I made this because I
+16:42
+think this is awesome for adding in this
+16:44
+into your video. So I just uploaded an
+16:46
+image of me and I just told them like
+16:48
+this is a screenshot of me and I asked
+16:50
+it to create a pixel version of me. So
+16:51
+it made like these three different
+16:53
+versions using the hixel MCP. Then I
+16:55
+basically asked it if it can now give me
+16:58
+a cedance 2.5 prompt and I wanted to do
+17:00
+this part manually again. [music] So now
+17:02
+it gave me the prompt where I basically
+17:04
+asked it what I wanted to have happen.
+17:07
+So in this case I wanted it to walk into
+17:09
+the frame and say don't forget to
+17:11
+subscribe. So now if you upload the part
+17:13
+where you want to have that in your
+17:14
+video together with your asset and then
+17:17
+you ask it to replace it and we get this
+17:20
+cool looking result where I walk into
+17:21
+the frame and say don't forget to
+17:23
+subscribe and I jump out of it. Not only
+17:25
+does it create small motion graphic
+17:27
+elements like this. So now I can use
+17:30
+this asset over and over and over again
+17:32
+in all of my videos. One of my favorite
+Generating VFX
+17:34
+things to do with AI is making VFX. So
+17:37
+I'm now going to show you how you can do
+17:38
+an effect like this. So you want to
+17:41
+learn how to do VFX? Well, let me
+17:43
+actually
+17:45
+let me show you. Wait, what the hell is
+17:47
+that thing behind me?
+17:52
+Okay. And for my next trick, let me
+17:54
+actually move back a little bit. So now
+17:57
+we're going to do this.
+18:02
+Oopsie.
+18:05
+So there are a couple steps that go into
+18:07
+making a video like that. First of all,
+18:09
+it starts with your recording. Now this
+18:11
+was my raw recording and I already
+18:13
+envisioned what I wanted to do. So I
+18:16
+wanted to have something like there.
+18:17
+Then I wanted to use some kind of like
+18:19
+magic wand. In my case, it's actually a
+18:21
+pen that I hold in my hand. And then
+18:23
+something needed to happen at the end.
+18:26
+Let me actually move back a [music]
+18:27
+little bit. So now we're going to do
+18:30
+this.
+18:34
+Okay. I hope that works. Um, yeah. So I
+18:37
+I hope that works. So I've identified
+18:40
+three points. First point being is when
+18:42
+I look over my shoulder. So I'm going to
+18:44
+leave a mark right here. An important
+18:46
+thing I want you to do right now is if
+18:48
+you're using Premiere or if you're using
+18:49
+Da Vinci and your timeline looks like
+18:51
+this where you can just see like normal
+18:54
+time of how many seconds it's into the
+18:56
+video, change this to the view. I do
+18:58
+that with command and then clicking on
+19:00
+this probably would be control of your
+19:02
+own Windows and then you can see the
+19:04
+exact frames. So at the 107th frame, I'm
+19:06
+going to leave a mark and remember that
+19:08
+frame for when you're prompting. Then
+19:10
+the next thing is here when the pen
+19:13
+arrives in my hand. So, I'm just going
+19:15
+to leave a mark right here at 279. So,
+19:17
+I'm just going to add in a mark. And
+19:18
+then I'm going to do the same when I'm
+19:20
+clapping into my hands. So, right here,
+19:22
+I want something to happen with like a
+19:25
+car going through the wall. That is the
+19:26
+first things that you need to do. So,
+19:28
+now we have identified these three
+19:29
+points of where the effects need to
+19:31
+happen. Then, we're going to walk
+19:32
+through them step by step. So, the first
+19:34
+thing we need is a creature. My first
+19:37
+version of the creature was this. I made
+19:40
+the mistake here where this didn't
+19:42
+really look photorealistic until after a
+19:45
+few generations, I finally landed on
+19:47
+something like this. This looks a lot
+19:48
+more creepy, bit more realistic, and
+19:51
+then this ended up being the creature
+19:52
+that I wanted to use. The second thing
+19:54
+that we need to generate is the magic
+19:56
+wand. So, here I made a [music] magic
+19:59
+wand like this. Again, the prompt is
+20:01
+simple. I'm just describing like what I
+20:03
+want to make, what the background looks
+20:05
+like, the lighting, the style, and I'm
+20:07
+using Cream 5.0 Pro for this. So now we
+20:10
+already have two of our things. Then the
+20:12
+last thing is the car. And here I have
+20:15
+this guy. I call him Bruiser. And I
+20:17
+wanted him to be in a Tesla. Bruiser is
+20:20
+going to run into me. And this is the
+20:22
+reference that we're going to use for
+20:23
+that. So we now have created the three
+20:26
+of our references. Then what you can do
+20:28
+is you can take all three of these
+20:30
+references, put them inside of Chet or
+20:33
+CL. Then you add in your video. And then
+20:36
+you're going to precisely describe what
+20:38
+you want to have happen per frame. So as
+20:41
+we remembered, I have here frame 107,
+20:44
+then I have frame 279, and then I have
+20:47
+frame 567. So that is what we're going
+20:50
+to prompt. And if we do that correctly,
+20:52
+then it will give you a very detailed
+20:54
+prompt of everything that's happening
+20:57
+precisely on the time stamp. like it
+20:59
+would come up with that timestamp and it
+21:01
+will tell you exactly where that thing
+21:03
+needs to go and it will reference these
+21:05
+images. Like this deserves like a a
+21:07
+separate video on its own, but I just
+21:09
+want to show you like what's possible.
+21:10
+After doing that, you can look at a side
+21:13
+by side and then you have results like
+21:15
+this. So, you want to learn how to do
+21:17
+VFX? Well, let me actually
+21:21
+let me show you. Wait, what the hell is
+21:23
+that thing behind me?
+21:28
+Okay. And for my next trick, let me
+21:30
+actually move back a little bit. So now
+21:33
+we're going to do this.
+21:38
+Oopsie.
+21:40
+So that is exactly how you can generate
+21:42
+these V effects. If I went too fast,
+21:44
+please let me know. I can make a
+21:46
+separate video about this if you want
+Color Grading
+21:48
+to.
+21:50
+Moving on, I will show you how you can
+21:52
+use Astra 6 to color grade your footage.
+21:55
+You can do this both through Chip itself
+21:58
+and also through Dainci. Let's first
+22:00
+start by doing this in Astra 6.
+22:02
+Basically, what you can do is I have
+22:04
+this footage. This was shot while I was
+22:06
+in Malaysia. This is SLOG footage. I'm
+22:10
+using the official Sony conversion log
+22:12
+that I found online for my camera. And
+22:14
+then basically I'm giving it a simple
+22:16
+prompt where I'm saying that the
+22:18
+uploaded MP4 file is my SLOG 3 footage.
+22:21
+And the other file is the official Sony
+22:23
+recording 709 conversion L. I want to
+22:26
+use this to color grade my MP4 by using
+22:29
+the conversion L. And please for the
+22:31
+deliverables, can you put this in a
+22:32
+Premiere Pro timeline so I can manually
+22:35
+edit it further if I need? That's all I
+22:38
+do. So now you hit send and then it will
+22:40
+do everything for you. So it has now
+22:43
+given me this folder and if we look at
+22:45
+these side by side then you can see that
+22:47
+we now have a color graded video. This
+22:50
+is the super simple way. Again,
+22:51
+sometimes this might take a while. In
+22:53
+this case, you don't want it. I
+22:55
+specifically told it, don't use my
+22:57
+Premiere Pro directly because that's the
+22:59
+slow version. Like for simple tasks like
+23:01
+these, you might not have to use AI. If
+23:04
+you have more advanced ones, then I
+23:05
+would definitely use AI, but keep in
+23:07
+mind like it can still be quite slow.
+23:09
+The other thing you can do is you can
+23:10
+use the Dainci MCP. If you have the
+23:13
+premium version of Dainci, then you can
+23:16
+ask it to color grade directly in
+23:18
+Dainci. It is much quicker and it will
+23:20
+also give you much more customization
+23:23
+options because Dainci is best for color
+23:25
+grading. You can even ask it to be
+23:27
+creative when it comes to color grading
+23:29
+your work. The last segment which is
+23:31
+also a very important segment is sound
+Sound Design
+23:34
+design. Sound design is what sells your
+23:37
+videos. If you're doing sound design
+23:39
+manually, you can now use AI to do sound
+23:42
+design for you. There are various
+23:43
+different ways. And again, this also
+23:45
+might deserve a video on its own because
+23:46
+you can literally have Astra 6 control
+23:49
+your sound design software, which is
+23:51
+crazy on itself, but I'm going to show
+23:53
+you a simple version. Remember when we
+23:55
+had this video?
+24:01
+[music]
+24:04
+I personally don't really like the sound
+24:06
+that [music] Cens made for this one. So
+24:09
+what we can do is we can upload this
+24:11
+into Astra and then we can just give it
+24:13
+a super simple prompt. I want you to
+24:15
+craft a CDE 2.5 prompt to generate an
+24:17
+audible synchronized sound effects track
+24:19
+for this 8second UI animation. The
+24:21
+reference is the video. So you need to
+24:23
+analyze it frame by frame and understand
+24:25
+what sound effects. Keep in mind you can
+24:26
+do this for any type of video. In this
+24:28
+case I used this animation but you can
+24:30
+also literally do this for a intro
+24:32
+video. That's how we do it sometimes.
+24:34
+Then you're just going to ask it to make
+24:36
+a prompt. In this case, I'm going to
+24:38
+make the prompt because I want to save
+24:39
+some credits before it does this in
+24:42
+Hicksfield and I get a version that I'm
+24:44
+not happy with because I always want to
+24:46
+check the prompts that it's going to
+24:47
+use. So, as you can see, it wrote a
+24:49
+super detailed prompt of the audio. And
+24:52
+now you want to go through this and see
+24:54
+if you agree with this. If you disagree,
+24:56
+then go back, reiterate, change a few
+24:58
+things. Always do that with your
+24:59
+prompts. Just don't blindly trust JGPT
+25:02
+for everything because that's how you're
+25:04
+going to burn a lot of money. Like,
+25:05
+trust me, I've been there. If you have
+25:07
+any changes, change them. Otherwise,
+25:08
+copy this. Go into Hickfield. Upload
+25:11
+your original track in CNS 2.5. Then
+25:14
+paste in the prompt right here. Make
+25:15
+sure you add in video one to refer to
+25:18
+that video. Then match the length of the
+25:20
+video. Choose your settings. You could
+25:22
+do this in low settings. You don't need
+25:24
+to do this in high settings because I'm
+25:26
+going to show you why. Here I have the
+25:28
+finished result of that prompt.
+25:37
+like it sounds a bit better, but the
+25:39
+video quality has noticeably gotten
+25:41
+worse. So, you just want to download
+25:42
+that video. Then, you want to separate
+25:44
+those audio tracks and then you want to
+25:46
+replace that with the original video.
+25:48
+Literally, you could even drop in that
+25:49
+video in there and you can just use like
+25:52
+Whisper Flow and you can say something
+25:54
+like, "I want you to replace this audio
+25:57
+of the file that I just uploaded and
+25:59
+replace it with the original file that I
+26:01
+gave you and make it match." Then Astra
+26:04
+will do the work for you and you will
+26:06
+[music] have your original highquality
+26:09
+clip with the new audio that you just
+26:12
+generated. All right, that is the
+26:13
+complete guide of how you can edit your
+26:16
+videos using AI. In particularly, we're
+26:19
+using Astra 6 as the brains of this. If
+26:21
+you want to try this out yourself, I
+26:23
+would recommend using Hixoot for that. I
+26:25
+will leave the link in the description
+26:26
+down below. And if you have any
+26:29
+questions on this video, you want to see
+26:30
+more things in depth. Lastly, make sure
+26:32
+to click the video on the screen right
+26:34
+now if you want to learn what else you
+26:36
+can do with Astra 6 and see

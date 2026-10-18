@@ -1,0 +1,310 @@
+
+Emotion / Direction
+How to use
+Seedance 2.5 performance field guide
+
+Direct emotion
+you can see.
+01
+Watch the performance. Copy the acting direction. Adapt it to your own scene.
+
+Explore 25 emotions
+Search emotions or acting cues
+Search emotions or acting cues
+Family
+
+All
+Intensity
+
+All
+Performance library
+
+25 emotions
+Joy
+Explosive
+Joy / Laughter
+Laughter breaks loose
+
+Performance prompt
+The eyes squeeze into crinkled slits, the mouth opens wide showing teeth, the head drops forward and tips back, and the shoulders bounce with each breath. The laugh settles into a wide lingering grin.
+
+
+Copy prompt
+↗
+Surprise
+Explosive
+Shock
+Sudden disbelief
+
+Performance prompt
+The eyes snap wide with white visible above the iris, the eyebrows shoot up, the jaw drops fully open, and the head jerks back. The face freezes in that expression before a single blink.
+
+
+Copy prompt
+↗
+Fear
+Explosive
+Terror
+Fear refuses to release
+
+Performance prompt
+The eyebrows pull up and together, the eyes lock wide open without blinking, the mouth stretches open, the chin tucks back, and the chest rises and falls with fast, shallow breaths.
+
+
+Copy prompt
+↗
+Anger
+Explosive
+Rage
+Control breaks open
+
+Performance prompt
+The eyebrows slam down and inward, the upper lip peels back from the teeth, the nostrils flare, the neck tendons tighten, and the head pushes forward. The snarl holds as hard breaths move through the nose.
+
+
+Copy prompt
+↗
+Disgust
+Medium
+Disgust
+Full recoil
+
+Performance prompt
+The nose wrinkles hard and pulls the upper lip upward, the eyes squint nearly shut, the chin draws in, and the head recoils and turns away. The revolted expression holds.
+
+
+Copy prompt
+↗
+Sadness
+Explosive
+Crying
+Composure collapses
+
+Performance prompt
+The eyes and nose flush red, tears spill over the lower lid, the breath catches in visible stutters, the mouth pulls into a square shape, and the chin crumples and trembles. The shoulders begin to shake.
+
+
+Copy prompt
+↗
+Physical
+Explosive
+Pain / Wince
+Sharp jolt
+
+Performance prompt
+The eyes clamp shut, the teeth bare in a hard grimace, the head snaps to one side, and one shoulder rises toward the ear. The face stays contracted before easing only slightly.
+
+
+Copy prompt
+↗
+Social
+Medium
+Eye Roll
+Patience is gone
+
+Performance prompt
+The eyes roll in a full, slow arc while the head tilts with the movement. Air pushes out through the nose, the eyes return with lowered lids, and a flat stare holds before the gaze turns away.
+
+
+Copy prompt
+↗
+Fear
+Subtle
+Suspicion
+Something does not add up
+
+Performance prompt
+The chin drops while the eyes stay lifted. One eyebrow rises higher, the head turns slightly so the gaze lands sideways, and the mouth tightens at one corner. The stare holds without blinking.
+
+
+Copy prompt
+↗
+Social
+Subtle
+Flirtation
+Playful restraint
+
+Performance prompt
+The chin lowers, the gaze returns with a slow, deliberate blink, and a warm, playful half-smile grows at one corner of the mouth. The expression holds without rushing or breaking eye contact.
+
+
+Copy prompt
+↗
+Social
+Medium
+Smug / Gloating
+Quiet superiority
+
+Performance prompt
+The eyelids lower, one corner of the mouth pulls into a slow smirk, the eyebrows rise once and settle, and the chin lifts slightly. The smirk holds through unbroken eye contact.
+
+
+Copy prompt
+↗
+Physical
+Subtle
+Boredom
+Attention drains away
+
+Performance prompt
+The eyelids grow heavy, the gaze drifts and loses focus, a slow blink lasts too long, the jaw slackens, and a long sigh lowers the chest. The head sinks and the body settles into stillness.
+
+
+Copy prompt
+↗
+Surprise
+Medium
+Confusion
+Meaning will not settle
+
+Performance prompt
+The eyebrows become asymmetric, one raised and one lowered. The eyes search rapidly, the head tilts sharply, and the mouth hangs slightly open. The puzzled expression deepens instead of resolving.
+
+
+Copy prompt
+↗
+Surprise
+Medium
+Realization
+The answer lands
+
+Performance prompt
+A blank thinking expression breaks as the eyes widen, the eyebrows jump, the lips part on a silent breath, and focus snaps back. A slow nod follows while the knowing, slightly stunned look holds.
+
+
+Copy prompt
+↗
+Joy
+Medium
+Awe / Wonder
+Drawn toward wonder
+
+Performance prompt
+The eyes widen gradually without tension in the brow, the mouth opens little by little, the head tilts upward, and the body leans forward. The open, reverent expression never drops.
+
+
+Copy prompt
+↗
+Drive
+Medium
+Determination
+Resolve locks in
+
+Performance prompt
+The eyes lift and lock forward, a deep breath expands the chest, the jaw sets visibly at the hinge, the eyes narrow, and the shoulders roll back. One sharp nod completes the change.
+
+
+Copy prompt
+↗
+Anger
+Medium
+Frustration
+Effort turns to defeat
+
+Performance prompt
+The eyes clamp shut, the jaw slides from side to side, a sharp breath pushes through the nose, and the head shakes once. The head tips back as one long defeated breath leaves the tension in the face.
+
+
+Copy prompt
+↗
+Fear
+Medium
+Anxiety
+Restlessness will not stop
+
+Performance prompt
+The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower lip pulls between the teeth, and breathing remains shallow and quick. The hands grip together as the weight keeps shifting.
+
+
+Copy prompt
+↗
+Sadness
+Subtle
+Sadness
+Quiet hurt
+
+Performance prompt
+The inner corners of the eyebrows pull up and together, the mouth corners drag down, the chin trembles once, and the gaze sinks as the head lowers. A slow blink and hard swallow fail to change the expression.
+
+
+Copy prompt
+↗
+Sadness
+Subtle
+Guilt
+The truth weighs down
+
+Performance prompt
+The mouth opens but no words come. The eyes slide down and away, the head lowers, a hard swallow moves through the throat, and one hand reaches to the back of the neck. The gaze stays on the floor.
+
+
+Copy prompt
+↗
+Social
+Medium
+Embarrassment
+Confidence folds inward
+
+Performance prompt
+Color rises in the cheeks, the eyes dart down and to the side, and an awkward pressed-lip half-smile appears. The head ducks and turns away while one hand rises near the mouth. The eyes stay lowered.
+
+
+Copy prompt
+↗
+Physical
+Subtle
+Exhaustion
+Nothing left to give
+
+Performance prompt
+The eyelids drag downward, a long blink stays closed too long, the head drifts down and lifts again slowly, the jaw hangs slack, and one long breath empties out. The eyes reopen only halfway.
+
+
+Copy prompt
+↗
+Joy
+Medium
+Relief
+Pressure finally releases
+
+Performance prompt
+A large visible exhale empties the chest, the eyes close, the raised eyebrows drop to neutral, and the shoulders collapse downward. One hand rises to the forehead. A small, shaky smile appears only after the breath finishes.
+
+
+Copy prompt
+↗
+Drive
+Subtle
+Pride
+Satisfaction held quietly
+
+Performance prompt
+The chin lifts, the chest expands, and a closed-lip smile spreads slowly and evenly. The shoulders roll back, followed by one slow, satisfied blink. The smile remains as the arms fold.
+
+
+Copy prompt
+↗
+Social
+Subtle
+Nervous Fake Smile
+Smile without warmth
+
+Performance prompt
+The mouth stretches into a smile while the eyes stay flat, with no crinkling at the corners. Blinking speeds up, the throat makes a hard swallow, and the gaze drops before the strained smile snaps back into place.
+
+
+Copy prompt
+↗
+How to use this library
+
+Keep performance separate from production.
+Every prompt here contains only visible acting behavior. Room, camera, wardrobe, story, audio, and duration have intentionally been removed.
+
+01
+Choose the emotion and intensity.
+02
+Copy the performance prompt.
+03
+Add it after your own scene and trigger.
+Emotion / Direction
+25 performance studies for AI video direction

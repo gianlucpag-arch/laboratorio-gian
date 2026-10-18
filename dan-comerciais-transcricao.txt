@@ -1,0 +1,870 @@
+
+Procurar no vídeo
+0:00
+The World Cup, arguably the best event
+0:02
+created by mankind. It's also the place
+0:05
+where brands like Nike spend insane
+0:07
+amount of money on their ads. I wanted
+0:10
+to see what I can do with AI. So, in
+0:12
+this video, I'll be breaking down how to
+0:14
+make AI videos like this.
+0:19
+[screaming]
+0:31
+[screaming]
+0:32
+Heat. Heat.
+0:41
+[music]
+0:49
+[music]
+1:07
+Everything you just saw was 100% AI
+1:10
+generated. We're talking characters,
+1:12
+location to even some of the story was
+1:14
+AI generated. Now, in this video, I'll
+1:17
+be breaking down several different
+1:18
+techniques that you can apply yourself
+1:20
+in your own AI videos. First, we're
+1:23
+going to start with pre-production. So,
+1:25
+every video starts with a story behind
+1:28
+it. And the reason for this video was my
+1:30
+childhood dream of becoming a
+1:33
+footballer. Unfortunately, I just wasn't
+1:35
+good enough. But with the help of AI, I
+1:37
+suddenly play for the Dutch national
+1:38
+team. That is the whole reason behind
+1:40
+it. I wanted to make an ad or like a
+1:43
+kind of like inspiring motivational type
+1:45
+video that goes over me as a child
+1:48
+growing up watching my idols play
+1:49
+football and then I hustle my way
+1:51
+through the academy. I eventually am
+1:53
+signed and I become a Nike athlete that
+1:56
+is going to make his big move in a
+1:58
+really important game. So that is the
+2:00
+foundation of our story. We can now
+2:02
+start working on our characters. Now,
+2:05
+making your character is one of the most
+2:06
+important parts because every great
+2:09
+movie, every great video has a main
+2:12
+character in there. If we're talking
+2:13
+about Breaking Bad, we got Walter White.
+2:15
+If you think about The Hunger Games, you
+2:17
+got Katniss Everdine. And if you're
+2:19
+talking about Fight Club, Tyler Deran
+2:21
+pops up into your hat. So, those are
+2:23
+some of the main characters. Now, in my
+2:25
+movie, I play the main character. But
+2:27
+you also want to create a bit of lore
+2:29
+behind the character. So, you want to
+2:30
+think like what does the character talk
+2:32
+like? How does this character act? What
+2:35
+does this character do? That is the
+2:36
+thing that you need to think of when
+2:38
+you're making your AI videos. So, for my
+2:40
+ad, I wanted to make a version of me
+2:42
+growing up. So, I have four different
+2:45
+variations of me. We got me as a
+2:47
+6-year-old, a 15year-old, an
+2:49
+18-year-old, and we got me as my adult
+2:52
+version that I am now. Now, the way I
+2:53
+made this is super simple. For this,
+2:56
+we'll be using Higfield because we're
+2:58
+using a few of their custom tools like
+3:00
+their location creator, their Soulcast,
+3:02
+and also Hicksfield Supercomputer. If
+3:04
+you want to check it out, I will leave a
+3:05
+link to them in the description down
+3:07
+below. So, what we're going to do is
+3:09
+we're going to make a character sheet of
+3:12
+our character. In this case, it's me.
+3:13
+It's that simple that I just took this
+3:15
+really shitty screenshot of me and I
+3:18
+made this Gucci tracksuit. And that's
+3:20
+all there is. Create a photorealistic
+3:22
+character sheet of this person wearing
+3:24
+this outfit. gray backgrounds, front,
+3:25
+back, and a detailed close-up on the
+3:27
+face. I'm using Nenam Nana Pro for this
+3:29
+because it's the cheapest model out
+3:31
+there, and I want you to be saving some
+3:32
+credits. But if you want the best
+3:34
+results, I would suggest using GPT image
+3:37
+too. So now all you have to do is you
+3:39
+have to click generate and that gives
+3:40
+you a result like this. An important
+3:43
+note on this though is your output will
+3:45
+only be as good as your input. So, in my
+3:47
+case, for example, it would have been
+3:49
+best if I took like a high quality
+3:51
+selfie of my face to get better results,
+3:53
+but this is good enough. If you're
+3:55
+starting from scratch and you don't have
+3:57
+a character yet, like in my case, I have
+3:59
+an image of myself. That's my main
+4:01
+character. But if you want to start from
+4:02
+scratch, another good way to get started
+4:04
+on this is to use Hicksfield Soul Cast.
+4:08
+You can find this if you go over to
+4:09
+Hickfield. If you go and click on the
+4:12
+cinema studio, then you go over to
+4:14
+images and here you can select the AI
+4:16
+cast. Now, this is quite good if you're
+4:19
+just getting started. Like I made these
+4:20
+examples. All I just did is type in a
+4:23
+really simple prompt and it gives you
+4:24
+these different character sheets. So
+4:27
+that is the custom tool that you can
+4:28
+use. Really easy to use if you're just
+4:30
+getting started. You want to repeat this
+4:32
+process for every character that will
+4:34
+star into your video. So here I got
+4:37
+different variations of myself. So I did
+4:39
+the same thing using myself as an
+4:41
+example in multiple different ages. Then
+4:44
+here I made this character first. Then I
+4:46
+made a mistake with the number and then
+4:48
+I thought like oh let me change it to
+4:49
+number 10 and then later I was like no I
+4:51
+want to play as number nine. So then I
+4:53
+just use a bit of nano manennena and I
+4:54
+changed the number from 10 to 9. Then
+4:56
+you also want to do the same on your
+4:58
+other characters that will star into
+4:59
+your video. So I did the same for the
+5:01
+coach that will play in there and I did
+5:03
+the same for the assistant coach that
+5:04
+also plays a role in the video. So I
+5:07
+would also suggest using something like
+5:09
+either supercomputer or something like
+5:12
+Figma. I actually made this with the
+5:14
+Figma plug-in on Hicksfield. And it's
+5:16
+really useful to keep everything
+5:18
+organized. So if we go over to this
+5:20
+video, we can see we go for the
+5:22
+characters to mood boards. And that's
+5:24
+actually also the next step because now
+5:26
+that you have all of your characters in
+5:27
+place, you have a better understanding
+5:29
+of what your story is about. Before you
+5:32
+start generating anything, what I always
+5:34
+like to do is I like to put my ID
+5:37
+through some AI tool like cloth and then
+5:40
+have it help me come up with mood
+5:42
+boards. In this case, I actually used
+5:44
+cloth through supercomputer. So all I
+5:46
+did is I just put like whisper flow or
+5:48
+like a voice message in there and I
+5:50
+asked it to make a few storyboards. So
+5:52
+it came up with all of these different
+5:54
+storyboards and that gave me inspiration
+5:56
+for the rest of my video. So I had a
+5:58
+rough idea of like me watching TV and
+6:00
+then I play outside, then I be at some
+6:03
+smaller stadium, but I did not know what
+6:05
+angles to use and all of that. Now with
+6:08
+these character sheets, you can get some
+6:10
+good inspirations on like colors that
+6:12
+you want to use, on angles that you
+6:14
+think of, of locations, all of that. So
+6:16
+that's why I generated this like a bunch
+6:18
+of different times. And supercomputer
+6:20
+does a great job at this. So that's what
+6:22
+I would suggest. First think of your
+6:23
+story. Then build out your characters.
+6:26
+Then refine your story through something
+6:28
+like Hixelot Supercomputer. Build out
+6:30
+your first drafts. So then you have a
+6:32
+good understanding of what your video
+6:35
+will be about. So that makes sure that
+6:37
+you don't waste any credits when you
+6:38
+change your story later down the line
+6:40
+because you already have that set in
+6:42
+stone during your ideation period. So
+6:44
+those mood board actually give me a
+6:46
+better idea of where my story will take
+6:48
+place and that is the location. I also
+6:51
+call this world building. Now, world
+6:54
+building is so important because you
+6:55
+need to think of where your story will
+6:57
+actually play out. Where does your
+6:59
+character live? Like, what's happening
+7:00
+around him? Where does everything take
+7:02
+place? What does the surrounding look
+7:04
+like? Those are things people don't
+7:05
+really think of. For this story, I made
+7:07
+these for inspiration, locations. And
+7:11
+this is what I'm going to use throughout
+7:12
+my video as references. Let me show you
+7:15
+one of the easiest ways to create
+7:17
+locations for your stories. So, you want
+7:19
+to go over to Cinema Studio again. Now,
+7:22
+instead of using AICast, we're going to
+7:23
+switch it over to cinematic locations.
+7:26
+So, for the location, let's do something
+7:28
+fun. I'm going to type in rich night
+7:30
+clip interior. And this time, I'm going
+7:32
+to generate like 10 of them. That allows
+7:33
+me to go through them. And it's also
+7:35
+super cheap to generate this. And I have
+7:37
+a super vague prompt. So, I will just
+7:38
+let the EI do all of the hard work. Now,
+7:40
+that gave me all of these results, and
+7:43
+they vary quite a lot, but one of them
+7:46
+jumped out to me. Like, I really liked
+7:47
+this one. So this is the one that we
+7:49
+will be using for our location. What you
+7:51
+can do now is if you want to have
+7:53
+multiple different angles of it, you
+7:55
+just click on these three dots. Then you
+7:57
+click on additional and then [music] you
+7:58
+click on multi-shot. What this will do
+8:00
+is it will allow you to generate
+8:02
+multiple different locations from the
+8:04
+same shot. Again, this is super cheap.
+8:06
+Just hit generate. And now it will come
+8:08
+up with a grid version. So then it
+8:10
+creates these nine different angles. Not
+8:13
+all of them are good, but these four are
+8:15
+the ones that I like the most. So, we
+8:17
+can now upskill them and we can use them
+8:19
+in our videos as references. So, now
+8:22
+that we have all of the different
+8:23
+assets, we can start putting this all
+8:25
+together. So, I got these different
+8:27
+assets. I made one more character sheet
+8:29
+of these shoes, and now we can put that
+8:31
+into our prompt box. Again, we're using
+8:34
+Cinema Studio 3.5 here. I've added in
+8:36
+all of the references, and then I'm just
+8:38
+going to do this simple prompt. Make a
+8:40
+cinematic scene. This character dances
+8:42
+in this location. Then a mysterious
+8:44
+person enters and gives him a box with
+8:46
+these shoes. Use different movie style
+8:48
+angles, shots, and while keeping
+8:50
+everything consistent. Now, I'm not
+8:51
+specifically referring to this image
+8:53
+here because I'm the only person in
+8:56
+there. If you have multiple people in
+8:57
+there, you might want to refer into it
+8:59
+with the add button. So, we're using
+9:01
+Cinema Studio for this. Or you could
+9:04
+also be using Cadence 2 or Cense 2 fast
+9:07
+for that. Then you click generate and
+9:09
+then you can get something like this.
+9:26
+While you're in this pre-production
+9:28
+phase, there's one thing that I would
+9:30
+suggest you do, and that is to create a
+9:32
+reference bank. What I mean by this is
+9:34
+you create a folder where you store
+9:36
+everything. The easiest way to do that
+9:38
+is to just go to your assets and you can
+9:41
+create an folder in here. I've created
+9:43
+this folder right here for this entire
+9:45
+ad. Like all of the assets I made are in
+9:48
+here. Another way you can do this which
+9:49
+I also sometimes use is Figma. So with
+9:52
+the Hixel plug-in, you can also put all
+9:54
+of your assets in here, organize them
+9:57
+with prompts and also links in there.
+9:59
+This is much more visual and much easier
+10:01
+to use than using the folder in
+10:04
+Hicksfield. The last method I used is
+10:06
+using supercomputer to organize
+10:09
+everything from the generation aspect to
+10:11
+the storyboarding to the prompting all
+10:14
+of that. Like that's also the method
+10:16
+that we used here. This will also store
+10:18
+all of your assets in here. I just find
+10:20
+this a little bit harder to find. So
+10:22
+that was all the hard work that we had
+10:24
+to do to lay the foundation to start
+10:26
+generating our videos. Now let's go over
+10:28
+to production. I'm going to show you
+10:29
+three different video techniques that
+10:31
+you can use to generate your videos. The
+10:33
+first technique is very simple. We're
+10:35
+just going to use a first frame. So,
+10:37
+I've made this first frame where I am
+10:39
+chatting up with Ronaldo. What I did for
+10:41
+this is I just use a reference image of
+10:43
+me. Then, I used a reference image of
+10:45
+Ronaldo. Then, I use supercomputer to
+10:47
+help me generate this prompt. It made
+10:49
+this insanely complex prompt. Basically,
+10:51
+what I asked it to do is I said, "Help
+10:53
+me make an image where I'm chatting with
+10:55
+Ronaldo over the shoulder shot of some
+10:57
+guy that is in front of the camera and
+10:59
+it looks like it is secretly taken."
+11:01
+Then it used GT image 2. It is best for
+11:04
+that to make this shot. What you can now
+11:06
+do is if you turn this into a video. It
+11:08
+will then use it as a reference in the
+11:09
+video generator. And here you can switch
+11:12
+between cling or seedance for this. As
+11:14
+it is a simple shot that I have in mind,
+11:16
+I'm just using cling. Also, it's way
+11:18
+cheaper. So that's why I'm using this.
+11:20
+Important to note, make sure you upload
+11:21
+your reference image as the start frame.
+11:24
+If you're using something like CDE and
+11:26
+you're uploading a reference here, let's
+11:28
+say upload this reference right there,
+11:29
+then you have to click the three dots
+11:31
+and then you have to say start frame.
+11:33
+Otherwise, it will be a reference. In
+11:34
+terms of the prompt, this prompt seems
+11:36
+long, but it's not that bad. Basically
+11:38
+asking it to create a photorealistic
+11:40
+handheld documentary style shot in a
+11:42
+stadium surface corridor after the
+11:44
+match. Filmed discreetly past a blurred
+11:47
+staff member in the foreground. So, I'm
+11:48
+describing, I'm kind of like directing
+11:50
+what's going on there. Then I'm
+11:52
+including some details like it looks a
+11:54
+bit grainy, showcasing a young
+11:55
+Netherlands number nine player having a
+11:57
+privately swapping shirts with the goat
+11:59
+Ronald. Then we're keeping it real time
+12:01
+and raw. Slight focus hunting, a small
+12:04
+punching, careful reframe. I want it to
+12:06
+be like natural and kind of like cheeky
+12:08
+like it's it's not intended to be
+12:10
+filmed, but it's secretly filmed by this
+12:12
+cameraman. Like he picked it up. Then
+12:13
+you can choose the desired duration and
+12:15
+the aspect ratio. I will do 4K. And then
+12:18
+you hit generate. And then you get
+12:19
+something like this.
+12:22
+[laughter]
+12:28
+The second technique that you can use to
+12:30
+create videos is through references. So
+12:32
+for this, we're going to switch over to
+12:34
+Cance 2. Then you want to upload your
+12:36
+characters right here in the upload
+12:38
+media. Let's say we're uploading this
+12:40
+character right here. Then it has to
+12:41
+wait to be eligible. For example, this
+12:44
+image unfortunately wasn't eligible.
+12:46
+Then you upload your other character or
+12:48
+any type of reference that you have.
+12:50
+This can be audio, it can be a video, it
+12:53
+can be multiple different images,
+12:55
+anything that you can imagine, you can
+12:57
+put it in there. The only thing you want
+12:59
+to make sure of is that these are
+13:01
+references, not start frame or end
+13:03
+frames. So now you're correct. Then you
+13:05
+can add in your prompt. And now you hit
+13:08
+generate. And then you can get something
+13:10
+like this.
+13:10
+You waited your whole life for this. Now
+13:12
+it's time to step up.
+13:20
+What I also do a lot is having some kind
+13:22
+of like start frame, but it doesn't have
+13:24
+to start like that, and then adding in
+13:26
+an extra character sheet of the
+13:28
+character that I want to highlight to
+13:29
+make them consistent. For example, I did
+13:31
+that in this scene. [laughter]
+13:40
+The conversation they're having is Dutch
+13:41
+gibberish, and I literally prompted it
+13:43
+for that. But what I want to point out
+13:45
+is if you don't lock in your character
+13:47
+sheets in there or if you don't add them
+13:49
+as references, then you sometimes might
+13:52
+have results where your character looks
+13:54
+really bad. For example, in this
+13:55
+generation, it completely loses the
+13:57
+consistency around my face. The last
+13:59
+technique that you could use if you want
+14:01
+to have a bit more control is using the
+14:03
+storyboard technique. So here I've made
+14:05
+this storyboard of what I want to have
+14:07
+happen and I'm doing a full campaign at
+14:09
+this point. So here I have this shoe and
+14:11
+I kind of like want to make a bit of a
+14:13
+perfume ad type godlike experience of
+14:16
+this Nike shoe. That's the idea. I have
+14:18
+these like eight different shots. And if
+14:20
+I turn this into a video and I let
+14:22
+Sedance make this I I literally said
+14:24
+turn this into an ad. Then Cance made
+14:26
+something like this.
+14:31
+[sighs]
+14:40
+[music]
+14:44
+[music]
+14:48
+So now you know the basics of how you
+14:50
+can make your own type of video. If you
+14:52
+want to extend this further, so for
+14:54
+example, we're taking this to a whole
+14:55
+campaign at this point. You can make
+14:57
+some other fun like behindthe-scenes
+14:59
+stuff or stuff like this.
+15:03
+This is your moment. Time to step up.
+15:13
+Everybody asks me now about Dan. I tell
+15:15
+you what I told him in October. Be
+15:18
+ready. Tonight he was ready. The
+15:21
+performance, the courage. Fantastic.
+15:24
+Thanks.
+15:25
+We are very proud of him.
+15:26
+The cherry on top will be your editing.
+15:28
+Now for this project, this is what my
+15:30
+timeline looked like. So it's not that
+15:32
+complicated actually. It's just stacking
+15:34
+the clips together and making some
+15:36
+necessary cuts in between some moments.
+15:39
+If you become good at that, then you'll
+15:41
+become a much better filmmaker. One
+15:43
+thing that I would recommend when it
+15:44
+comes to editing your videos is to
+15:46
+install the Hickfield plugin. This will
+15:48
+save you a ton of time when it comes to
+15:50
+importing your clips and also it allows
+15:51
+you to easily regenerate some of your
+15:53
+scenes. You can do this for both
+15:55
+Premiere and Dainci Resolve. Now, if you
+15:57
+want to see the assets and the prompts
+15:59
+that I used for this video, make sure to
+16:01
+sign up to my free school community
+16:02
+where I will drop in all of the assets.
+16:04
+Besides that, if you want to try this
+16:06
+out for yourself, I would highly
+16:07
+recommend using Hicksfield. I will also
+16:09
+leave the link to that in the
+16:10
+description down below. If you want to
+16:12
+learn more about film making and maybe
+16:14
+some of the more advanced techniques,
+16:16
+then watch this video that's on the
+16:17
+screen right

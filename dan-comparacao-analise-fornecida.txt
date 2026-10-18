@@ -1,0 +1,609 @@
+I Made the Same Animation in Every AI Video Generator — análise completa
+
+Vídeo analisado: 
+
+I Made the Same Animation in Every AI Video Generator – FULL Comparison
+Criador identificado: Dan Kieft
+Tema: comparação de geradores de vídeo por IA usando o mesmo conceito/prompts em vários modelos, dentro de um fluxo centralizado no Weavy.
+Idioma original: inglês
+Tipo de análise: análise multimodal do vídeo completo, complementada por uma página pública de transcrição/resumo e uma página editorial sobre o comparativo. A página pública confirma o objetivo, os exemplos e vários critérios de avaliação.
+
+
+Nota importante sobre a transcrição: o áudio e as telas foram analisados, mas o endpoint público de legendas do YouTube exigiu autenticação neste ambiente. Por isso, a seção de “transcrição” abaixo é uma reconstrução limpa e organizada por assunto, fiel ao conteúdo e à sequência do vídeo, mas não uma transcrição forense palavra por palavra. Nomes, preços e julgamentos são apresentados como aparecem ou são afirmados no vídeo; eles não devem ser tratados como preços atuais dos serviços.
+
+1. Resumo geral
+
+O vídeo apresenta um teste comparativo de geradores de vídeo por inteligência artificial. O criador tenta descobrir qual ferramenta produz os melhores resultados ao receber o mesmo tipo de tarefa. Para reduzir a diferença entre interfaces e processos, ele utiliza o Weavy, uma plataforma visual baseada em nós que permite conectar um prompt ou uma imagem a vários modelos de geração de vídeo e comparar os resultados em um único fluxo.
+
+A comparação é dividida em duas categorias:
+
+1.
+Text-to-video: o modelo recebe somente uma descrição textual e precisa criar a cena, os personagens, os objetos, o estilo e o movimento.
+
+2.
+Image-to-video: o modelo recebe uma imagem inicial e precisa animá-la, preservando aparência, composição, personagens e estilo enquanto adiciona movimento.
+
+O criador mostra diversos exemplos com graus diferentes de dificuldade. Ele observa principalmente a aderência ao prompt, a qualidade visual, a coerência dos personagens e objetos, a física do movimento, a câmera, o realismo, a consistência de estilo e o preço aproximado por geração.
+
+A conclusão não é que exista um único vencedor para todos os casos. O resultado depende do tipo de cena. Alguns modelos são melhores em movimento e câmera; outros são melhores em estética, composição ou consistência do prompt. Entre os destaques positivos aparecem Google Veo 3, Kling 2.1 e Seedance. O Moonvalley é criticado repetidamente por resultados inconsistentes ou visualmente deformados.
+
+2. Estrutura cronológica do vídeo
+
+Os tempos abaixo são aproximados, baseados na análise do vídeo.
+
+00:00–01:13 — Introdução e proposta do teste
+
+O criador explica que quer comparar os principais geradores de vídeo por IA. A ideia é usar o mesmo conceito ou prompt em diferentes modelos para verificar qual deles executa melhor a tarefa.
+
+Ele destaca que existem muitas ferramentas separadas, cada uma com sua própria interface, cobrança e fluxo de trabalho. Para tornar a comparação mais prática, ele constrói o teste no Weavy. A plataforma funciona como um espaço visual em que entradas, prompts e modelos ficam conectados por nós.
+
+O objetivo do teste não é apenas mostrar vídeos bonitos. O criador procura observar qual modelo:
+
+•
+entende melhor as instruções;
+
+•
+preserva todos os elementos pedidos;
+
+•
+cria movimento convincente;
+
+•
+mantém os personagens e o estilo consistentes;
+
+•
+produz um resultado utilizável sem muitas tentativas;
+
+•
+oferece o melhor equilíbrio entre qualidade e preço.
+
+01:14–01:42 — Apresentação do fluxo text-to-video
+
+O primeiro bloco de testes usa texto como entrada. O prompt é ligado a vários modelos dentro do Weavy. Os resultados são gerados e colocados lado a lado para que a comparação seja visual.
+
+A lógica do fluxo é reproduzível: criar uma descrição, enviá-la aos modelos disponíveis, reunir os resultados e avaliá-los com critérios iguais. Isso evita que cada ferramenta seja testada com uma ideia completamente diferente.
+
+01:43–04:00 — Text-to-video: minerador espacial em um asteroide
+
+O primeiro exemplo coloca um personagem ligado à mineração ou exploração espacial em um asteroide. A cena exige ambiente de ficção científica, personagem reconhecível, elementos de superfície, iluminação espacial e movimento de câmera ou de ação.
+
+O teste verifica se o modelo consegue combinar vários componentes em uma única geração: cenário extraterrestre, traje ou aparência do personagem, atmosfera cinematográfica, escala do ambiente e movimento coerente.
+
+Os modelos exibidos nesse tipo de comparação incluem Veo 3, Seedance, Hailuo, Moonvalley, Kling e Wan 2.2. O vídeo mostra que a simples capacidade de gerar uma imagem interessante não é suficiente. O resultado também precisa respeitar a situação descrita e manter os detalhes ao longo do clipe.
+
+O Veo 3 aparece como uma alternativa de alta qualidade, inclusive com geração de áudio em determinados fluxos. Kling e Seedance também são apresentados como opções fortes, especialmente quando a cena exige mais movimento ou equilíbrio entre estética e aderência.
+
+O Moonvalley já começa a demonstrar problemas de coerência e acabamento em comparação com os concorrentes.
+
+04:01–06:10 — Text-to-video: alienígena azul lendo um jornal holográfico
+
+O segundo exemplo mostra um alienígena azul lendo um jornal holográfico. A cena combina personagem não humano, objeto transparente ou luminoso, leitura, interação com as mãos e elementos de ficção científica.
+
+Esse teste é importante porque força o modelo a representar corretamente uma ação específica, e não apenas um personagem parado. Também testa a relação espacial entre o rosto, os olhos, as mãos e o jornal holográfico.
+
+A comparação mostra que alguns modelos criam uma imagem atraente, mas falham na interação. O objeto pode aparecer deformado, atravessar o rosto ou não ser segurado de maneira plausível. O vídeo menciona o Moonvalley de forma negativa, com problemas como óculos ou elementos visuais entrando de maneira estranha nos olhos do personagem.
+
+A principal lição desse exemplo é que efeitos futuristas e objetos translúcidos são visualmente difíceis. O modelo precisa entender não apenas a aparência do objeto, mas também sua posição, transparência, iluminação e relação com o personagem.
+
+06:11–08:37 — Text-to-video: lutador de anime treinando boxe
+
+O terceiro exemplo apresenta um lutador com estética de anime praticando boxe. A cena exige pose dinâmica, golpes, deslocamento corporal, energia visual e preservação do estilo de animação.
+
+O criador observa a qualidade da movimentação, a anatomia, a continuidade entre os golpes e a capacidade de manter o visual do personagem durante a ação. Cenas de luta são difíceis porque braços, mãos, pernas e torso mudam rapidamente de posição.
+
+Um resultado pode ter boa aparência no primeiro quadro e ainda assim falhar no movimento. O teste diferencia esses casos: ele procura saber se o vídeo inteiro mantém uma ação legível ou se o personagem sofre deformações, troca de roupa, perde membros ou muda de estilo.
+
+Kling é valorizado em situações que exigem movimento mais agressivo e acompanhamento de câmera. Seedance aparece como uma alternativa equilibrada. Modelos que produzem poses estáticas ou movimentos pouco naturais ficam atrás.
+
+08:38–11:29 — Text-to-video: esquilo de capa andando de bicicleta com um sanduíche gigante
+
+O quarto exemplo é deliberadamente cheio de requisitos. Um esquilo usa uma capa, anda de bicicleta e segura um sanduíche gigante. O estilo visual busca uma aparência de animação cinematográfica semelhante à estética de grandes filmes de animação, com movimento de câmera acompanhando o personagem.
+
+Esse teste mede diretamente a aderência ao prompt. O modelo precisa preservar simultaneamente:
+
+•
+o animal correto;
+
+•
+a capa e suas cores;
+
+•
+a bicicleta;
+
+•
+o sanduíche exageradamente grande;
+
+•
+a ação de pedalar;
+
+•
+a direção e o acompanhamento da câmera;
+
+•
+a aparência de animação;
+
+•
+a coerência entre o início e o fim do clipe.
+
+O vídeo destaca Veo 3 e Seedance como resultados de nível superior nesse exemplo. Eles conseguem manter mais elementos do prompt e produzir uma estética mais próxima do objetivo. Kling também apresenta bom desempenho em movimento e em certos detalhes da ação, embora nem sempre reproduza perfeitamente a estética desejada.
+
+A lição prática é que prompts com vários objetos são úteis para comparar modelos, mas também tornam a avaliação mais difícil. Um modelo pode acertar a estética e errar o objeto; outro pode acertar os objetos e errar o movimento.
+
+11:30–11:53 — Início do bloco image-to-video
+
+O criador passa da geração baseada apenas em texto para a animação de imagens existentes. Nesse segundo bloco, a imagem inicial fornece parte da identidade visual, da composição e do design dos personagens.
+
+A pergunta muda: em vez de “o modelo consegue criar a cena?”, passa a ser “o modelo consegue animar esta cena sem destruir sua aparência?”.
+
+11:54–14:40 — Image-to-video: zumbi em um navio durante uma tempestade
+
+O primeiro teste de imagem para vídeo mostra um zumbi em um navio durante uma tempestade. O cenário exige ondas, vento, chuva, balanço do navio, atmosfera sombria e interação entre o personagem e o ambiente.
+
+Esse é um teste de movimento de câmera e de movimento físico. O navio precisa parecer submetido às ondas; o personagem precisa continuar integrado à plataforma; a tempestade deve afetar o ambiente sem transformar a cena em uma sequência caótica de deformações.
+
+Kling 2.1 é apontado como favorito nesse exemplo. O motivo é a combinação de movimento mais realista, acompanhamento do ambiente e interação convincente entre personagem, navio e tempestade.
+
+O teste mostra que image-to-video pode ser especialmente útil quando o usuário já possui uma imagem com o design desejado. Porém, a imagem inicial não garante consistência perfeita. O modelo ainda precisa inferir como cada elemento se desloca e pode alterar detalhes durante a animação.
+
+14:41–17:05 — Image-to-video: garota de anime olhando pela janela de um trem
+
+O segundo teste de imagem para vídeo apresenta uma garota em estilo anime olhando pela janela de um trem em movimento. O objetivo é animar a passagem do ambiente externo e criar a sensação de deslocamento sem perder a identidade da personagem.
+
+O teste avalia:
+
+•
+consistência do rosto e do cabelo;
+
+•
+manutenção do estilo anime;
+
+•
+movimento do trem e do cenário externo;
+
+•
+reflexão e iluminação da janela;
+
+•
+naturalidade do olhar e da postura;
+
+•
+estabilidade da composição.
+
+O criador observa que vários modelos alteram a personagem durante o movimento. O estilo pode mudar, o rosto pode sofrer pequenas deformações e a aparência pode ficar menos parecida com a imagem inicial.
+
+Esse exemplo evidencia uma limitação recorrente dos geradores: movimento de fundo relativamente simples pode ser produzido com qualidade, mas a consistência do personagem continua sendo um problema. Para uso profissional, uma geração isolada pode não ser suficiente; pode ser necessário gerar várias versões, selecionar os melhores trechos e corrigir ou substituir quadros.
+
+17:06–19:09 — Image-to-video: dois guerreiros vikings lutando
+
+O terceiro exemplo de imagem para vídeo mostra dois guerreiros vikings em combate. A cena exige interação entre dois corpos, armas, deslocamento, poses complexas e continuidade da ação.
+
+Cenas com dois personagens são mais difíceis do que cenas com um único sujeito porque o modelo precisa preservar a identidade de ambos e compreender a relação entre eles. Também precisa manter a distância correta, evitar fusão dos corpos e produzir golpes ou bloqueios visualmente compreensíveis.
+
+O vídeo compara a qualidade do movimento, a clareza da luta e a preservação das características da imagem original. Alguns modelos produzem ação, mas sacrificam anatomia ou detalhes das armas. Outros preservam a imagem, mas geram pouco movimento.
+
+A comparação reforça que o melhor modelo depende do resultado desejado: realismo de ação, preservação de design, intensidade cinematográfica ou custo por tentativa.
+
+19:10–21:41 — Image-to-video: churrasco de LEGO com um pássaro roubando comida
+
+O quarto exemplo é uma cena em estilo LEGO. Há um churrasco ou mesa com comida, e um pássaro interage com o cenário roubando um alimento.
+
+Esse teste é interessante porque mistura estilo visual rígido, objetos pequenos, interação física e uma ação com começo, meio e fim. O pássaro precisa aproximar-se, pegar ou retirar a comida e afastar-se, enquanto o ambiente de LEGO mantém sua forma.
+
+Higgsfield surpreende positivamente pela interação física. O vídeo destaca o pássaro pegando a salsicha ou comida e interagindo com o prato. Esse resultado demonstra que um modelo menos destacado em outros exemplos pode ser muito competente em uma ação específica.
+
+A conclusão prática é que rankings gerais devem ser tratados com cautela. Um modelo pode não vencer todos os testes, mas ser a melhor escolha para um tipo específico de ação ou estilo.
+
+21:42–22:49 — Comparação de preços
+
+Na parte final, o criador compara custos aproximados para clipes de cerca de cinco a oito segundos. Os valores são os apresentados no vídeo e representam o contexto da gravação; planos, créditos, modelos e preços podem ter mudado desde então.
+
+Os números mencionados na análise do vídeo são aproximadamente:
+
+•
+Google Veo 3: cerca de US$ 2,60 por geração, entre as opções mais caras.
+
+•
+Runway Gen-4 Turbo: cerca de US$ 0,25, uma das opções mais baratas citadas.
+
+•
+Kling 2.1: cerca de US$ 0,75.
+
+•
+Seedance: cerca de US$ 0,73 na versão Pro e cerca de US$ 0,15 na versão Lite.
+
+•
+Moonvalley: aproximadamente US$ 1,13 a US$ 2,27, considerado caro em relação à qualidade observada.
+
+A análise de preço não deve ser entendida como uma tabela atual de cobrança. Ela serve para mostrar a lógica do criador: qualidade precisa ser comparada ao custo de repetir gerações, principalmente quando uma cena exige muitas tentativas.
+
+22:50–final — Conclusão e convite para testar o fluxo
+
+O criador conclui que não existe uma ferramenta universalmente melhor. Veo 3 pode ser uma opção de alta qualidade e boa aderência em cenas complexas. Kling 2.1 se destaca em movimento e cenas dinâmicas. Seedance oferece um equilíbrio interessante entre qualidade, consistência e custo. Higgsfield apresenta uma surpresa positiva em interação física. Runway aparece como alternativa de custo mais baixo. Moonvalley é desaconselhado nos exemplos mostrados por apresentar resultados inconsistentes.
+
+O Weavy é apresentado como uma solução para quem deseja testar vários geradores sem precisar organizar manualmente múltiplas interfaces. O fluxo centralizado também permite duplicar o processo e comparar modelos com o mesmo prompt ou imagem de entrada.
+
+O criador recomenda utilizar a plataforma no desktop, pois a versão mobile ainda não estava disponível no contexto do vídeo.
+
+3. Transcrição limpa e organizada por assuntos
+
+Esta seção preserva o conteúdo falado em forma condensada e organizada. Não deve ser lida como uma transcrição literal palavra por palavra.
+
+Abertura
+
+“Eu criei a mesma animação em vários geradores de vídeo por IA para descobrir qual ferramenta é realmente a melhor. Usei o mesmo prompt em todos os geradores que consegui testar, tanto em ferramentas de texto para vídeo quanto de imagem para vídeo.”
+
+Motivo para usar o Weavy
+
+“Para fazer essa comparação, montei um fluxo no Weavy. A ideia é reunir os modelos em um único espaço de trabalho. Assim, posso enviar a mesma entrada para vários geradores, colocar os resultados lado a lado e avaliar as diferenças sem precisar abrir cada ferramenta separadamente.”
+
+Critérios de avaliação
+
+“O objetivo não é somente encontrar o vídeo mais bonito. Também quero ver se o modelo segue o prompt, se mantém os elementos pedidos, se cria movimento convincente, se preserva o personagem e se o resultado vale o custo.”
+
+Bloco de texto para vídeo
+
+“No primeiro grupo, uso somente prompts de texto. Cada modelo precisa construir a cena, os personagens, os objetos e o movimento a partir da descrição.”
+
+Minerador espacial
+
+“A primeira cena testa uma situação de ficção científica em um asteroide. Estou comparando a forma como cada modelo constrói o ambiente, o personagem e o movimento cinematográfico.”
+
+Alienígena com jornal holográfico
+
+“Agora a cena exige interação com um objeto holográfico. Não basta mostrar um alienígena azul; o modelo precisa fazer o personagem ler ou interagir com o jornal e manter o objeto na posição correta.”
+
+Lutador de anime
+
+“Este teste concentra-se em movimento corporal. O personagem está treinando boxe, então é possível observar a qualidade dos golpes, das poses, das mãos, dos braços e da continuidade entre os movimentos.”
+
+Esquilo de capa
+
+“Este é um dos prompts mais detalhados: um esquilo com capa anda de bicicleta segurando um sanduíche gigante. A cena testa se o modelo consegue respeitar muitos detalhes ao mesmo tempo e ainda produzir uma animação com aparência cinematográfica.”
+
+Bloco de imagem para vídeo
+
+“Agora estou usando uma imagem inicial e pedindo que os modelos a animem. Neste caso, o ponto principal é preservar o design original enquanto se adiciona movimento.”
+
+Zumbi no navio
+
+“A tempestade e o navio criam um teste de movimento ambiental. Quero observar se o personagem continua integrado ao cenário e se a água, o vento e o balanço parecem naturais.”
+
+Garota no trem
+
+“Esta cena testa a consistência de uma personagem de anime. O trem pode se mover, mas a garota precisa manter o rosto, o cabelo e o estilo da imagem original.”
+
+Vikings em combate
+
+“Dois personagens lutando são difíceis porque o modelo precisa preservar ambos, entender a relação entre eles e criar uma ação clara sem fundir os corpos ou deformar as armas.”
+
+Churrasco de LEGO
+
+“Na cena final de imagem para vídeo, um pássaro interage com a comida em um churrasco de LEGO. O objetivo é ver se o modelo consegue criar uma ação física específica em um estilo visual rígido.”
+
+Preço
+
+“Além da qualidade, também é importante considerar quanto custa gerar cada vídeo. Um modelo muito bom pode ser pouco prático se cada tentativa for cara, principalmente porque normalmente precisamos gerar várias versões.”
+
+Conclusão
+
+“Minha conclusão é que cada modelo tem pontos fortes diferentes. Alguns são melhores para movimento, outros para estética ou aderência ao prompt. O Weavy é útil porque permite testar todos no mesmo fluxo e descobrir qual deles funciona melhor para cada projeto.”
+
+4. Modelos e características observadas
+
+Google Veo 3
+
+Apresentado como uma das opções de maior qualidade. Tem bom desempenho em cenas complexas, aderência ao prompt e estética cinematográfica. O vídeo também destaca a possibilidade de áudio gerado em seus resultados. O custo mostrado é alto.
+
+Kling 2.1
+
+Destaca-se em movimento dinâmico, tracking shots, gestos e interação com o ambiente. Foi o favorito no teste do zumbi no navio e aparece repetidamente como uma opção forte para cenas de ação.
+
+Seedance
+
+Apresentado como um equilíbrio entre qualidade, consistência e preço. Teve bom desempenho no esquilo de bicicleta e em cenas em que era necessário preservar diversos detalhes do prompt.
+
+Runway Gen-4 Turbo
+
+Aparece como uma opção de custo relativamente baixo. Pode ser interessante quando o orçamento e a velocidade de iteração são mais importantes do que o resultado máximo possível.
+
+Minimax Hailuo-02
+
+Participa das comparações de texto para vídeo. O vídeo o trata como uma alternativa entre várias, com desempenho dependente do tipo de prompt.
+
+Wan 2.2
+
+Também aparece em testes de texto para vídeo. A comparação serve para observar como se comporta diante das mesmas instruções que os modelos concorrentes.
+
+Higgsfield Video
+
+Surpreende positivamente na cena de LEGO, sobretudo na interação do pássaro com a comida e o prato. Demonstra que um modelo pode ter uma força específica mesmo sem ser o vencedor geral.
+
+Moonvalley
+
+É o modelo mais criticado no vídeo. Apresenta deformações, interações estranhas e baixa aderência em diversos exemplos. O criador sugere evitar gastar créditos nele para os casos testados.
+
+5. Método replicável
+
+O fluxo apresentado pode ser reproduzido assim:
+
+1.
+Escolha uma tarefa visual bem definida.
+
+2.
+Escreva um prompt detalhado, mas mantenha o mesmo texto para todos os modelos.
+
+3.
+Decida se o teste será text-to-video ou image-to-video.
+
+4.
+No caso de image-to-video, prepare uma imagem inicial limpa e consistente.
+
+5.
+Conecte o prompt ou a imagem aos modelos dentro de um fluxo centralizado.
+
+6.
+Gere clipes com duração e proporção equivalentes.
+
+7.
+Não altere o prompt entre os modelos durante a primeira rodada.
+
+8.
+Organize os resultados lado a lado.
+
+9.
+Avalie cada resultado com critérios fixos.
+
+10.
+Registre falhas específicas, não apenas uma impressão geral.
+
+11.
+Repita a geração quando a ferramenta permitir variações, porque uma única amostra pode não representar todo o potencial do modelo.
+
+12.
+Compare qualidade e custo por resultado utilizável.
+
+13.
+Escolha o modelo conforme o tipo de cena, e não apenas pelo ranking geral.
+
+6. Matriz de avaliação recomendada
+
+Use uma escala de 1 a 5 para cada item:
+
+•
+Aderência ao prompt: quantos elementos solicitados aparecem corretamente?
+
+•
+Consistência do personagem: rosto, corpo, roupa e identidade permanecem estáveis?
+
+•
+Consistência do objeto: bicicleta, jornal, arma, comida ou outro objeto mantém forma e posição?
+
+•
+Qualidade do movimento: a ação é clara, contínua e fisicamente plausível?
+
+•
+Interação entre elementos: personagens e objetos realmente se relacionam?
+
+•
+Câmera: o movimento da câmera corresponde ao pedido?
+
+•
+Estilo visual: o modelo mantém a estética desejada?
+
+•
+Anatomia e mãos: há deformações visíveis?
+
+•
+Ambiente: cenário, iluminação e atmosfera permanecem coerentes?
+
+•
+Custo por resultado útil: quantas gerações normalmente são necessárias até obter um trecho aproveitável?
+
+7. Prompt estruturado para replicar o método
+
+O prompt abaixo transforma o método do vídeo em uma instrução reutilizável para comparar geradores de vídeo.
+
+Plain Text
+
+
+Você é um especialista em avaliação comparativa de geradores de vídeo por IA.
+
+OBJETIVO
+Comparar vários modelos de geração de vídeo usando exatamente a mesma entrada, o mesmo objetivo visual e critérios de avaliação consistentes. O objetivo é descobrir qual modelo é mais adequado para esta cena específica, e não declarar um vencedor universal.
+
+TIPO DE GERAÇÃO
+Escolha uma opção:
+- text-to-video: usar somente o prompt textual;
+- image-to-video: usar a imagem fornecida como referência visual e animá-la sem alterar desnecessariamente a identidade, o estilo ou a composição.
+
+ENTRADA PRINCIPAL
+Descrição da cena: [descreva o personagem, o ambiente, os objetos e a ação]
+Ação obrigatória: [descreva claramente o que deve acontecer do início ao fim]
+Estilo visual: [cinematográfico, anime, LEGO, realista, animação 3D etc.]
+Movimento de câmera: [câmera fixa, tracking shot, dolly in, panorâmica etc.]
+Duração desejada: [5–8 segundos ou outra duração]
+Proporção: [16:9, 9:16, 1:1 etc.]
+Imagem de referência, se aplicável: [anexar imagem]
+
+REGRAS DE PADRONIZAÇÃO
+1. Use o mesmo prompt em todos os modelos.
+2. Use a mesma imagem de referência em todos os modelos de image-to-video.
+3. Use duração, proporção e resolução equivalentes sempre que possível.
+4. Não faça ajustes específicos em um modelo antes da primeira rodada comparativa.
+5. Registre o nome exato e a versão de cada modelo.
+6. Registre o custo, o tempo de geração e o número de tentativas.
+7. Diferencie o resultado de uma única amostra do desempenho geral do modelo.
+
+CRITÉRIOS DE AVALIAÇÃO
+Para cada resultado, atribua nota de 1 a 5 para:
+- aderência ao prompt;
+- preservação dos personagens;
+- preservação dos objetos;
+- qualidade do movimento;
+- coerência física;
+- interação entre personagens e objetos;
+- qualidade da câmera;
+- consistência de estilo;
+- anatomia e mãos;
+- qualidade do ambiente;
+- custo-benefício.
+
+ANÁLISE OBRIGATÓRIA DE CADA RESULTADO
+Para cada modelo, informe:
+1. O que foi executado corretamente.
+2. O que foi omitido.
+3. O que foi deformado ou alterado.
+4. Se a ação pedida ocorreu de forma clara.
+5. Se o movimento parece natural.
+6. Se o personagem manteve a identidade.
+7. Se o estilo permaneceu consistente.
+8. Se a câmera seguiu o pedido.
+9. Quantas tentativas parecem necessárias para obter uma tomada utilizável.
+10. Em que tipo de projeto este modelo seria uma boa escolha.
+
+FORMATO DA RESPOSTA
+- Resumo do teste.
+- Lista de modelos testados.
+- Análise individual de cada resultado.
+- Notas por critério.
+- Ranking para esta cena específica.
+- Melhor modelo para qualidade máxima.
+- Melhor modelo para movimento.
+- Melhor modelo para consistência.
+- Melhor modelo para baixo custo.
+- Limitações e possíveis vieses do teste.
+- Recomendação final condicionada ao objetivo do projeto.
+
+NÃO FAÇA
+- Não declare um vencedor universal com base em uma única cena.
+- Não compare vídeos com duração ou resolução muito diferentes sem registrar essa diferença.
+- Não trate preço mostrado em um vídeo antigo como preço atual.
+- Não confunda um quadro bonito com movimento realmente consistente.
+- Não esconda erros, deformações ou elementos ausentes.
+
+
+
+8. Prompt de teste inspirado no vídeo
+
+Este prompt reproduz o tipo de desafio usado pelo criador:
+
+Plain Text
+
+
+A cinematic 3D animated squirrel wearing a red cape with blue lining rides a small bicycle through a sunny park while holding an oversized sandwich. The squirrel actively pedals forward, the cape flows naturally in the wind, the giant sandwich remains clearly visible in its paws, and the bicycle wheels rotate continuously. Use a smooth side-tracking camera that follows the squirrel at the same speed, keeping the full character and bicycle in frame. Maintain consistent character identity, anatomy, object proportions, lighting, and animation style from beginning to end. High-quality feature-animation look, expressive but physically coherent motion, clean composition, no extra limbs, no duplicated objects, no morphing, no text, no watermark.
+
+
+
+Para uma comparação justa, o mesmo prompt deve ser enviado aos modelos sem reescrever a instrução para favorecer uma ferramenta específica. Depois da primeira rodada, pode-se fazer uma segunda rodada otimizada, mas ela deve ser identificada como um teste diferente.
+
+9. O que o vídeo ensina sobre escolha de ferramenta
+
+A principal mensagem é que “melhor modelo” depende da tarefa. Para cenas com ação e movimento ambiental, Kling pode ser mais interessante. Para qualidade geral e aderência em cenas complexas, Veo 3 aparece como forte candidato. Para equilíbrio entre qualidade e custo, Seedance é destacado. Para interações físicas específicas, Higgsfield pode surpreender. Para iterações de baixo custo, Runway Gen-4 Turbo pode ser considerado.
+
+A segunda mensagem é que consistência e comparação controlada são essenciais. Se cada ferramenta recebe um prompt diferente, o usuário não sabe se o resultado veio do modelo ou da instrução. Um workflow centralizado reduz essa variável.
+
+A terceira mensagem é econômica: geração de vídeo costuma exigir várias tentativas. O custo por clipe não é o único fator. Deve-se calcular o custo por resultado realmente utilizável, porque o modelo mais barato pode exigir muitas repetições e acabar custando mais tempo ou dinheiro.
+
+10. Limitações e pontos que exigem cuidado
+
+•
+Os preços são históricos e foram apresentados no contexto do vídeo. Verifique os preços e planos diretamente nas páginas atuais dos serviços antes de tomar uma decisão.
+
+•
+O resultado de cada modelo depende do prompt, da versão do modelo, das configurações, da duração, da resolução e da aleatoriedade da geração.
+
+•
+Um único exemplo não é uma avaliação estatística completa.
+
+•
+A análise pública alternativa apresenta alguns nomes transcritos de forma imperfeita, como “Weevi”, “Seance” e “Cling”. O nome da plataforma aparece como Weavy, e os modelos devem ser confirmados na interface oficial antes de serem usados em um fluxo real.
+
+•
+A qualidade observada no vídeo corresponde ao período em que ele foi produzido. Modelos de vídeo são atualizados com frequência.
+
+•
+A análise multimodal confirma estrutura, cenas, comparações e julgamentos gerais, mas não substitui uma legenda oficial palavra por palavra.
+
+11. Checklist prático para repetir o experimento
+
+
+
+
+Definir uma única cena de teste.
+
+
+
+
+Escrever os elementos obrigatórios.
+
+
+
+
+Definir a ação do início ao fim.
+
+
+
+
+Escolher text-to-video ou image-to-video.
+
+
+
+
+Preparar a imagem de referência, se necessária.
+
+
+
+
+Fixar duração, proporção e resolução.
+
+
+
+
+Enviar a mesma entrada para todos os modelos.
+
+
+
+
+Salvar os resultados com nome, modelo e data.
+
+
+
+
+Avaliar aderência, movimento, consistência e estilo.
+
+
+
+
+Anotar deformações e elementos ausentes.
+
+
+
+
+Registrar custo e número de tentativas.
+
+
+
+
+Repetir o teste com mais de uma cena antes de concluir.
+
+
+
+
+Separar o melhor modelo geral do melhor modelo para uma tarefa específica.
+
+
+
+
+Conferir preços e disponibilidade atuais antes de contratar qualquer serviço.
+
+12. Conclusão final
+
+O vídeo é, essencialmente, uma demonstração de como transformar a escolha de um gerador de vídeo em um experimento comparável. Em vez de confiar em opiniões isoladas, o criador usa uma mesma entrada, reúne diversos resultados e observa diferenças concretas em movimento, consistência, aderência e preço.
+
+O valor principal do Weavy, conforme apresentado, está na centralização do workflow. A plataforma facilita enviar o mesmo prompt ou imagem para vários modelos, visualizar os resultados lado a lado e repetir o processo. A conclusão mais útil para quem trabalha com vídeo por IA é não escolher uma ferramenta apenas pelo nome ou por um ranking genérico. O modelo deve ser escolhido conforme a cena: ação, estilo, personagem, interação física, custo e necessidade de repetição.
+
+Referências
+
+[1] I Made the Same Animation in Every AI Video Generator – FULL Comparison
+[2] How to compare AI video generators with Weevi workflow
+[3] I Made the Same Animation in Every AI Video Generator – FULL Comparison

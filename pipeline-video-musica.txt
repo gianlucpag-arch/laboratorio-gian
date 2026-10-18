@@ -1,0 +1,52 @@
+A melhor forma é tratar IA como um **pipeline de produção**, não como um botão mágico: definir roteiro/letra → gerar áudio ou clipes → curadoria e edição humana → revisão de direitos e qualidade. Para começar com base validada, use a documentação oficial do **Google Veo** para vídeo e do **Suno** para música. [aistudio.google](https://aistudio.google.com/docs/veo)
+
+## Recursos oficiais essenciais
+
+| Área | Recurso | Por que usar |
+|---|---|---|
+| Vídeo: fundamentos de prompt | [Veo prompt guide — Google AI Studio](https://aistudio.google.com/docs/veo) | Ensina a estruturar prompt com **sujeito**, **ação** e **estilo**; é a base mais direta para gerar cenas consistentes.  [aistudio.google](https://aistudio.google.com/docs/veo) |
+| Vídeo: guia avançado | [How to create effective prompts with Veo 3 — Google DeepMind](https://deepmind.google/models/veo/prompt-guide/) | Foca em diálogo, personagens e direção criativa.  [deepmind](https://deepmind.google/models/veo/prompt-guide/) |
+| Vídeo: ferramenta e edição | [Adobe Firefly — Generate video](https://helpx.adobe.com/firefly/web/work-with-audio-and-video/work-with-video/generate-videos-using-text-prompts.html) | Permite gerar por texto, usar imagem como primeiro frame, escolher proporção/resolução e editar no timeline.  [helpx.adobe](https://helpx.adobe.com/firefly/web/firefly-video-editor/generate-videos/generate-video-using-firefly-models.html) |
+| Música: criação básica | [Suno Help — Make a song in Simple Mode](https://help.suno.com/en/articles/2462273) | Documentação oficial: descreva o que quer ouvir no modo Simple.  [help.suno](https://help.suno.com/en/articles/2462273) |
+| Música: central de ajuda | [Suno Help — Making Music](https://help.suno.com/en/categories/550017-making-music) | Reúne os artigos oficiais sobre criação musical.  [help.suno](https://help.suno.com/en/categories/550017-making-music) |
+| Música para conteúdo | [Canva — Gerador de música com IA](https://www.canva.com/pt_pt/ferramentas/gerador-musica-ai/) | Boa opção para trilhas curtas: escolhe ambiente, gênero, tema e duração.  [canva](https://www.canva.com/pt_pt/ferramentas/gerador-musica-ai/) |
+
+## Fluxo recomendado para vídeos
+
+1. **Defina o objetivo antes de gerar:** formato (YouTube 16:9, Reels/TikTok 9:16), duração, público e mensagem central.
+2. **Escreva um roteiro em cenas curtas.** Clipes de IA funcionam melhor em blocos breves; o guia do Veo recomenda pensar em cenas de até 8 segundos, com gancho, mensagem e chamada para ação. [somostera](https://somostera.com/blog/criar-videos-com-ia-veo3)
+3. **Monte prompts completos.** Inclua sujeito, ação, ambiente, estilo visual, movimento de câmera, iluminação, diálogo e áudio ambiente. [aistudio.google](https://aistudio.google.com/docs/veo)
+4. **Gere variações, não uma versão única.** Faça 3–5 takes por cena e escolha o melhor; teste especialmente os primeiros 2–3 segundos, que determinam a retenção. [somostera](https://somostera.com/blog/criar-videos-com-ia-veo3)
+5. **Edite como um produto final.** Junte os clipes, ajuste ritmo, som, legendas, cor e transições. A curadoria humana continua essencial para coerência visual e qualidade. [somostera](https://somostera.com/blog/criar-videos-com-ia-veo3)
+6. **Valide antes de publicar:** assista com fones, confira sincronização de áudio, erros de mãos/rostos/texto e direitos de uso comercial da ferramenta escolhida. [nemovideo](https://www.nemovideo.com/pt-BR/blog/ai-music-video-generator-from-audio-file)
+
+### Exemplo de prompt de vídeo
+
+> “Close-up cinematográfico de uma jovem brasileira estudando em uma biblioteca moderna ao amanhecer; ela folheia um caderno e sorri ao entender uma fórmula; luz suave lateral, câmera lenta aproximando-se, estilo realista, som ambiente discreto de páginas e ventilador.”
+
+## Fluxo recomendado para músicas
+
+1. **Comece pelo briefing musical:** gênero, humor, referência de época, instrumentos, BPM aproximado, idioma e objetivo (trilha, música cantada, jingle).
+2. **Use o Suno para música autoral.** No modo Simple, descreva o resultado desejado; para mais controle, use letra e estilo musicais. [help.suno](https://help.suno.com/en/articles/2462273)
+3. **Trate a letra separadamente.** Escreva versos, refrão e ponte antes, depois peça à IA para adaptar melodia, voz e arranjo — isso dá mais consistência do que depender só de um prompt vago.
+4. **Exporte em alta qualidade.** Para videoclipes, prefira WAV ou FLAC quando possível: melhora a detecção de batida e a sincronização visual. [nemovideo](https://www.nemovideo.com/pt-BR/blog/ai-music-video-generator-from-audio-file)
+5. **Gere o visual a partir do áudio.** Ferramentas de videoclipe podem analisar tempo, energia e letra; defina referências visuais e consistência de personagem antes de gerar, pois mudanças posteriores exigem regeneração. [nemovideo](https://www.nemovideo.com/pt-BR/blog/ai-music-video-generator-from-audio-file)
+6. **Faça revisão humana.** Confira mixagem, clareza vocal, originalidade, semelhança com artistas existentes e os termos de monetização/rights da plataforma.
+
+## Ferramentas por objetivo
+
+- **Vídeo cinematográfico ou com fala:** Google Veo, via AI Studio ou Firefly. [aistudio.google](https://aistudio.google.com/docs/veo)
+- **Vídeo rápido para redes sociais:** Adobe Firefly, com 16:9 ou 9:16, geração por texto/imagem e edição em timeline. [helpx.adobe](https://helpx.adobe.com/firefly/web/firefly-video-editor/generate-videos/generate-video-using-firefly-models.html)
+- **Música cantada autoral:** Suno. [help.suno](https://help.suno.com/en/articles/2462273)
+- **Trilha sonora simples para vídeos, aulas ou anúncios:** Canva AI Music. [canva](https://www.canva.com/pt_pt/ferramentas/gerador-musica-ai/)
+- **Videoclipe sincronizado à música:** plataformas music-first, como freebeat, ou geradores que aceitam WAV/MP3 e criam cenas no ritmo da faixa. [nemovideo](https://www.nemovideo.com/pt-BR/blog/ai-music-video-generator-from-audio-file)
+
+## Boas práticas que separam amador de profissional
+
+- **Prompt = direção de arte.** Não escreva apenas “vídeo bonito”; especifique lente, enquadramento, cor, ritmo, emoção e ação. [aistudio.google](https://aistudio.google.com/docs/veo)
+- **Separe criação e edição.** A IA gera matéria-prima; CapCut, Premiere, DaVinci Resolve ou Firefly Timeline fazem a montagem final. [helpx.adobe](https://helpx.adobe.com/firefly/web/firefly-video-editor/generate-videos/generate-video-using-firefly-models.html)
+- **Mantenha consistência.** Fixe personagem, paleta, estilo e formato antes de gerar várias cenas. [nemovideo](https://www.nemovideo.com/pt-BR/blog/ai-music-video-generator-from-audio-file)
+- **Use referências visuais.** Uma imagem inicial ou vídeo de referência ajuda a controlar composição e profundidade. [helpx.adobe](https://helpx.adobe.com/firefly/web/work-with-audio-and-video/work-with-video/generate-videos-using-images.html)
+- **Nunca publique sem revisão.** Verifique texto gerado, rostos, movimentos, áudio, direitos autorais e políticas comerciais da ferramenta. [helpx.adobe](https://helpx.adobe.com/firefly/web/work-with-audio-and-video/work-with-video/generate-videos-using-text-prompts.html)
+
+Se quiser, posso montar um **kit pronto em português**: 10 prompts de vídeo, 5 estruturas de letra musical e um roteiro de produção para o seu primeiro vídeo musical com IA.

@@ -1,0 +1,1091 @@
+
+Procurar no vídeo
+Intro
+0:07
+[panting]
+0:08
+Should I be writing any of this down?
+0:10
+No.
+0:25
+Wait, does that guy have six fingers?
+0:29
+The machine knew what a hand looked
+0:30
+like. It just had no idea how to count.
+0:34
+So why not fix it?
+0:45
+Her
+0:53
+[laughter]
+0:57
+face keeps melting.
+1:01
+She's not She isn't blinking.
+1:04
+Every frame is a stranger doing an
+1:06
+impression of the last one.
+1:09
+And you fixed that.
+1:11
+We stopped feeding it [music] flat
+1:12
+pictures. started teaching it how the
+1:14
+world actually works. Light
+1:18
+weight.
+1:19
+What happens when something [music]
+1:20
+falls?
+1:38
+There's no glass. You only need [music]
+1:40
+glass for the things that break when you
+1:42
+look too close.
+1:45
+Is he real?
+1:48
+Are you asking me or her?
+1:57
+Now, in this video, I will show you step
+1:59
+by step how to master AI realism. This
+2:02
+video is sponsored by Hickfield, so if
+2:04
+you want to follow along, make sure to
+2:05
+click the link in description down
+2:06
+below. that you can try out Cance 2.5
+2:09
+for yourself along with all of the other
+2:10
+tools that we will be using in this
+What makes a video Realistic?
+2:12
+video. So the first thing that we need
+2:14
+to get straight is what actually makes a
+2:16
+video look realistic and in particularly
+2:19
+what makes an AI video feel real or
+2:21
+fake. Now to explain this take a look at
+2:23
+this graph. This is called the uncanny
+2:26
+valley. This in summary explains why
+2:29
+sometimes it feels off. We can see it
+2:31
+goes from a robot to a cartoon character
+2:34
+to a stylized humanoid. And then there's
+2:37
+a dip. That's called the uncanny valley.
+2:39
+When it's too real, too human, it feels
+2:42
+off. It needs to have that human element
+2:45
+into it. And that is the thing that most
+2:47
+people overlook when making AI images
+2:49
+because it's too polished. It's too
+2:51
+perfect. And that's when you miss that
+2:53
+spot. It can be the movement. It can be
+2:56
+the flaws. It just starts to feel
+2:58
+strange and creepy. And that is what a
+3:00
+lot of people have with AI. So to avoid
+3:02
+that, we need to get that human realness
+3:05
+into our prompts. And the uncanny valley
+3:07
+doesn't just apply to AI. It also
+3:09
+applied to humans that look too
+3:11
+symmetrical or too perfect.
+3:13
+I thought you were AI
+3:14
+because realism is imperfection. And
+3:17
+that's what we're going to create. So
+How to create imperfection
+3:18
+how do we create that imperfection? It
+3:20
+is all about using the right models and
+3:22
+the correct prompts. Now let me first
+3:24
+talk about the models. Take a look at
+3:26
+these images. All of these were
+3:28
+generated with the same model. Can you
+3:30
+guess which model I use for this? It's
+3:32
+not GPT Image 2 and it's not Cream 5.0
+3:35
+Pro. This was created using Hickfield
+3:37
+Soul and not because this video was
+3:38
+sponsored by Hicksfield. It's actually
+3:40
+because this model really focuses on
+3:43
+creating cinematic type images of
+3:45
+people. It does super well at that. I
+3:47
+don't know what they trained us with,
+3:48
+but with all of the imperfections that
+3:50
+these people have, it starts to look
+3:52
+human. So this was simply made by using
+3:54
+this short prompt and I will go in
+3:56
+detail later about the prompts and you
+3:58
+can find all the prompts that I used in
+4:00
+my free school community where you can
+4:02
+copy them and check them out for
+4:03
+yourself at your own pace. And that gave
+4:06
+me this result like we have all of the
+4:08
+imperfections on this guy's face. It's
+4:10
+not fully sharp. There's a bit of stuff
+4:12
+like on his jacket. He has bags under
+4:14
+his eyes. He has wrinkles. He doesn't
+4:15
+have the best hairline. Neither do I.
+4:17
+But that is what makes us human. [music]
+4:21
+Now, if you want to generate a video, I
+4:23
+would recommend creating a character
+4:25
+sheet of your character. So, we're going
+4:27
+to use this as a reference. Now, we have
+4:29
+to retype our prompt. For that, I'm
+4:31
+using a pretty simple prompt, which I
+4:33
+also will share with you in the asset
+4:35
+file. So, this is the prompt that we're
+4:37
+using for that. And normally I would
+4:39
+create this with GPT image 2. But while
+4:42
+I was doing my research and also while I
+4:44
+was looking at all the images that I
+4:46
+generated, I by now can tell when an
+4:48
+image is generated using GPT image 2
+4:50
+because it is way too noisy and
+4:52
+especially with image and video
+4:55
+generation. Each time the image gets
+4:57
+slightly worse in my opinion. I'm now
+4:59
+using Cream 5.0 Pro when I generate
+5:01
+these character sheets. You can do this
+5:03
+in up to 2K. You can choose the aspect
+5:05
+ratio. I'm actually going to do 16x9.
+5:07
+And then you can generate your images.
+5:09
+This looks a little bit sharper. It
+5:11
+looks a little bit more polished, but I
+5:13
+don't mind it. We have a good close-up
+5:15
+of his face. I've removed the hat right
+5:17
+here. The reason for that is because
+5:19
+this is a small hat, and you don't want
+5:21
+to have the AI use such small details
+5:24
+when it makes videos because if you do
+5:26
+that, then it's not going to look sharp.
+5:28
+It's not going to look real. It might
+5:30
+even change the characteristics of your
+5:31
+character. And now that we have our
+5:33
+character sheet, we're going to upload
+5:34
+that in the prompt box again. Then I'm
+5:37
+also going to add in my original
+5:38
+character just so that I have an extra
+5:41
+reference of him. I'm not going to tag
+5:43
+it. I just added it in there. And I say
+5:45
+image one is used for his identity. Then
+5:47
+I'm basically adding in a bunch of
+5:49
+details of what this guy looks like. And
+5:51
+I'm adding in do not recast, do not
+5:54
+beautify, do not use as an image
+5:56
+background. Then we're going to describe
+5:57
+what we want him to look like in our
+5:59
+first starting frame. And then the final
+6:01
+touch is adding in the lens details. So
+6:04
+here I'm saying it's shot on a 35 mm
+6:06
+lens, aperture of 1.8, shallow depth of
+6:09
+field, visible fine film grain, muted
+6:11
+desaturated color rate. These are like
+6:14
+film or camera instructions. More on
+6:16
+that later. And then you're going to hit
+6:18
+generate. And then you have your first
+6:20
+image. And this is what's needed to have
+6:22
+the baseline for your videos. So don't
+6:25
+underestimate your images because this
+6:27
+is the part where you could save so much
+6:29
+time and credits [music] to get your
+6:31
+character to look cinematic. If your
+6:33
+starting frame or your reference doesn't
+6:35
+look cinematic, you can still achieve
+6:37
+cinematic realistic videos, but it's
+6:40
+going to be a little bit harder. So, put
+6:42
+in some real effort onto this. Because
+6:43
+if I now add in a video prompt, we're
+6:46
+going to get something like this.
+6:49
+I grew up on this water. You learned the
+6:52
+weather before you learned the roads.
+6:56
+My father was a captain.
+6:58
+He used to say, "The harbor tells you
+7:00
+when it wants to be left alone.
+7:03
+And when he came home, he would.
+7:13
+So yeah, rest in peace that car. The
+7:15
+thing is about videos like these, it's
+7:16
+not just the image quality or the video
+7:19
+quality that makes the video real. The
+The importance of dialogue
+7:22
+thing that plays a huge role here is
+7:24
+[music] the dialogue. Here's an example
+7:26
+of what good dialogue will do to your AI
+7:28
+generation.
+7:32
+I'm sorry. I don't I I don't know what
+7:34
+to say.
+7:34
+Stop. Just stop talking.
+7:35
+I'll talk if I want.
+7:38
+[gasps]
+7:43
+Leave alone.
+7:44
+Why would you stop it?
+7:45
+Leave me alone.
+7:48
+Why?
+7:51
+Because I love you. [screaming]
+7:59
+This is still not perfect, but for
+8:01
+contrast, here's what the average AI
+8:04
+generation looks like in terms of
+8:05
+dialogue.
+8:07
+I can't keep doing this anymore.
+8:10
+You know, I love you more than anything.
+8:16
+So, how do we achieve good dialogue? The
+8:18
+first thing you need to learn is how to
+8:20
+prompt like a director. Especially now
+8:22
+with Cense 2.5, it is so much better at
+8:26
+understanding what you want to see on
+8:28
+the screen than it was with previous
+8:30
+models. Let's analyze the first example.
+8:32
+So it starts with a broken apology. It
+8:35
+is a continuous take. And if we look at
+8:37
+the prompt, then we can see in the first
+8:40
+stage that is the bedroom to the living
+8:42
+room. [music] The apology we are
+8:44
+describing this with a lot of different
+8:46
+words what we want to see there. So the
+8:48
+man and the woman are walking out of a
+8:50
+dim bedroom together. both unsteady on
+8:52
+their feet into the open living room lit
+8:55
+by a single warm lamp. They are alone in
+8:57
+the house. No one else is present. Then
+9:00
+the primary event is they stop in the
+9:02
+middle of the living room close to each
+9:03
+other. The man speaks first, quiet and
+9:06
+broken, eyes wet, struggling to get the
+9:08
+words out. An apologies with no real
+9:10
+explanation behind it. Before he can
+9:12
+finish, the woman cuts him off sharply,
+9:14
+telling him to stop talking, her face
+9:16
+already tied with anger. And the end
+9:17
+state of this scene is that the two are
+9:20
+close together in the living room, him
+9:21
+mid-sentence, and glassy eyed, her jaw
+9:24
+clenched, having just cut him off. So
+9:26
+that is explaining to the actor [music]
+9:28
+what you want to see on the screen. That
+9:30
+includes the action, the words they need
+9:32
+to say, the shift in the tone, but also
+9:35
+the pauses that they need to add in
+9:37
+there, and lastly, the emotion at these
+9:39
+moments. Cance 2.5 does a phenomenal job
+9:42
+at understanding how that scene plays
+9:44
+out. So, you just need to find the words
+9:46
+to throw at the AI to help it [music]
+9:49
+act out your scene. But those are not
+9:50
+the only ways to improve your dialogue.
+9:52
+Another thing that you can do is adding
+9:54
+in an accent. You don't just want to
+9:56
+write out add in an Irish accent or a
+9:58
+Jamaican accent. That's not going to
+9:59
+give you a result like this.
+10:03
+See how quiet it stay? I tell you
+10:05
+already. Nothing out here. Just bird.
+10:10
+Wait, wait. Bomb clat.
+10:19
+You seeing this?
+10:25
+To achieve something like that, you
+10:26
+first want to name the speaker. Then
+10:28
+you're going to include the region from
+10:30
+where they're from, the pace, the
+10:31
+energy, the emotional state, and then
+10:33
+their exact [music] line. So to achieve
+10:35
+that accent, I first described who my
+10:38
+main character is. Then I described what
+10:40
+his accent [music] is. So I named him
+10:42
+Clement. He speaks English with an
+10:43
+unhurried Kingston accent. Natural, not
+10:46
+exaggerated, not a comedy voice, when
+10:47
+the shock hits, the voice jumps and the
+10:49
+words get short. And because I've added
+10:52
+like more detail about what this guy is,
+10:54
+Cance has a good idea of like what this
+10:55
+guy potentially sounds like. One thing
+10:57
+that's very important that in your
+10:58
+prompt structure, you can use symbols to
+11:00
+[music] point out what this person is
+11:03
+saying. So for dialogue, you're using
+11:05
+these brackets, which will help Cance
+11:06
+2.5 to understand that that is text that
+11:09
+needs to be said by your character. But
+11:10
+more on that later when we get to sound.
+11:12
+There's just so much more to the
+11:14
+dialogue that I now have to tell you
+11:15
+about because for example, you also have
+11:17
+acting performance words. [music] It are
+11:19
+simply words that describe the state of
+11:21
+being of your character in terms of how
+11:24
+he has to act. So for example, I have
+11:26
+this image right here of this guy being
+11:28
+chased by a T-Rex. Then we can use the
+11:31
+action and the performance words. So for
+11:33
+example, we can say he's riding happily
+11:35
+with loose shoulders and a broad smile.
+11:38
+Then we can say here's the footstep. He
+11:40
+loses the smile and he tightens the
+11:42
+fingers. Then he looks behind slowly and
+11:43
+reluctantly. [music] He freezes and
+11:45
+scream involuntarily. Then he's pedal
+11:47
+with a frantic uneven force. He leaves
+11:49
+behind the bicycle and he hides. Then
+11:51
+lastly, he's covering his mouth and he's
+11:53
+remaining rigidly still. He's waiting
+11:55
+for the footsteps to recede. And then he
+11:57
+releases one shaky [music] breath. If we
+11:59
+generate that, then we get a result like
+12:01
+this.
+12:14
+[snorts]
+12:16
+Wait.
+12:20
+[groaning]
+12:25
+[snorts]
+12:31
+I do want to note that this is a
+12:33
+fourpage prompt and everything I just
+12:35
+said is included in that prompt in terms
+12:38
+of the action words that describe what's
+12:40
+going on. [music] So again, if you want
+12:41
+to go through this yourself, then please
+12:43
+do because that gives you a good
+12:44
+understanding of how to prompt for
+12:46
+[music] something like this. Now the
+12:47
+action words is what describes what your
+12:49
+character needs to do. Now [music] let's
+12:51
+change the way of how they feel. So for
+12:53
+that we need to express emotion. We can
+12:55
+do various subto emotions to explosive
+12:58
+ones. You can also describe a certain
+13:00
+trigger that causes an emotion or
+13:02
+[music] an action or even a visual. If
+13:05
+you want to know how to prompt for your
+13:07
+own emotions, I've created this website
+13:09
+for you and it has 25 different emotions
+13:12
+that you can use right away and you can
+13:14
+just copy them. When it comes to
+13:15
+directing, it's not just directing the
+13:17
+actors how to speak, how to perform.
+The Art of Camera Movement
+13:20
+It's also about the camera work and that
+13:22
+is something that's hugely underrated
+13:23
+that you need to understand. You
+13:25
+literally have to learn traditional film
+13:26
+making because if you want to achieve
+13:28
+true realism, you need to know how the
+13:30
+camera moves, where the camera focuses
+13:32
+on, and how it shows its subject. Let me
+13:35
+break down all three of them. So, first
+13:36
+of all, we have camera focus. Here, you
+13:39
+need to describe to the AI what to focus
+13:41
+on. So, is it your main subject or is it
+13:44
+your secondary subject? Be intentional
+13:46
+with where you want to have the camera
+13:48
+focus on. So here we have our main
+13:50
+subject and then we perform a deliberate
+13:53
+rack focus on the thing behind our
+13:55
+subject and we also set up triggers. So
+13:57
+for example in this case after he crawls
+14:00
+then we see the focus change.
+14:07
+The next thing you need is realistic
+14:09
+camera movements.
+14:10
+Let me talk about camera movement.
+14:13
+This is a crash zoom. Handheld.
+14:16
+Raw. Chaotic.
+14:20
+Alive. Tracking shot.
+14:24
+You're right there with them. Orbit
+14:27
+shot. The reveal. The moment that
+14:30
+changes everything.
+14:32
+Camera movement isn't style.
+14:35
+It's emotion.
+14:37
+If you want to learn how to prompt
+14:39
+realistic camera movements, then take a
+14:41
+look at this website that I created
+14:42
+earlier where I share all of the prompts
+14:44
+that I've used for realistic camera
+14:46
+movement. Another thing that will set
+14:48
+you apart as an AI filmmaker is knowing
+14:50
+how to create good camera angles.
+15:03
+Hey, [screaming] stop.
+15:17
+Okay, let's break down that shot. We're
+15:19
+starting off with an establishing shot
+15:21
+first. This establishes the three-lane
+15:23
+layout. Immediately, you have a great
+15:25
+overview of where I am, what I am
+15:28
+running on, and what's going on. Then,
+15:29
+we focus on the character. We keep
+15:31
+tighter framing like the shoe insert and
+15:33
+the snoram shifts the focus on the
+15:35
+street to my exhaustion strain and
+15:37
+tunnel vision. Then I motivate the
+15:39
+desperation by altering between myself
+15:42
+and the truck which reinforces the
+15:45
+widening gap. Then we keep the action
+15:47
+readable. We're using uninterrupted
+15:49
+static wide shots for the bike as I
+15:52
+tackle that. We're not introducing
+15:54
+distracting cuts there. Then it all
+15:56
+escalates. the camera is dropping too a
+15:58
+low mounted camera bar rigs and there's
+16:01
+a final sprint that is very aggressive.
+16:03
+Choosing those different camera angles
+16:05
+brings that scene to life. So that's
+16:06
+what you also got to think about when
+16:08
+you have something in your head. The
+16:09
+final layer that brings everything
+Sound design sells your video
+16:11
+together is these sounds. I've already
+16:13
+showed you these symbols that you can
+16:15
+use to reference your sounds. But how
+16:17
+does it actually work in action and how
+16:19
+do you need to prompt that? Let me show
+16:21
+you. There are two things that you can
+16:22
+do. You can just focus on diioetic
+16:24
+sounds. Those are sounds that the
+16:26
+characters also hear. And you can focus
+16:29
+on nondiioetic sounds. These are things
+16:32
+like music or extra bass or extra sound
+16:35
+effects that your characters won't
+16:36
+necessarily hear, but the audience will
+16:38
+hear that when watching your movie. So,
+16:41
+here's an example of diagetic sounds.
+16:56
+Don't come up. I'm already leaving.
+16:58
+So for that example, we particularly
+17:00
+focused on these symbols. So we added it
+17:02
+in there and we basically described
+17:04
+what's going on. So we have a soft
+17:05
+hydraulic door that's closing with a
+17:08
+hiss with a heavy steel door slam. Then
+17:10
+we have each step produces a one closed
+17:13
+rubber soul squeak followed immediately
+17:15
+by one small wet splash beneath the
+17:17
+corresponding foot. We describe in great
+17:19
+detail how we want to have that sound.
+17:22
+Now, here is another example where we
+17:24
+also use nondiioetic sounds.
+17:41
+Stop following me.
+17:43
+So, in this prompt, we've used all three
+17:45
+of these different symbols. We used the
+17:48
+normal brackets for the music. Then we
+17:51
+used the other symbol. I don't know what
+17:53
+to call this for the footsteps. And then
+17:56
+we used different bracket symbol for
+17:59
+what she's saying. If you look at this
+18:01
+and if you analyze this, then this is
+18:02
+something that you could do in your
+18:04
+prompt. So you want to say like we have
+18:06
+a sharp electrical bus click as the
+18:08
+light dies. Then we have a hard
+18:10
+nondiioetic subbass hit that lands on
+18:13
+the exact frame the light goes dark. So
+18:15
+that is if we listen to that again,
+18:18
+that's added bass there, added sound
+18:20
+that the character won't necessarily
+18:22
+hear, but it makes it more dramatic for
+18:24
+you and it makes it more that you're
+18:25
+into the moment and that you're dragged
+18:27
+into this movie. The great thing about
+18:28
+this, but also the really difficult part
+18:30
+of this is that you really have to think
+18:33
+about what you want to have in your
+18:35
+generation. That's why I always tell you
+18:37
+is that you really need to go through
+18:39
+your prompt before you hit generate.
+18:41
+Otherwise, you're just wasting
+18:42
+generations. you're wasting credits,
+18:44
+wasting money, and you're wasting your
+18:46
+time. If the sound effects from Cance
+The Most underrated thing is Editing
+18:48
+aren't good enough, then you can also do
+18:50
+the next thing, which is editing. So,
+18:52
+for editing, I have this example that I
+18:54
+want to share with you. Let's take a
+18:56
+look at the original clip.
+19:19
+Trust your vision. Don't let the AI
+19:22
+direct your art.
+19:22
+So, for me, that clip was quite good. I
+19:24
+just didn't like a few things. So, the
+19:27
+first thing I didn't like was this slow
+19:30
+motion of this guy jumping down. Like,
+19:31
+that makes it unbelievable to me. The
+19:33
+first thing I always do is I start
+19:35
+trimming up my clip in terms of each
+19:38
+different shot that has been used. So
+19:41
+let's talk first about that segment
+19:43
+where we have this slow motion. To me,
+19:47
+we don't need this dramatic slow motion.
+19:48
+What we just can do is we can make a cut
+19:51
+like right about here where we see this
+19:54
+guy jumping off. Then we make a cut and
+19:57
+then we go up until this point. [music]
+20:00
+So that part entirely removed. Now, if
+20:03
+we play this together, it's a lot
+20:04
+faster. That's what I like. So, that's
+20:06
+the first thing I do. I trim up the
+20:08
+parts that I don't want. Then, the
+20:10
+second thing I do is adding in zoom in
+20:11
+and zoom out. So, here I started off by
+20:14
+zooming in. Like, if we turn this off,
+20:16
+then we can see this is the original
+20:18
+clip where I zoomed in a little bit. And
+20:20
+then the end I zoomed out. So, you can
+20:24
+see over if we play this that it's
+20:26
+slowly like zooming out. That reveals
+20:28
+more of the scene. Then for this next
+20:30
+scene, I zoom in a little bit because I
+20:32
+wanted to be more dramatically focused
+20:34
+on that eye. So at the beginning, I keep
+20:37
+it at 100. Then near the end, I keep it
+20:40
+at 120 almost. And that gives for a
+20:43
+slow, dramatic zoom in, and you're
+20:46
+really drawn your attention to that eye.
+20:49
+Once you've added in all of your zoom in
+20:51
+and your zoom outs, there are a few
+20:52
+additional things that you can do. One
+20:54
+thing that comes to mind with a lot of
+20:56
+these AI scenes, it seems a bit too like
+20:59
+perfect, too plastic almost. What you
+21:01
+could do is you could go over and add in
+21:04
+like a effect. And for this one, we're
+21:07
+going to add in a bit of noise. So you
+21:09
+can drag over a bit of noise on your
+21:10
+clip. Then you can see it right here.
+21:12
+And then you can change and play around
+21:14
+with the intensity until you get
+21:16
+something that you like. I wouldn't do
+21:18
+it too much, just like a little bit to
+21:21
+make sure your scene looks a bit more
+21:23
+realistic. And you can adjust that for
+21:25
+each clip or you can add that at the
+21:26
+beginning of your original clip. And the
+21:29
+second thing you can do is you can add
+21:30
+in a blur. So you can add in a blur over
+21:32
+your scene and that allows you to blur
+21:35
+the edges a little bit. So by doing so,
+21:38
+it becomes a bit more like it was shot
+21:40
+on a camera. And the last thing you can
+21:42
+do is you can add in some cinema bars.
+21:44
+So for example, if you crop the top, you
+21:46
+can see you can adjust this. You can
+21:48
+play around with this. I would do like
+21:49
+10 to 15%. And then once you have done
+21:53
+that for both side on the top and the
+21:55
+bottom right here, then you have these
+21:57
+cinema bars.
+22:14
+Trust your vision. Don't let the AI
+22:17
+direct your art.
+22:18
+So, those are small little tweaks that
+22:20
+you can do to make your video look more
+22:22
+real. Especially the noise plays a huge
+22:25
+part in making it look more believable.
+22:27
+If this was useful to you, please leave
+22:29
+a comment down below and tell me which
+22:31
+feature or which technique I showed you
+22:33
+you like the most. And also, let me know
+22:35
+what you want me to show next. Make sure
+22:37
+to click the video that's on the screen
+22:38
+right now if you want to see more videos
+22:40
+about Cedense 2.5.

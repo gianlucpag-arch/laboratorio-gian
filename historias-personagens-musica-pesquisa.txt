@@ -1,0 +1,248 @@
+# Histórias, personagens e música com IA: pesquisa e guia de produção
+
+Consulta: 18 de outubro de 2026. Foco escolhido pelo usuário: histórias e personagens com IA. Plataforma principal: YouTube e Shorts. Música considerada como trilha, identidade do personagem e canção narrativa.
+
+## Como interpretar esta pesquisa
+
+Esta é uma síntese documental, com 34 referências selecionadas ao final. Não é um experimento com um canal nem um comparativo auditivo/visual de todos os geradores. Aulas foram verificadas por suas páginas, descrições e materiais acessíveis; não afirmo ter assistido integralmente a todas.
+
+As recomendações têm três categorias:
+
+- **Confirmado pela plataforma:** descrição publicada de métricas, recursos ou políticas. Não significa garantia de resultado.
+- **Orientação técnica:** procedimento documentado pelo fabricante ou profissional responsável pela fonte. Pode ser específico de uma versão.
+- **Proposta para testar:** decisão criativa ou hipótese editorial minha. Precisa ser validada com seu público.
+
+Documentação comercial demonstra funcionalidades e orientação do fornecedor; não prova superioridade sobre concorrentes. Estudos observacionais não demonstram causalidade. Exemplos e números de produção sugeridos neste guia são pontos de partida, não limiares do algoritmo.
+
+## 1. O que realmente sustenta mais chances de visualização
+
+O YouTube agrupa sinais em interesse em assistir, envolvimento e satisfação. A plataforma recomenda alinhar a abertura à promessa do título e da miniatura. Aplicação: defina a experiência prometida antes de produzir. Uma história pode prometer mistério, humor, surpresa ou emoção, mas precisa entregar esse valor. [Fonte 1](https://support.google.com/youtube/answer/16559650?hl=en).
+
+**1 — Escolha um público e uma emoção por história.** Proposta: escreva “para quem é” e “o que essa pessoa deve sentir”. “Animação com IA” descreve o processo; “um pequeno guardião tentando salvar uma estrela” já sugere experiência.
+
+**2 — Formule uma premissa compreensível sem conhecer o personagem.** Proposta: “Ele só precisava entregar uma carta — mas ela não parava de fugir”. Evite depender de biografia extensa para despertar interesse.
+
+**3 — Pesquise interesses do público antes de renderizar.** A aba Tendências pode revelar buscas e lacunas de conteúdo, com disponibilidade variável. Lacuna de busca não equivale a oportunidade comprovada para ficção. Use como pista. [Fonte 2](https://support.google.com/youtube/answer/11962757?hl=en).
+
+**4 — Considere concorrência e demanda.** Métricas boas dentro do canal não asseguram muitas impressões: outros vídeos também disputam aquele espectador. Compare histórias de tema, duração e público semelhantes. [Fonte 3](https://support.google.com/youtube/answer/11914225?hl=en).
+
+**5 — Construa familiaridade sem repetir o mesmo episódio.** Proposta: mantenha personagem e universo reconhecíveis, mudando objetivo, obstáculo e consequência. Teste se o público volta pelo personagem ou apenas por um tema isolado.
+
+## 2. Roteiro e abertura: propostas editoriais para testar
+
+Não encontrei comprovação universal de que um corte a cada X segundos ou um gancho de exatamente três segundos produza mais alcance. As sugestões abaixo são técnicas de construção e hipóteses de teste, não regras confirmadas pelo YouTube.
+
+**6 — Abra com uma situação já em andamento.** Em vez de apresentação longa, experimente mostrar o personagem tentando fazer algo. Exemplo: uma criatura segura a última luz de uma cidade que começa a apagar.
+
+**7 — Apresente uma pergunta concreta.** O espectador consegue entender o problema? “Por que a sombra se mexeu sozinha?” é uma pergunta mais legível que uma sequência de imagens bonitas sem relação.
+
+**8 — Dê ao protagonista um desejo observável.** Recuperar uma chave, proteger um amigo ou atravessar uma ponte permite acompanhar progresso. “Ser feliz” precisa ser convertido em ações.
+
+**9 — Faça os eventos se causarem.** Proposta de revisão: una cenas por “por isso” ou “mas”. Se só houver “e depois”, verifique se a sequência tem consequência narrativa.
+
+**10 — Escale o obstáculo.** Uma primeira solução pode piorar a situação. Evite que o personagem apenas percorra cenários sem precisar decidir.
+
+**11 — Reserve uma entrega para o final.** Resolva a pergunta principal. Um gancho para outro episódio pode vir depois dessa recompensa, sem substituir a conclusão prometida.
+
+**12 — Corte explicações que a imagem já fornece.** Se o personagem treme e recua, a narração pode acrescentar pensamento ou contexto, em vez de repetir que está com medo.
+
+**13 — Teste a história em imagens estáticas e áudio provisório.** Antes de animação cara, monte um rascunho. Peça a alguém para explicar o objetivo e o desfecho. Isso verifica clareza, não prevê viralidade.
+
+## 3. Personagem consistente e geração de vídeo
+
+**14 — Prepare uma referência visual aprovada.** No fluxo de imagem para vídeo, composição, iluminação e aparência vêm da imagem. O Runway alerta que defeitos de mãos e rosto podem se intensificar na animação. Corrija a origem. [Fonte 4](https://help.runwayml.com/hc/en-us/articles/48324313115155-Image-to-Video-Prompting-Guide).
+
+**15 — Crie uma ficha curta do personagem.** Proposta: frente, perfil, três quartos, corpo inteiro e expressões importantes; registre roupa, escala e objetos recorrentes. Não exija todas essas entradas de um modelo que não as aceita.
+
+**16 — Reutilize referências nomeadas quando a ferramenta permitir.** O Runway documenta salvar referências e citá-las no prompt. Os tipos de mídia aceitos dependem do modelo. [Fonte 5](https://help.runwayml.com/hc/en-us/articles/52963720640275-Using-reference-media-to-guide-your-generations).
+
+**17 — Direcione movimento com linguagem concreta.** A documentação recomenda começar simples e acrescentar detalhes conforme a necessidade. “A mão treme antes de tocar a maçaneta” comunica ação mais específica que “atuação perfeita”. [Fonte 6](https://academy.runwayml.com/guides/prompting-guide).
+
+**18 — Não contradiga o quadro inicial.** Se a referência mostra corrida, poeira e borrão de movimento, pedir imobilidade pode exigir mais tentativas. Simplifique as pistas visuais antes de insistir no texto. [Fonte 4](https://help.runwayml.com/hc/en-us/articles/48324313115155-Image-to-Video-Prompting-Guide).
+
+**19 — Planeje som junto com imagem quando o modelo aceitar áudio.** O guia do Veo demonstra direção de enquadramento, iluminação e sons. Especifique o que deve ser ouvido: vento, passos, objeto caindo, fala ou silêncio relativo. [Fonte 7](https://deepmind.google/models/veo/prompt-guide/).
+
+**20 — Use quadros de início e fim para transições planejadas.** O Flow e o tutorial da Adobe documentam esse recurso. Ele orienta a geração; não elimina a necessidade de conferir o caminho entre os quadros. [Fonte 8](https://support.google.com/flow/answer/16353334?hl=pt-BR), [fonte 9](https://www.adobe.com/learn/firefly/web/create-ai-video-with-text-prompts?learnIn=1).
+
+**21 — Confira o modelo ativo antes de comprar uma ideia de tutorial.** Recursos de referência, duração e extensão variam. Plataforma, modelo e modo são decisões distintas. [Fonte 10](https://support.google.com/flow/answer/16352836?hl=en).
+
+**22 — Para gestos específicos, teste referência de performance.** O Kling orienta compatibilizar enquadramentos e usar referências de movimento legíveis. As orientações variam por versão; não transfira todas as configurações de 2.6 para 3.0. [Fonte 11](https://kling.ai/quickstart/motion-control-user-guide).
+
+**23 — Em diálogos, considere produzir cada atuação separadamente.** O tutorial oficial do Act-Two demonstra performances individuais e composição posterior para uma cena com múltiplos personagens. Esse é um fluxo específico, não uma exigência para toda ferramenta. [Fonte 12](https://help.runwayml.com/hc/en-us/articles/41748090660499-Creating-Multi-Character-Dialogues-with-Act-Two).
+
+**24 — Compare tentativas pela utilidade na montagem.** Proposta: avalie identidade, ação, anatomia, continuidade e enquadramento. Registre custo por segundo aproveitado, não apenas custo por geração. Um plano impressionante que não encaixa no episódio pode ser desperdício.
+
+## 4. Voz, interpretação e som
+
+**25 — Escolha voz pela atuação necessária.** A documentação do ElevenLabs trata voz, texto, pontuação e marcações de interpretação como controles relevantes. Crie um teste que inclua emoção contida, pergunta e fala intensa antes de aprovar a voz do personagem. [Fonte 13](https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices).
+
+**26 — Mantenha um áudio de referência da identidade vocal.** Proposta: salve uma fala aprovada e compare novas cenas com ela. Mudar o modelo ou configuração pode mudar o resultado; não confunda ter o mesmo nome de voz com performance idêntica.
+
+**27 — Escreva para ser falado.** Revise nomes, números e abreviações. O guia de TTS recomenda escrever números por extenso para reduzir ambiguidades de pronúncia. Ouça em português brasileiro antes de animar a boca. [Fonte 14](https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech).
+
+**28 — Verifique a sintaxe do modelo.** Eleven v3/v4 e modelos anteriores têm controles de pausa diferentes; tags SSML de pausa não são universais. Não copie instruções de voz para o campo de letra de uma música sem conferir o suporte. [Fontes 13 e 14](https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech).
+
+**29 — Preserve a compreensão da fala.** A Adobe documenta ducking: reduzir música quando há diálogo. Ajuste o resultado ouvindo, pois a configuração automática também exige revisão. [Fonte 15](https://helpx.adobe.com/be_en/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html).
+
+**30 — Monte camadas sonoras com propósito.** Proposta: voz, ambiente, efeitos de ação e trilha. Use uma assinatura sonora para um objeto ou personagem importante. Retire música em algumas reações para testar contraste emocional.
+
+## 5. Música original que serve à história
+
+**31 — Defina a função antes do gênero.** Proposta: a faixa acompanha diálogo, apresenta o personagem, conduz uma perseguição ou é uma canção central? Uma trilha para narração precisa de decisões diferentes de um refrão cantado.
+
+**32 — Escolha parâmetros musicais deliberadamente.** O Eleven Music recomenda gênero, clima, instrumentos, andamento e estética de produção. Mais texto não equivale sempre a mais qualidade: detalhe o que importa, deixando espaço para descoberta. [Fonte 16](https://elevenlabs.io/docs/overview/capabilities/music/best-practices).
+
+**33 — Desenvolva a música por seções quando precisar de controle.** Planos de composição do Eleven Music organizam letra, duração e estilo de cada trecho. São um recurso documentado de API, com formato próprio; não uma sintaxe universal para Suno. [Fonte 17](https://elevenlabs.io/docs/eleven-api/guides/how-to/music/composition-plans).
+
+**34 — Para canções, revise a letra como fala cantada.** Proposta: uma ideia central por verso, palavras que o personagem realmente usaria e espaço para respirar. Cante ou leia ritmicamente antes de gerar. Não há uma contagem universal de sílabas que garanta bom resultado.
+
+**35 — Explore repetição com variação.** Ableton ensina desenvolver ideias por mudanças sucessivas. Aplicação proposta: repita um pequeno motivo do personagem com instrumentos ou energia diferentes em cenas de medo, esperança e vitória. [Fonte 18](https://makingmusic.ableton.com/creating-variation-2-mutation-over-generations).
+
+**36 — Trate “música grudenta” como hipótese, não fórmula de sucesso.** Estudo de Jakubowski e colegas analisou relatos de 3.000 pessoas e características de melodias populares. Encontrou associações com imagem musical involuntária. Isso não demonstra que acelerar uma faixa de IA ou copiar determinado contorno aumente views. Teste se ouvintes lembram um motivo depois de ouvir. [Fonte 19 — estudo original](https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf).
+
+**37 — Corrija uma seção antes de descartar a faixa.** O editor do Suno documenta substituição, edição de letra, extensão e corte. Compare alternativas e confira as emendas. A página é de 2025; use o material do Studio 2.0 para a interface atual. [Fonte 20](https://help.suno.com/en/articles/6141505), [fonte 21](https://help.suno.com/en/articles/13670529).
+
+**38 — Use stems para trabalhar elementos separadamente.** O Suno documenta modos de separação por plano e custo. Separar não garante áudio isolado perfeito; ouça vazamentos e artefatos antes de processar. [Fonte 22](https://help.suno.com/en/articles/13925185).
+
+**39 — Compare sua mixagem com referência em volume semelhante.** A iZotope recomenda igualar níveis para evitar preferir uma versão apenas por estar mais alta. Compare clareza da voz, graves e equilíbrio; não apenas potência. [Fonte 23](https://www.izotope.com/en/learn/13-tips-for-using-references-while-mixing).
+
+**40 — Evite concluir que mastering conserta composição.** Proposta: resolva primeiro letra, melodia, interpretação, arranjo e emendas. Depois finalize volume e timbre. Não há evidência aqui de um valor de loudness que produza mais recomendações.
+
+## 6. Edição para histórias: clareza e progressão
+
+**41 — Corte quando a informação ou emoção mudar.** Proposta: variar plano geral, ação e reação conforme a necessidade. Uma emoção pode exigir permanência; uma ação confusa pode exigir outro ângulo. Frequência de corte não substitui narrativa.
+
+**42 — Revise continuidade entre planos.** Proposta: lado do olhar, direção da caminhada, mão que segura o objeto, posição de portas, cor e escala. Esses detalhes ajudam a preservar compreensão, mas não foram testados aqui como fatores isolados de alcance.
+
+**43 — Confira o arquivo exportado no celular.** Proposta: legenda, volume, rosto, textos e elementos cobertos pela interface. Revise reprodução normal e alguns quadros críticos; não aprove apenas pela miniatura do gerador.
+
+**44 — Aprenda edição, cor e áudio além da geração.** A Blackmagic disponibiliza aulas e materiais oficiais de DaVinci Resolve nessas áreas. Use-os para acabamento e diagnóstico. A oferta de um curso não é evidência de vantagem algorítmica. [Fonte 24](https://www.blackmagicdesign.com/products/davinciresolve/training).
+
+## 7. Título, miniatura e descoberta
+
+**45 — Venda o conflito da história.** Proposta: compare “Animação incrível feita com IA” com “Ele guardou a última estrela do céu”. Se o episódio não entrega a segunda promessa, ela não deve ser usada. “Feito com IA” pode interessar em um bastidor, mas seu valor para ficção precisa ser testado.
+
+**46 — Use miniatura legível e título preciso.** O YouTube recomenda evitar complexidade visual excessiva, colocar palavras importantes cedo e deixar marca e número do episódio para o final. Não existe recomendação universal de exatamente três palavras na miniatura. [Fonte 25](https://support.google.com/youtube/answer/12340300?hl=en).
+
+**47 — Teste conceitos realmente diferentes.** O teste A/B nativo aceita até três títulos, miniaturas ou combinações em vídeos elegíveis. Usa tempo de exibição; pode levar até duas semanas e terminar inconclusivo. Não está disponível para Shorts. [Fonte 26](https://support.google.com/youtube/answer/16391400?hl=pt-BR).
+
+**48 — Não transforme CTR em nota absoluta.** Ela varia por público, origem e volume de impressões. A plataforma alerta contra decisões precoces e pequenas diferenças sem dados suficientes. Um vídeo que alcança pessoas menos familiarizadas pode ter CTR menor e ainda crescer. [Fonte 27](https://support.google.com/youtube/answer/7628154?hl=en), [fonte 28](https://support.google.com/youtube/answer/16767369?hl=en).
+
+## 8. Shorts e reaproveitamento com intenção
+
+**49 — Crie uma micro-história, não apenas um recorte aleatório.** Proposta: apresente uma situação, uma mudança e uma recompensa que funcionem no trecho. Preserve contexto suficiente para um espectador que nunca viu o episódio.
+
+**50 — Analise “assistiu ou deslizou” junto com permanência.** O YouTube confirma sinais de escolha de assistir, duração média, percentual assistido e satisfação em Shorts. Não informa um limiar público universal que garanta distribuição. Não exige frequência mínima de postagem. [Fonte 29](https://support.google.com/youtube/answer/11914225?co=YOUTUBE._YTVideoType%3Dshorts&hl=en).
+
+**51 — Quando a música for central, teste vários usos dela.** O YouTube for Artists recomenda Shorts distintos por música, letras na tela e vídeo relacionado. Esses materiais dizem respeito a artistas; a aplicação a um personagem fictício é uma adaptação. Sua página cita dados de janeiro de 2024: são históricos e não previsão para este projeto. [Fonte 30](https://artists.youtube/resources/shorts-for-artists/).
+
+**52 — Adapte o começo ao formato.** Proposta: o episódio pode construir um mistério; um Short deve permitir entender rapidamente por que aquela cena importa. Não force loop se ele tornar o final confuso.
+
+## 9. Diagnóstico: o que olhar depois de publicar
+
+O YouTube define quedas como abandono ou salto de trecho. Picos podem indicar interesse, compartilhamento, repetição ou falta de clareza. Não interprete qualquer pico como aprovação. A comparação de retenção com vídeos de duração semelhante é mais útil que uma meta única. [Fonte 31](https://support.google.com/youtube/answer/9314415?hl=en).
+
+| Padrão observado | Hipóteses para investigar | Próxima ação proposta |
+|---|---|---|
+| Muitas impressões e pouco clique | Promessa pouco clara, público amplo ou apresentação fraca | Conferir origem do tráfego e testar título/miniatura |
+| Clique razoável, queda forte no começo | Desalinhamento, demora ou confusão | Rever a abertura lado a lado com a promessa |
+| Queda na fala | Exposição longa, pronúncia ou música competindo | Ouvir sem imagem e simplificar o trecho |
+| Pico na revelação | Interesse ou necessidade de entender novamente | Inspecionar a cena antes de repetir a técnica |
+| Short visto, mas pouco acesso ao episódio | Trecho sem ponte ou interesse diferente | Testar contexto e vídeo relacionado |
+| Bons indicadores, pouco alcance | Demanda, concorrência, amostra ou público restrito | Aguardar dados e comparar temas semelhantes |
+
+Essa tabela descreve hipóteses, não diagnósticos automáticos. Não há acesso ao canal nesta pesquisa.
+
+Não existe base documental aqui para “postar às 18h garante alcance”. O YouTube informa não observar evidência de efeito do horário no desempenho de longo prazo, embora o início possa variar. [Fonte 32](https://support.google.com/youtube/answer/16533387?hl=en).
+
+## 10. Experimento de produção sugerido
+
+Proposta de um ciclo de quatro semanas, ajustável ao orçamento. Não é uma frequência mínima do algoritmo nem um ensaio causal rigoroso.
+
+1. **Semana 1 — identidade e rascunho:** um personagem, uma voz, um cenário principal e três premissas. Monte as histórias com quadros estáticos e áudio provisório. Escolha pela clareza.
+2. **Semana 2 — piloto:** produza uma história curta, com quantidade de planos compatível com seu orçamento. Prepare alternativas distintas de apresentação para teste em vídeo elegível.
+3. **Semana 3 — abertura:** produza outra história do mesmo universo. Mantenha elementos comparáveis e teste uma abertura mais direta. Histórias diferentes introduzem diferenças; trate a comparação como indício.
+4. **Semana 4 — repetição informada:** use retenção e comentários para escolher o conflito seguinte. Prepare Shorts com unidade narrativa e relacione ao episódio quando fizer sentido.
+
+Registre: premissa, duração, formato, promessa, abertura, trilha, modelo, custo, segundos aprovados, origem das views, retenção, novos/recorrentes e observações dos comentários. Compare períodos de exposição semelhantes. Repita aprendizados em mais de um vídeo antes de chamá-los de regra.
+
+Perguntas de revisão antes de gerar:
+
+- O que o personagem quer e o que o impede?
+- O espectador entende a primeira situação sem explicação longa?
+- O final entrega a promessa?
+- A identidade visual e vocal está aprovada?
+- As entradas e os controles existem no modelo escolhido?
+- A trilha tem função clara?
+- Há uma hipótese específica a aprender com esta publicação?
+
+## 11. Transparência e publicação com IA
+
+O YouTube exige declaração em situações especificadas de conteúdo sintético, incluindo música gerada por IA como foco do vídeo e cenas realistas. A página informa que declarar IA, por si só, não limita audiência nem elegibilidade de receita. Uso de IA para roteiro, título ou pequenos ajustes não tem o mesmo tratamento de conteúdo realista gerado. [Fonte 33](https://support.google.com/youtube/answer/14328491?hl=en).
+
+As políticas de monetização incluem conteúdo repetitivo ou produzido em massa como conteúdo inautêntico. Isso não equivale a proibição geral de IA. Para seu projeto, a aplicação proposta é manter roteiro, decisões, variação narrativa e edição efetivos; trocar nomes e cenários em um molde automático não demonstra originalidade suficiente por si só. Política de monetização e sistema de recomendação são assuntos distintos. [Fonte 34](https://support.google.com/youtube/answer/1311392?hl=en).
+
+## 12. Aulas para executar o que foi pesquisado
+
+Estas aulas complementam as 34 referências do guia. A seleção se baseia em autoria oficial e escopo verificável; não representa avaliação integral de cada minuto.
+
+| Material | Aplicação imediata |
+|---|---|
+| [Runway: imagem para vídeo](https://academy.runwayml.com/tutorial/gen-45-image-to-video) | Fazer um plano curto com referência aprovada |
+| [Adobe: vídeo cinematográfico com prompts e quadros](https://www.adobe.com/learn/firefly/web/create-ai-video-with-text-prompts?learnIn=1) | Estudar enquadramento, ação e ponto de chegada |
+| [Runway: Character Animation with Act-Two](https://academy.runway.com/course/character-animation-act-two) | Testar expressão e gesto de um personagem |
+| [Suno: Introducing Studio 2.0](https://www.youtube.com/watch?v=GZHp3WFc9Ps) | Entender o ambiente atual de edição musical |
+| [Blackmagic: treinamento oficial](https://www.blackmagicdesign.com/products/davinciresolve/training) | Aprender montagem, cor e som |
+
+Ordem de aplicação recomendada: premissa e rascunho → personagem e voz → planos → montagem → trilha e efeitos → título e miniatura → publicação → observação. Produza um piloto pequeno para conferir a integração antes de ampliar a série.
+
+## 13. Afirmações que esta pesquisa não confirma
+
+- Que exista um único gerador melhor para qualquer cena.
+- Que prompts longos ou palavras como “8K” produzam automaticamente bons filmes.
+- Que uma seed preserve perfeitamente um personagem em qualquer modelo.
+- Que alta retenção ou CTR assegure alcance.
+- Que três segundos, certa quantidade de cortes ou um percentual fixo sejam a fórmula universal.
+- Que postar diariamente ou usar muitas hashtags seja requisito para descoberta.
+- Que uma música memorável seja necessariamente viral.
+- Que o rótulo de IA, sozinho, derrube a entrega.
+- Que um caso de sucesso de criador prove o método sem considerar audiência anterior, divulgação e tentativas malsucedidas.
+
+## 14. Índice das 34 referências principais
+
+| Nº | Fonte | Tipo de evidência |
+|---|---|---|
+| 1 | [YouTube: desempenho e recomendações](https://support.google.com/youtube/answer/16559650?hl=en) | Explicação oficial |
+| 2 | [YouTube: Tendências](https://support.google.com/youtube/answer/11962757?hl=en) | Recurso de pesquisa |
+| 3 | [YouTube: descoberta de vídeos](https://support.google.com/youtube/answer/11914225?hl=en) | Explicação oficial |
+| 4 | [Runway: imagem para vídeo](https://help.runwayml.com/hc/en-us/articles/48324313115155-Image-to-Video-Prompting-Guide) | Orientação por modelo |
+| 5 | [Runway: referências](https://help.runwayml.com/hc/en-us/articles/52963720640275-Using-reference-media-to-guide-your-generations) | Recurso documentado |
+| 6 | [Runway: prompting](https://academy.runwayml.com/guides/prompting-guide) | Guia oficial |
+| 7 | [DeepMind: Veo](https://deepmind.google/models/veo/prompt-guide/) | Guia com exemplos |
+| 8 | [Flow: criação](https://support.google.com/flow/answer/16353334?hl=pt-BR) | Fluxo documentado |
+| 9 | [Adobe: prompts e quadros](https://www.adobe.com/learn/firefly/web/create-ai-video-with-text-prompts?learnIn=1) | Aula e transcrição |
+| 10 | [Flow: modelos e recursos](https://support.google.com/flow/answer/16352836?hl=en) | Disponibilidade técnica |
+| 11 | [Kling: Motion Control](https://kling.ai/quickstart/motion-control-user-guide) | Guia por versão |
+| 12 | [Runway: diálogos com Act-Two](https://help.runwayml.com/hc/en-us/articles/41748090660499-Creating-Multi-Character-Dialogues-with-Act-Two) | Procedimento oficial |
+| 13 | [ElevenLabs: boas práticas de voz](https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices) | Orientação técnica |
+| 14 | [ElevenLabs: TTS](https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech) | Recurso e pronúncia |
+| 15 | [Adobe: ducking](https://helpx.adobe.com/be_en/premiere/desktop/add-audio-effects/adjust-volume-and-levels/automatically-duck-audio.html) | Procedimento de áudio |
+| 16 | [Eleven Music: prompting](https://elevenlabs.io/docs/overview/capabilities/music/best-practices) | Orientação por produto |
+| 17 | [Eleven Music: composição por seções](https://elevenlabs.io/docs/eleven-api/guides/how-to/music/composition-plans) | Documentação de API |
+| 18 | [Ableton: variação](https://makingmusic.ableton.com/creating-variation-2-mutation-over-generations) | Ensino de composição |
+| 19 | [Jakubowski et al.: Dissecting an Earworm](https://www.apa.org/pubs/journals/releases/aca-aca0000090.pdf) | Pesquisa observacional |
+| 20 | [Suno: Song Editor](https://help.suno.com/en/articles/6141505) | Guia de 2025 |
+| 21 | [Suno: Studio 2.0](https://help.suno.com/en/articles/13670529) | Documentação de 2026 |
+| 22 | [Suno: stems](https://help.suno.com/en/articles/13925185) | Planos e recurso |
+| 23 | [iZotope: faixas de referência](https://www.izotope.com/en/learn/13-tips-for-using-references-while-mixing) | Orientação de mixagem |
+| 24 | [Blackmagic: treinamento](https://www.blackmagicdesign.com/products/davinciresolve/training) | Currículo oficial |
+| 25 | [YouTube: títulos e miniaturas](https://support.google.com/youtube/answer/12340300?hl=en) | Orientação editorial |
+| 26 | [YouTube: teste A/B](https://support.google.com/youtube/answer/16391400?hl=pt-BR) | Experimento nativo |
+| 27 | [YouTube: perguntas sobre CTR](https://support.google.com/youtube/answer/7628154?hl=en) | Interpretação de métricas |
+| 28 | [YouTube: CTR e impressões](https://support.google.com/youtube/answer/16767369?hl=en) | Interpretação de alcance |
+| 29 | [YouTube: descoberta de Shorts](https://support.google.com/youtube/answer/11914225?co=YOUTUBE._YTVideoType%3Dshorts&hl=en) | Sinais por formato |
+| 30 | [YouTube for Artists: Shorts](https://artists.youtube/resources/shorts-for-artists/) | Orientação e dados históricos |
+| 31 | [YouTube: retenção](https://support.google.com/youtube/answer/9314415?hl=en) | Definição e diagnóstico |
+| 32 | [YouTube: sistema de recomendação](https://support.google.com/youtube/answer/16533387?hl=en) | Explicação oficial |
+| 33 | [YouTube: declaração de IA](https://support.google.com/youtube/answer/14328491?hl=en) | Política atual consultada |
+| 34 | [YouTube: monetização](https://support.google.com/youtube/answer/1311392?hl=en) | Política atual consultada |

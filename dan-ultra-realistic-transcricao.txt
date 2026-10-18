@@ -1,0 +1,136 @@
+Capítulo 1: Introduction to AI video
+0:000 segundoMost AI videos look impressive, but they still feel like they're AI generated. To me, cinematic means reaching a point
+0:077 segundoswhere people stop asking, is this real or is it generated? And if you want to reach that point, then you got to learn
+0:1414 segundoshow to make realistic AI videos. And you've come to the right place because in this video, I will break down my entire workflow step by step.
+Capítulo 2: Cinematic image tools
+0:2626 segundosPart one, to make cinematic videos, you need cinematic images. The biggest mistake I see people making is putting
+0:3333 segundosall their effort in generating the videos. Most of your effort should be in generating your image because that will be your reference, basically the ingredient for your cinematic video.
+0:4444 segundosWhen I make these kind of videos, I spend 99% of my time perfecting my images. It is all about concepting,
+0:5151 segundosstoryboarding, getting the right shot and feeding that image into a video generator. When it comes to generating cinematic images, there are three main
+0:5959 segundostools that I'm using. We have Nano Banana Pro that is the original model that I have been using for a while. And now we have Nano Banana 2 that just came
+1:081 minuto e 8 segundosout. Besides that, I'm also using a tool called Hicksfield Saw. I kind of reverse engineered that tool and I will show you in this video what I mean by that. Now,
+1:171 minuto e 17 segundosif you want to try this out yourself, I will leave a link to Hicksfield in the description down below, because there you can access all of the tools that I'm
+1:241 minuto e 24 segundosabout to mention, including Cinema Studio, which is insanely useful for making cinematic shots. Before we go even more in depth, let me first explain what makes an image look cinematic.
+Capítulo 3: Elements of cinematic images
+1:351 minuto e 35 segundosFirst, we have the lighting. Take a look at this image. The lighting is flat and it doesn't look that appealing. If we now prompt it and apply some cinematic
+1:441 minuto e 44 segundoslighting that has motivation, direction, it creates shadow, contrast, highlight, and even some depth, then we get a shot
+1:521 minuto e 52 segundoslike this. Lighting is a insanely important aspect. On film sets, you have entire lighting crews trying to light
+1:591 minuto e 59 segundosthat perfect shot. Next up, we have composition. This might get complex really quick, but let me just show you this image. You see, your eyes have no
+2:072 minutos e 7 segundosidea where to look. You see the people, you see this guy on the bench, and then you have this guy at the forefront. But still though, like your eyes are drawn
+2:152 minutos e 15 segundossomewhat to the center. If you have no idea where to start with your composition, let's apply the rule of thirds. Basically, what it means is you
+2:232 minutos e 23 segundosturn your frame into a 3x3 grid. You want to make sure that you place important subjects on these lines or if you have key focus points, you want to
+2:312 minutos e 31 segundoskeep those at that intersection. Now, the question is, how can you actually apply this in your images? You simply prompt for having it slightly off centered. Or if you want to be more
+2:402 minutos e 40 segundosspecific, you can prompt it the subject is positioned left third of the frame.
+2:452 minutos e 45 segundosYou can also use leading lines as a composition guide. For example, right here we can see that it draws you into
+2:532 minutos e 53 segundosthe bridge. Next up, we have depth. Like I said, with lighting, you don't want to have a flat looking image. Like an image like this is not that appealing. But if
+3:023 minutos e 2 segundoswe want to create depth, then we want to add things to the foreground uh to the background and also to the midground.
+3:093 minutos e 9 segundosLastly, we have color. And this is a powerful one because your generation might be really good, but you might not like the colors. You can simply prompt
+3:173 minutos e 17 segundosit to be changed with those colors. And now we have a cinematic looking shot like this one. All of that might overwhelm you, especially if you're just
+3:263 minutos e 26 segundosgetting started. Luckily, there are tools for this. So, in this video, we will be using Hicksfield Soul and Nano
+3:323 minutos e 32 segundosNano 2 for this to make our images look way more cinematic. Keep in mind, you want to master images first before you
+3:393 minutos e 39 segundosmove on to videos. So, how do I generate my cinematic looking images? Basically, what Soul 2 is, it's a way more
+Capítulo 4: Using Soul 2 for characters
+3:463 minutos e 46 segundoscinematic looking custom model of Nano Banana. I don't know what they've done to it. I tried reverse engineering it, and I will show what I learned in this video, but it's actually pretty cool.
+3:573 minutos e 57 segundosNow with Soul 2, if you selected this here, then you can have a few custom things. So first up, we can use
+4:044 minutos e 4 segundosdifferent styles. So this is pretty cool. We can use these different styles like a 2000 brands, subto flash, street
+4:114 minutos e 11 segundosphotography, Asian nostalgia, all kind of cool things which will get you totally different results. If you combine that with a bit of Nano Banana
+4:204 minutos e 20 segundosand a bit more prompt engineering, then you get cool shots like these ones. The important thing to know here is it's not just the aesthetic, it's also the
+4:284 minutos e 28 segundosperfect character consistency and that's what we try to achieve with Soul 2. Now to get that what I did is over here at
+4:364 minutos e 36 segundoscharacter you can make your very own character. So if we take a look at mine then we can see that I have trained this on like 70 different images of me.
+4:454 minutos e 45 segundosLiterally, I asked my friends to just take a bunch of photos of me and have different expressions, different angles,
+4:534 minutos e 53 segundosside angles, all of that. So, I can throw that inside of Hixit Soul so it understands what I look like, how I look. But if you don't have that or you
+5:015 minutos e 1 segundosimply don't want to generate a character of yourself, then you can also do that of any other type of character.
+5:075 minutos e 7 segundosLet me introduce you to Veronica. Let's make a character of her. Right now, we only have one image of her. And in order
+5:145 minutos e 14 segundosto train or soul ID, it's recommended that we have over 20 different images.
+5:195 minutos e 19 segundosNow, to get to that point without having a whole photo shoot in place, what you can do is you can use my document right here, which will give you 20 different
+5:285 minutos e 28 segundosimages that you can put into so ID. So, we have a front view, we have close-ups, we have full body shots, we have full body to the left, full body to the
+5:365 minutos e 36 segundosright. Essentially, we have all the shots you need in order to train this sole idea to get the most consistent looking results. All you need to do is
+5:445 minutos e 44 segundosyou need to copy and paste each prompt individually, put it inside of Nano Banana 2, and then prompt it and upload all of those images inside of Soul ID.
+5:535 minutos e 53 segundosIf done correctly, you will get something like this. And keep in mind, you can do this with yourself, too. Now that you have this character, you can
+6:006 minutosnow start using Soul to make cinematic looking images. Inside of Soul, you can now select your character. So I'm selecting Coronica. Then I can change
+6:096 minutos e 9 segundosthe style to any of these 22 different styles that we have. Or I can even create my own style. So if I have
+6:176 minutos e 17 segundoscertain references, I can build my mood board in here and I have my own unique style. So for example, if I now choose street photography, then I can just
+6:256 minutos e 25 segundosgenerate this and I get this result. Now with this template, I managed to create all of these different looking styles just from my character. And the texture
+6:346 minutos e 34 segundoson it is amazing. And here's the result with prompting. And this prompt will look complicated to you, but I will explain this later because this is
+6:426 minutos e 42 segundosactually a reverse engineered process of Soul 2. To give you an idea what's possible, here are some more different
+6:486 minutos e 48 segundosresults. Here we have Y2K Street. Then we have Siren. And lastly, Mystic City.
+6:556 minutos e 55 segundosAll of these look insane. So now you understand all the tools that I'm using, but let me now explain to you what my exact workflow is. First, and maybe by
+Capítulo 5: Image generation workflow
+7:037 minutos e 3 segundosfar the most important step before you start generating anything is starting your own mood board. This is an example
+7:107 minutos e 10 segundosof my mood board that I made for this intro. So, I have collected all of these from a number of different locations.
+7:167 minutos e 16 segundosSome are from Pinterest, some are from shop deck, some are from social media like YouTube and Instagram. Even this combined led me to my vision. This is
+7:257 minutos e 25 segundostaking inspiration from others. This is not stealing. The first step is using Soulu for image referencing. Let me explain what I mean by that. So, I got this reference image that I want to use.
+7:357 minutos e 35 segundosI'm dropping it into soul.
+7:377 minutos e 37 segundosUnfortunately, you no longer have a prom box, Hicksfield. I don't know why. Like, please give us a prom box. But either way, we're using my character now. And
+7:447 minutos e 44 segundosall I have to do is I just have to hit generate. Now, it's using my character and replacing the reference, but putting it in the reference image. As you can
+7:537 minutos e 53 segundossee, even though I'm far in the distance, it somewhat looks like me.
+7:567 minutos e 56 segundosThis already looks pretty good. But now, let's bring this a step further. So now what I do is I download this shot and then I'm using this as a reference in
+8:048 minutos e 4 segundosNano Banana 2. Then I'm adding in a image of my site face so it understands what I look like from the side because
+8:128 minutos e 12 segundoswe have this bicycle and the AI doesn't understand what I look like as a side profile. And then lastly, I just give it a prompt. I just say change the man
+8:218 minutos e 21 segundosoutfit to a tan canvas jacket layered over a dark sweater and a light blue denim shirt while preserving his exact identity. facial features, hairstyle,
+8:308 minutos e 30 segundospose, bicep position, camera angle, composition. Literally, I'm telling it to keep everything else the same. And then we hit generate. Now we have the
+8:388 minutos e 38 segundosexact outfit that I wanted. And now we have this completed image. Another method I use is reverse engineering Hicksfield Soul because I like the look
+8:468 minutos e 46 segundosof Hickfield Soul so much that I want to copy what they're doing. And I don't know if this is supposed to be happening. And I don't know if this will
+8:538 minutos e 53 segundosget me in trouble, but if you're generating anything using Hixfield Soul, it leaves behind the prompt that it is using. So we can use this in our own
+9:029 minutos e 2 segundosimages. And let me show you how I do that. So let's try and recreate this image using this method. I found this shot on Pinterest and I find it an
+9:119 minutos e 11 segundosinteresting shot. So I took a screenshot of it. This will be our reference. I'm putting it into Soul 2. Then I'm going to add in my character, which will be
+9:199 minutos e 19 segundosVeronica. And then all I'm doing is just generating this. Hicksfield just gave me the exact prompt that they used to get
+9:269 minutos e 26 segundosthis result. So we're going to copy this, steal it. I hope I don't get in trouble. But now we can use this. And because this result is not quite what I
+9:359 minutos e 35 segundoshad in mind, let's go back to the drawing board and start over from generating our image. So we delete the reference image. We paste in the prompt
+9:439 minutos e 43 segundosthat we just copied. Then we still use Veronica. And now let's change this up and try out some different things. So we're going to use a different style.
+9:519 minutos e 51 segundosFor this one, I'm going with digital camera. Now we hit generate. And here's our result. Now for the final touchup.
+9:589 minutos e 58 segundosAnd I know it might be getting complicated here. We're going to use this again as a reference. And then we're going to remove everything. We're just using this as a reference. Then
+10:0610 minutos e 6 segundoswe're going to use Nano Banana 2 for this. And now we're going to paste in our prompt. And that is half the woman wear a ruined once beautiful expensive
+10:1410 minutos e 14 segundoswhite wedding dress and she's crying with tears and mascaras running down her face. Basically we add in the little details like that is how you keep
+10:2210 minutos e 22 segundosreiterating your images. You keep adding stuff or removing stuff making it better with each generation. So now we hit generating and this is the result. So
+10:3110 minutos e 31 segundosthis is how we made this cinematic looking shot of this girl using this method. Here's another method of how I use this in my own shots. So for
+10:4010 minutos e 40 segundosexample, for this shot, I used this reference that I found on YouTube. Now the way I did this is not your traditional way. What I did is I took
+10:4710 minutos e 47 segundosthat screenshot, then I uploaded it into Hixit Soul, then I selected me, then I just hit generate. It gave us this
+10:5510 minutos e 55 segundosresult. As you can see, it doesn't look at all like me. But we do have this prompt which we can now like copy and then we can use that to regenerate this
+11:0411 minutos e 4 segundosagain with me as a reference and no image. We copy the prompt. We put it back into soul. And now we just start changing up the prompt to the details
+11:1311 minutos e 13 segundosthat we want to have in there. So for example, I don't want to have a red mug with the Strand Book East 1927 New York
+11:1911 minutos e 19 segundosCity, but I want to have a mug with best creator ever. Essentially, what I did is I changed up the prompt to match my style. So that is like describing that
+11:2811 minutos e 28 segundosI'm a man, that I want to have a blue mug in there, and then I keep everything else the same. So then we hit generate and that gets me this result. If we
+11:3711 minutos e 37 segundoscompare this to the intro, then you can see that there's one more trick that I apply to make this look even more dreamy and cinematic. I will tell you what it
+11:4511 minutos e 45 segundosis in a minute. Let's now move over to making cinematic videos. Now, most of the factors we already covered in the previous section, but for scene
+Capítulo 6: Creating cinematic video
+11:5311 minutos e 53 segundosgeneration, the secret ingredient to making it look cinematic and making it look real is emotion. Adding emotions in
+12:0012 minutosour scene is what makes it relatable to the viewer. Before generating a scene, always think to yourself, what emotion should my viewer feel? And if you know
+12:0912 minutos e 9 segundoshow to successfully achieve that, then you've done a good job. Now, there are several things that you can play around with to achieve that. First, we have the
+12:1712 minutos e 17 segundoscolor. For example, the color red can be done for scenes that are emotionally charged, like angry or really sad or intense situations. Then, we have blue for calmness and for isolating scenes.
+12:2912 minutos e 29 segundosThen we have camera directions you can play with. For example, zoom in can add in intensity while zoom outs can give you emotional distance. The last thing
+12:3712 minutos e 37 segundoswe have is speed of some scenes especially in AI and good looking AI is all about using the right sense of
+12:4512 minutos e 45 segundosspeed. So there are some editing that comes into play at manipulating that speed or specific tools like a tool like
+12:5212 minutos e 52 segundosCinema Studio. Now Cinema Studio is in my opinion something like Clink 3.0 No, but with way easier controls. As you can
+12:5912 minutos e 59 segundossee, we have this director panel and it can do all kind of crazy things with helping you prompt and get the exact results that you want to have from your
+13:0713 minutos e 7 segundosscenes. You can add in your references or even your characters in here, any movement that you want to have in terms of your camera. You can select the speed
+13:1613 minutos e 16 segundosramp, and this is pretty cool. So, you can customize it. Do you want to have the camera speed ramp fast or slow? You can also choose if you want to have multi-shot like for example like this.
+13:2613 minutos e 26 segundosWe can describe different scenes and we can add all kind of different scenes in there and then we can customize it for each scene. So you're literally becoming
+13:3413 minutos e 34 segundosa director where you're analyzing and choosing and thinking about each scene before you shoot it. Let's try and recreate my intro shot. And let me
+13:4213 minutos e 42 segundosexplain what my workflow was. Now how I made this shot is as follows. The first thing I did is I uploaded my start
+13:5013 minutos e 50 segundosframe. and that is this shot that we made previously. So this is the start frame. Then what I did is I selected my
+13:5713 minutos e 57 segundoscharacter and that is me. So I'm just going to use me. I'm going to position me at the end of my prompt. So don't mind this. Then I'm going to enter in my
+14:0614 minutos e 6 segundosprompt which will be a slow steady zoom in. And essentially the structure that I'm using here is camera plus subject plus action environment lighting. And
+14:1514 minutos e 15 segundosyou can also add in some texture and what you want to have happen on the audio. Now, for this, I'm going to keep the speed ramp at auto because I want to
+14:2314 minutos e 23 segundoshave it figure out on its own what to do with this. For the duration, I'm going to do 3 seconds. And now, we can move over to the second shot. So, here what
+14:3014 minutos e 30 segundosI'm going to do is same thing. I'm just going to prompt it. This time, we have a closeup of the mug. So, this close-up will be just of the mug. That's why I'm also keeping the speed ramp at medium.
+14:4014 minutos e 40 segundosSo, we're not doing anything with that speed ramp or anything with the camera.
+14:4314 minutos e 43 segundosThen, we add in one more shot. And we click on that. And now, we can add in our last detail. For the last one, we have my prompt again where we have me
+14:5114 minutos e 51 segundosbasically taking a sip of the mug and then we are going to hit generate. The only downside about this is Higfield
+14:5914 minutos e 59 segundosCinema Studio 2 takes a bit long in my opinion. After waiting for a few minutes, this is the result that I have.
+15:0515 minutos e 5 segundosAs you can see, this dirt shot is not looking pretty. And that is why what you want to do is just generate it again. So
+15:1415 minutos e 14 segundosnow I generated this one more time and I got this shot. Now, this looks way more like me. So, I can use this shot now and
+15:2115 minutos e 21 segundosI just have to make a cut in my timeline. Now, I did the same thing for a bunch of other shots. And after doing all of that, then you get all of your
+15:3015 minutos e 30 segundosdifferent results. The final part is putting it all together in your editing program. The first step I do is I import all of my clips and I arrange them in
+Capítulo 7: Post-production editing
+15:3915 minutos e 39 segundosthe exact position that I want to have them to have. Then, next up, I'm going to make some quick cuts. So, anything that's way too long, any mistakes in the
+15:4715 minutos e 47 segundosgeneration that I don't want to have in my scene, I just cut them off. And then I have my trimmed down version. Then I'm adding in some overlays. And this is
+15:5515 minutos e 55 segundossuper underrated. Now, what this will do is if you have this shot like this, if I add in this overlay like that, then it
+16:0416 minutos e 4 segundoslooks way more cinematic. To achieve this look, you want to add in a luma key or a gauzing blur effect. I use this on Premiere Pro. I'm not sure if other
+16:1216 minutos e 12 segundosprograms will have it. If you do some research, I'm sure you will find it. As you see, it requires quite a bit of work to make these cinematic looking videos.
+16:2116 minutos e 21 segundosNow, if you're doing all of this yourself, it's a lot of fun to get into.
+16:2416 minutos e 24 segundosLike, this hobby to me is where I spend most my time in it. If you want to try this out yourself, I would highly recommend using a tool like Hicksfield.
+16:3216 minutos e 32 segundosSo, you can play around with these cinematic tools and actually make cinematic looking videos. Click the video on the screen right now if you
+16:3916 minutos e 39 segundoswant to learn more about how to use AI for cinematic filmmaking.
+
+Sincronizar com o momento do vídeo

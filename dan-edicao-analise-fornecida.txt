@@ -1,0 +1,888 @@
+Master AI Video Editing in 25 Minutes — análise completa
+
+Vídeo analisado: 
+
+Master AI Video Editing in 25 Minutes (Full Course)
+Criador identificado: Dan Kieft
+Tema: seis técnicas de edição de vídeo assistida por IA, com integração entre modelos de IA, Premiere Pro, DaVinci Resolve, After Effects e ferramentas MCP.
+Duração aproximada: 25 minutos.
+Fonte complementar de identificação: o resultado público de busca descreve o vídeo como um curso sobre edição de vídeos com IA usando GPT-6 Astra e Opus 5.5, além de um MCP associado ao criador.
+
+
+Nota sobre a transcrição: a análise de áudio e imagem do vídeo foi realizada, mas as legendas públicas do YouTube não ficaram disponíveis para extração literal neste ambiente. A seção de transcrição é, portanto, uma reconstrução limpa, organizada por assunto e fiel ao conteúdo demonstrado, mas não uma transcrição palavra por palavra. Nomes de modelos, integrações e configurações são os que aparecem na análise do vídeo e podem depender da versão disponível no momento da gravação.
+
+1. Resumo executivo
+
+O vídeo funciona como uma demonstração prática de como a IA pode atuar como assistente ou operador dentro de um fluxo profissional de edição. O criador mostra que a IA pode ajudar em tarefas repetitivas, como remover silêncios, identificar erros, gerar marcações, sugerir cortes e inserir elementos na timeline. Também apresenta aplicações mais avançadas, como criar ângulos de câmera que não foram gravados, gerar B-roll com personagem consistente, automatizar motion graphics, integrar efeitos visuais a filmagens reais, transformar material Log em uma imagem com aparência final e produzir efeitos sonoros sincronizados com a ação visual.
+
+A ideia central não é eliminar o editor humano. O argumento do vídeo é que a IA pode assumir trabalho mecânico e acelerar a primeira versão, permitindo que o profissional concentre mais tempo em ritmo, narrativa, decisões estéticas e revisão.
+
+As seis técnicas principais são:
+
+1.
+Trimming inteligente: remover pausas, espaços mortos, respirações excessivas e erros de fala.
+
+2.
+Geração de múltiplos ângulos: criar uma câmera B ou C a partir de uma gravação frontal e referências do cenário.
+
+3.
+Geração de B-roll consistente: criar cenas de apoio mantendo a aparência do apresentador ou personagem.
+
+4.
+Motion graphics assistidos por IA: automatizar animações, gráficos e elementos de interface.
+
+5.
+VFX integrados à filmagem: substituir objetos, adicionar criaturas, acidentes ou efeitos mantendo o efeito integrado à cena.
+
+6.
+Color grading e sound design: transformar a imagem, aplicar estilos de cor e gerar efeitos sonoros sincronizados a partir da análise do vídeo.
+
+O vídeo também aborda limitações importantes: processamento lento, consumo de créditos, assinaturas pagas, necessidade de supervisão e possibilidade de erros. O criador recomenda revisar e aprovar as ações da IA em vez de deixar toda a automação rodar sem controle.
+
+2. Estrutura cronológica
+
+00:00–01:13 — Introdução e demonstração do resultado final
+
+O vídeo começa com uma introdução editada com recursos de IA. O criador usa o próprio resultado como demonstração do que será explicado: cortes, B-roll, gráficos, efeitos e acabamento podem ser produzidos ou acelerados por sistemas de IA.
+
+Ele contextualiza a discussão a partir de um problema prático: tarefas repetitivas de edição consomem tempo e podem exigir muitas horas de trabalho. A proposta é utilizar IA para acelerar o processo, mas sem confundir automação com substituição completa do profissional.
+
+A mensagem inicial é que a IA pode funcionar como uma camada operacional sobre o software de edição. Ela analisa o material, cria comandos, atua na timeline ou produz elementos que depois são revisados pelo editor.
+
+01:14–02:03 — Ferramentas e configuração do ecossistema
+
+O criador apresenta o conjunto de ferramentas utilizado no fluxo. A análise do vídeo identifica:
+
+•
+ChatGPT Desktop;
+
+•
+modelos de IA mencionados como GPT-6 Astra e Opus 5.5;
+
+•
+Higgsfield MCP, usado como componente de geração e integração;
+
+•
+DaVinci MCP;
+
+•
+Premiere Pro;
+
+•
+After Effects;
+
+•
+recursos de acesso local ao computador;
+
+•
+arquivos de vídeo, imagens e referências visuais.
+
+O vídeo mostra que a IA pode interagir com o ambiente local por meio de integrações ou MCPs. Isso permite que ela leia arquivos, gere instruções, manipule ou acione ferramentas e, em determinados fluxos, controle operações relacionadas à edição.
+
+Uma recomendação específica é utilizar o aplicativo desktop do ChatGPT quando o arquivo for grande. O criador explica que o modo de acesso “No seu computador” permite trabalhar diretamente com arquivos locais, evitando depender exclusivamente do upload na nuvem e seus limites.
+
+02:04–05:22 — Técnica 1: trimming inteligente
+
+O primeiro fluxo é a edição básica de cortes. A IA analisa o vídeo, transcreve a fala e identifica pausas, silêncios, respirações, repetições, erros e trechos que podem ser removidos.
+
+O objetivo é produzir uma edição mais “tight”, isto é, com menos espaço morto e maior ritmo. A IA pode fazer a primeira seleção, indicar os intervalos ou aplicar cortes dentro do software conectado.
+
+O procedimento demonstrado pode ser resumido assim:
+
+1.
+Fornecer o arquivo bruto à IA.
+
+2.
+Pedir uma análise da fala e da timeline.
+
+3.
+Definir o que deve ser removido, por exemplo, pausas acima de determinado tempo, erros repetidos e hesitações.
+
+4.
+Preservar o fluxo natural da fala.
+
+5.
+Gerar comandos, marcações ou um arquivo de intercâmbio para o editor.
+
+6.
+Abrir o resultado no Premiere Pro ou DaVinci Resolve.
+
+7.
+Revisar todos os cortes antes de finalizar.
+
+O criador menciona que o processo pode levar vários minutos. A automação reduz trabalho manual, mas não elimina a necessidade de conferência. Uma pausa pode ser intencional, uma respiração pode carregar emoção e um corte automático pode deixar a fala artificial se os parâmetros forem agressivos demais.
+
+05:23–09:43 — Técnica 2: múltiplos ângulos a partir de uma única câmera
+
+Nesta técnica, o criador mostra como gerar uma câmera B ou C mesmo quando o material original foi gravado predominantemente com uma câmera frontal, chamada de A-roll.
+
+A IA usa a gravação original e referências do ambiente para criar uma variação visual que pareça ter sido capturada de outro ângulo. A ideia é simular uma câmera lateral, de perfil, três quartos ou outro enquadramento, permitindo variar a edição sem precisar ter gravado fisicamente todas as posições.
+
+O fluxo exige atenção à continuidade. A ferramenta precisa manter:
+
+•
+identidade do apresentador;
+
+•
+roupa e acessórios;
+
+•
+iluminação;
+
+•
+posição dos objetos;
+
+•
+perspectiva do ambiente;
+
+•
+direção do olhar;
+
+•
+posição relativa dentro da cena;
+
+•
+continuidade de gestos e fala.
+
+O criador descreve o resultado como surpreendentemente convincente em alguns momentos. Ainda assim, essa técnica deve ser tratada como geração, não como substituição perfeita de uma câmera real. Mudanças de geometria, mãos, cabelo, objetos do cenário ou iluminação podem denunciar a manipulação.
+
+A técnica é mais apropriada para cortes curtos, inserts, reações e momentos em que o novo ângulo não fica tempo suficiente na tela para expor inconsistências. Para planos longos ou material documental que exige fidelidade, a revisão deve ser rigorosa.
+
+09:44–12:56 — Técnica 3: B-roll com personagem consistente
+
+O criador critica o uso de B-roll genérico quando ele não corresponde exatamente à pessoa, à marca ou ao tema do vídeo. Como alternativa, ele apresenta a criação de uma folha de personagem, ou character sheet, com várias imagens de referência.
+
+A folha de personagem ajuda a ferramenta a entender a aparência do sujeito a partir de diferentes ângulos. O vídeo menciona o uso de fotos de frente, perfil e três quartos. O objetivo é fornecer informação suficiente para que a IA preserve rosto, cabelo, roupas, proporções e identidade.
+
+Fluxo proposto:
+
+1.
+Tirar fotos de referência com iluminação clara e aparência consistente.
+
+2.
+Incluir pelo menos uma vista frontal, uma lateral e uma vista três quartos.
+
+3.
+Criar uma folha de personagem com essas referências.
+
+4.
+Usar a folha como entrada para a geração de cenas.
+
+5.
+Descrever a ação, o ambiente, a câmera e a iluminação.
+
+6.
+Gerar B-rolls que possam ser intercalados com o A-roll.
+
+7.
+Conferir se o personagem continua reconhecível nos diferentes planos.
+
+Os exemplos mencionados incluem o personagem caminhando em um parque ou realizando ações cotidianas, como comer espaguete. A vantagem é criar imagens de apoio sem precisar filmar uma nova saída ou sessão. A limitação é que pequenas alterações de identidade ainda podem acontecer, principalmente em cenas com movimento complexo, mãos visíveis ou mudanças de iluminação.
+
+12:57–17:33 — Técnica 4: motion graphics
+
+A quarta técnica usa IA para auxiliar na criação de gráficos em movimento. O vídeo mostra automação no After Effects e elementos visuais que podem ser integrados à edição, incluindo versões com aparência de pixel art ou interfaces estilizadas.
+
+A IA pode ajudar em diferentes etapas:
+
+•
+transformar uma descrição em ideia visual;
+
+•
+criar elementos gráficos;
+
+•
+definir animações de entrada e saída;
+
+•
+montar camadas e keyframes;
+
+•
+aplicar estilos visuais;
+
+•
+gerar variações de uma mesma interface;
+
+•
+preparar elementos para composição no After Effects.
+
+O valor dessa técnica está em reduzir o tempo de construção manual de elementos repetitivos. O editor ainda precisa definir a intenção: hierarquia da informação, ritmo, legibilidade, relação com a narração e momento de entrada na tela.
+
+A IA pode gerar um gráfico tecnicamente impressionante, mas inadequado para comunicação. O vídeo sugere utilizar o sistema como acelerador de produção, não como substituto do julgamento de design.
+
+17:34–18:48 — Técnica 5: geração de VFX integrada à filmagem
+
+Nesta parte, o criador demonstra efeitos visuais aplicados a uma filmagem real. Um exemplo citado é a substituição de uma caneta por uma varinha mágica, com a adição de efeitos e de um monstro. Outro exemplo envolve um acidente ou batida de carro, incluindo um Cybertruck.
+
+O fluxo depende de localizar o momento exato da ação. A IA pode analisar frames específicos e receber uma instrução do tipo: em determinado frame, o personagem pega a caneta; a partir desse ponto, transforme o objeto em uma varinha e integre um efeito.
+
+A técnica exige:
+
+•
+identificação dos frames relevantes;
+
+•
+acompanhamento do objeto ao longo do tempo;
+
+•
+correspondência de perspectiva;
+
+•
+iluminação compatível;
+
+•
+oclusão correta, quando um elemento passa à frente de outro;
+
+•
+preservação do movimento da câmera;
+
+•
+integração de sombras, brilho, desfoque e partículas.
+
+O vídeo mostra que a IA pode acelerar a criação de efeitos complexos, mas o resultado precisa ser inspecionado frame a frame. Uma geração pode parecer correta em um quadro e falhar no seguinte. O editor deve observar bordas, rastreamento, contato com o chão e continuidade.
+
+18:49–21:31 — Técnica 6: color grading
+
+O criador mostra a transformação de uma imagem gravada em Log, incluindo material S-Log 3, para uma imagem com aparência final mais vibrante. A IA pode auxiliar na correção técnica e na criação de um estilo criativo.
+
+O processo pode ser dividido em duas partes:
+
+1.
+Correção técnica: converter o material Log para um espaço de exibição adequado, como Rec. 709, equilibrando exposição, contraste, balanço de branco e saturação.
+
+2.
+Estilização: aplicar uma aparência criativa coerente com a narrativa, o gênero e o restante do projeto.
+
+A imagem Log pode parecer lavada ou sem contraste antes da transformação. A IA pode sugerir ou aplicar ajustes, mas o resultado precisa ser verificado em relação à pele, às áreas claras, às sombras e à consistência entre planos.
+
+A técnica não significa aplicar uma aparência forte automaticamente. O editor deve controlar a intenção estética e preservar detalhes. Um visual excessivamente saturado pode parecer impressionante isoladamente, mas prejudicar a continuidade ou a leitura da cena.
+
+21:32–24:37 — Técnica 7 apresentada no vídeo: sound design com IA
+
+Embora o título e a apresentação falem em seis técnicas, o bloco final funciona como uma sétima área prática ou como uma extensão do fluxo de pós-produção: geração de efeitos sonoros.
+
+A IA analisa o conteúdo visual e identifica eventos para os quais um efeito sonoro pode ser necessário. Exemplos citados incluem uma notificação surgindo na tela e um carro colidindo. O sistema cria ou sincroniza efeitos com a ação observada.
+
+O objetivo é reduzir a busca manual em bibliotecas de som e acelerar a primeira camada de desenho sonoro. A IA precisa associar o evento visual a uma fonte sonora plausível, definir o momento de início e considerar duração, intensidade, ambiente e perspectiva.
+
+O processo recomendado é:
+
+1.
+Analisar a timeline e os eventos visuais.
+
+2.
+Listar os sons necessários.
+
+3.
+Definir a fonte, o material e a distância.
+
+4.
+Gerar ou selecionar os efeitos.
+
+5.
+Sincronizar os efeitos com os frames ou eventos.
+
+6.
+Ajustar volume, espaço, equalização e cauda sonora.
+
+7.
+Preservar diálogo, música e ambiente.
+
+8.
+Revisar o resultado em contexto, não apenas isoladamente.
+
+Um efeito sincronizado com precisão, mas exagerado ou incompatível com a perspectiva, pode piorar o vídeo. A revisão humana continua essencial.
+
+24:38–final — Conclusão
+
+O criador retoma a ideia de que a IA se tornou uma espécie de cérebro operacional do projeto. Ela pode analisar o material, sugerir decisões, gerar assets e controlar etapas do software.
+
+A conclusão é colaborativa: o futuro da edição seria uma combinação entre direção humana, julgamento criativo e execução acelerada por máquinas. O criador também convida o público a acessar sua comunidade e obter instruções e prompts mais detalhados.
+
+3. Transcrição limpa organizada por assuntos
+
+A seguir está uma reconstrução condensada da fala, não uma transcrição literal.
+
+Introdução
+
+O criador apresenta um vídeo sobre edição de vídeo com IA. Ele explica que percebeu como a IA pode executar partes que antes dependiam exclusivamente de um editor, mas enfatiza que a intenção não é simplesmente demitir profissionais. A intenção é remover trabalho repetitivo e liberar tempo para decisões criativas.
+
+A introdução do próprio vídeo foi feita com ajuda de IA. Cortes, B-roll, gráficos e efeitos são apresentados como exemplos do que será demonstrado.
+
+Ferramentas
+
+O fluxo usa um modelo de IA como cérebro, integrações MCP e softwares tradicionais de edição. São mencionados ChatGPT, Higgsfield, DaVinci Resolve, Premiere Pro e After Effects.
+
+Para arquivos grandes, o criador recomenda o aplicativo desktop e o acesso direto ao computador. Dessa forma, a IA pode trabalhar com os arquivos locais sem depender apenas do upload na nuvem.
+
+Corte automático
+
+A IA pode transcrever o vídeo e localizar pausas, silêncios, respirações e erros de fala. O usuário pode pedir uma edição mais apertada, mas deve instruir o sistema a preservar o fluxo natural da conversa.
+
+A automação pode marcar ou executar cortes no software. O resultado precisa ser revisado porque uma pausa pode ser intencional e cortes demais podem deixar a fala robótica.
+
+Câmeras que não foram gravadas
+
+O criador mostra que é possível partir de uma câmera frontal e gerar um ângulo lateral usando uma referência do cenário. A IA tenta preservar o apresentador e o ambiente enquanto cria a impressão de outra câmera.
+
+Esse recurso amplia as possibilidades de edição, mas precisa ser usado com cuidado por causa de mudanças de perspectiva, identidade e continuidade.
+
+B-roll com identidade consistente
+
+Em vez de usar imagens de banco genéricas, o criador sugere produzir uma folha de personagem com várias fotos. A ferramenta usa as referências para gerar o mesmo personagem em novas situações.
+
+Fotos de frente, perfil e três quartos ajudam a representar melhor a identidade. Depois, o usuário descreve a ação e o ambiente para criar um B-roll compatível com o vídeo principal.
+
+Motion graphics
+
+A IA pode gerar ideias, elementos e animações para After Effects. Isso inclui interfaces, gráficos explicativos e estilos como pixel art.
+
+O editor ainda precisa controlar a legibilidade, o ritmo e a função narrativa do gráfico. Um efeito bonito não substitui uma boa decisão de comunicação.
+
+VFX
+
+Para adicionar VFX, o usuário deve localizar o frame em que a ação acontece. O criador demonstra uma transformação de objeto, em que uma caneta se torna uma varinha, além da inserção de criaturas e acidentes.
+
+A IA pode rastrear o objeto e integrar o efeito, mas é necessário verificar todos os frames. A qualidade depende de perspectiva, luz, sombra, movimento e oclusão.
+
+Color grading
+
+Material Log precisa ser convertido e corrigido antes de receber uma aparência criativa. A IA pode ajudar a sair de uma imagem lavada e chegar a um resultado mais vibrante.
+
+A correção precisa manter tons de pele, detalhes nas sombras, controle das altas luzes e consistência entre planos.
+
+Sound design
+
+A IA pode analisar a imagem e sugerir efeitos sonoros para eventos específicos. Uma notificação, uma colisão ou um movimento pode receber um som sincronizado.
+
+O som deve ser ajustado à distância, ao ambiente e à intensidade da ação. A camada automática precisa ser revisada junto com a voz, a música e o som ambiente.
+
+Conclusão
+
+A IA pode assumir tarefas de análise, geração e execução, mas a direção e a aprovação continuam sendo humanas. O melhor resultado vem de um fluxo colaborativo no qual a máquina acelera e o editor decide.
+
+4. Fluxo de trabalho geral reproduzível
+
+Preparação
+
+1.
+Organize os arquivos brutos, proxies, imagens de referência e trilhas.
+
+2.
+Defina o software principal: Premiere Pro, DaVinci Resolve ou After Effects.
+
+3.
+Configure o acesso da IA ao computador ou ao projeto local.
+
+4.
+Crie uma cópia de segurança antes de permitir alterações automáticas.
+
+5.
+Defina se a IA deve apenas sugerir, marcar ou executar mudanças.
+
+Análise inicial
+
+1.
+Transcrever o áudio.
+
+2.
+Identificar falas, pausas, erros, repetições e momentos importantes.
+
+3.
+Detectar mudanças de cena, gestos e objetos relevantes.
+
+4.
+Localizar potenciais entradas de B-roll.
+
+5.
+Identificar pontos onde uma mudança de ângulo ou efeito poderia melhorar o ritmo.
+
+Primeira montagem
+
+1.
+Aplicar cortes de fala com parâmetros conservadores.
+
+2.
+Inserir marcadores em vez de destruir imediatamente o material original.
+
+3.
+Selecionar trechos que precisam de B-roll.
+
+4.
+Identificar oportunidades para motion graphics.
+
+5.
+Definir eventos que necessitam de VFX ou efeitos sonoros.
+
+Geração e integração
+
+1.
+Criar referências de personagem.
+
+2.
+Gerar B-rolls com prompts específicos.
+
+3.
+Criar ângulos alternativos somente para os trechos necessários.
+
+4.
+Gerar gráficos e animações em camadas separadas.
+
+5.
+Criar VFX com referência dos frames e do movimento da câmera.
+
+6.
+Corrigir cor antes da estilização final.
+
+7.
+Gerar efeitos sonoros em pistas separadas.
+
+Revisão e acabamento
+
+1.
+Assistir à montagem em velocidade normal.
+
+2.
+Verificar cortes de fala e respirações.
+
+3.
+Conferir continuidade de rosto, mãos, roupa e objetos.
+
+4.
+Inspecionar VFX frame a frame em momentos críticos.
+
+5.
+Ouvir a mixagem com diálogo, música, ambiente e efeitos.
+
+6.
+Corrigir cor em monitor e condições consistentes.
+
+7.
+Remover ou refazer qualquer elemento que revele deformação ou inconsistência.
+
+8.
+Exportar uma versão de revisão antes do master final.
+
+5. Prompts estruturados reutilizáveis
+
+5.1 Prompt para trimming automático
+
+Plain Text
+
+
+Você é um editor de diálogo especializado em cortes naturais.
+
+Analise o arquivo [NOME_DO_ARQUIVO] e crie uma primeira montagem mais concisa.
+
+OBJETIVO
+Remover espaços mortos e erros sem deixar a fala artificial.
+
+REMOVER OU MARCAR
+- silêncios superiores a [X] segundos, exceto quando forem dramáticos ou intencionais;
+- repetições completas de palavras ou frases;
+- falsos começos claramente descartados pelo apresentador;
+- erros de fala corrigidos na mesma tomada;
+- ruídos e trechos sem conteúdo, quando não tiverem função narrativa.
+
+PRESERVAR
+- pausas naturais entre frases;
+- respirações que mantenham o ritmo humano;
+- ênfase, emoção e reação do apresentador;
+- continuidade de olhar, postura e movimento;
+- contexto necessário para entender cada frase.
+
+ENTREGA
+1. Uma lista de cortes com timecode inicial e final.
+2. Uma justificativa curta para cada corte.
+3. Uma versão XML ou sequência compatível com [PREMIERE/DA VINCI], se possível.
+4. Marcadores para trechos que precisam de revisão humana.
+5. Uma estimativa do tempo final e do tempo removido.
+
+NÃO EXECUTE cortes irreversíveis sem criar uma cópia ou solicitar aprovação.
+
+
+
+5.2 Prompt para gerar uma câmera B
+
+Plain Text
+
+
+Use o vídeo A-roll [ARQUIVO] e as referências do cenário [REFERÊNCIAS] para criar um ângulo de câmera B.
+
+Preserve rigorosamente:
+- identidade do apresentador;
+- rosto, cabelo, roupa e acessórios;
+- posição dos objetos;
+- iluminação, temperatura de cor e sombras;
+- sincronização labial e conteúdo da fala;
+- direção do olhar e continuidade dos gestos;
+- geometria e perspectiva do cenário.
+
+Crie um enquadramento [perfil/três quartos/lateral] com câmera [fixa/tracking/dolly], mantendo a mesma lente aparente e a mesma altura de câmera do plano original.
+
+Use o novo ângulo somente entre [TIME INICIAL] e [TIME FINAL].
+Evite mudar o ambiente, inventar objetos, deformar mãos, alterar a roupa ou criar movimento de câmera incompatível.
+Entregue uma versão de revisão e indique quaisquer frames com baixa confiança ou inconsistência.
+
+
+
+5.3 Prompt para character sheet e B-roll
+
+Plain Text
+
+
+Crie uma character sheet consistente usando as referências anexadas:
+- vista frontal;
+- perfil esquerdo;
+- perfil direito, se disponível;
+- vista três quartos;
+- corpo inteiro;
+- detalhes de roupa, cabelo e acessórios.
+
+Preserve a mesma pessoa, idade aparente, proporções, formato do rosto, penteado, roupa, cores e identidade visual.
+
+Depois, gere um B-roll em que o personagem [AÇÃO] em [AMBIENTE].
+
+CÂMERA: [DESCRIÇÃO]
+ILUMINAÇÃO: [DESCRIÇÃO]
+ESTILO: [DESCRIÇÃO]
+DURAÇÃO: [DURAÇÃO]
+PROPORÇÃO: [PROPORÇÃO]
+
+O B-roll deve parecer pertencente ao mesmo projeto do vídeo principal. Não altere o rosto, não troque a roupa sem instrução, não adicione pessoas extras e não crie objetos que contradigam o cenário. Se a identidade não puder ser preservada, sinalize o problema em vez de inventar uma correção.
+
+
+
+5.4 Prompt para motion graphics
+
+Plain Text
+
+
+Crie uma animação de motion graphics para explicar [IDEIA] durante [DURAÇÃO].
+
+CONTEXTO DA NARRAÇÃO
+[COLE A FALA OU RESUMA O PONTO]
+
+REQUISITOS
+- estilo visual: [ESTILO];
+- cores da marca: [CORES];
+- tipografia: [TIPOGRAFIA];
+- proporção: [16:9/9:16/1:1];
+- entrada: [DESCRIÇÃO];
+- estado de leitura: manter o texto legível por pelo menos [X] segundos;
+- saída: [DESCRIÇÃO];
+- fundo: [DESCRIÇÃO].
+
+Entregue camadas separadas sempre que possível. Evite texto ilegível, excesso de elementos, animação sem função e movimento que concorra com a fala. Explique quais propriedades devem ser ajustadas manualmente no After Effects.
+
+
+
+5.5 Prompt para VFX com referência de frame
+
+Plain Text
+
+
+Analise o vídeo [ARQUIVO] e aplique o efeito visual a partir do frame [NÚMERO] ou do timecode [TIME].
+
+AÇÃO
+No momento em que [DESCRIÇÃO DA AÇÃO], transforme [OBJETO ORIGINAL] em [OBJETO/EFEITO NOVO].
+
+INTEGRAÇÃO OBRIGATÓRIA
+- preserve o movimento original da câmera;
+- rastreie o objeto ao longo dos frames;
+- mantenha perspectiva e escala;
+- combine iluminação, sombra, reflexos e desfoque de movimento;
+- respeite oclusões quando mãos, corpo ou objetos passam à frente;
+- preserve o cenário e tudo o que não foi solicitado para alteração;
+- mantenha continuidade antes, durante e depois do efeito.
+
+Entregue uma versão de revisão com o intervalo afetado claramente identificado. Liste frames em que o rastreamento, a borda, a sombra ou a continuidade estejam abaixo de alta confiança.
+
+
+
+5.6 Prompt para color grading
+
+Plain Text
+
+
+Analise o material [ARQUIVO], gravado em [LOG/RAW/OUTRO], e prepare uma correção de cor técnica seguida de uma versão criativa.
+
+ETAPA 1 — CORREÇÃO TÉCNICA
+- aplicar a transformação correta para [ESPAÇO DE ENTREGA, por exemplo Rec. 709];
+- corrigir exposição e balanço de branco;
+- preservar detalhes nas altas luzes e nas sombras;
+- manter tons de pele naturais;
+- igualar planos consecutivos;
+- evitar clipping e saturação artificial.
+
+ETAPA 2 — ESTILO
+Aplicar um visual [DESCRIÇÃO DO ESTILO], mantendo a intenção narrativa e a legibilidade.
+
+Entregue duas versões: correção neutra e look criativo. Explique as principais alterações e indique planos que precisam de ajuste manual.
+
+
+
+5.7 Prompt para sound design automático
+
+Plain Text
+
+
+Analise a timeline [ARQUIVO] e identifique eventos visuais que precisam de efeitos sonoros.
+
+Para cada evento, informe:
+- timecode e frame de início;
+- descrição visual;
+- som sugerido;
+- material e fonte do som;
+- distância e perspectiva;
+- intensidade;
+- duração e cauda;
+- relação com diálogo, música e ambiente.
+
+Gere ou organize efeitos em pistas separadas, mantendo a fala intacta. Sincronize cada efeito com a ação visual e preserve espaço para a mixagem.
+
+Não adicione sons que não tenham apoio visual ou função narrativa. Crie uma lista de eventos de baixa confiança para revisão humana.
+
+
+
+6. Como operar com segurança
+
+Preferir aprovação antes da execução
+
+O vídeo recomenda um modo de aprovação, identificado na análise como “Approve for me”, em vez de permitir automação total imediatamente. Essa escolha evita que a IA consuma créditos, altere arquivos ou aplique decisões erradas sem supervisão.
+
+O fluxo seguro é:
+
+1.
+IA analisa.
+
+2.
+IA apresenta plano, timecodes e alterações propostas.
+
+3.
+Editor aprova ou corrige.
+
+4.
+IA executa apenas a etapa aprovada.
+
+5.
+Editor revisa o resultado.
+
+6.
+A próxima etapa usa uma versão salva do projeto.
+
+Manter versões
+
+Crie versões antes de:
+
+•
+aplicar cortes em massa;
+
+•
+substituir ângulos;
+
+•
+gerar VFX destrutivos;
+
+•
+modificar a cor de toda a sequência;
+
+•
+adicionar efeitos sonoros em grande quantidade.
+
+Nomeie os arquivos com data, etapa e versão, por exemplo:
+
+Plain Text
+
+
+projeto_v01_original
+projeto_v02_cortes_aprovados
+projeto_v03_broll
+projeto_v04_vfx_revisao
+projeto_v05_color
+projeto_v06_sound_design
+
+
+
+Separar geração de edição
+
+Sempre que possível, mantenha B-roll, VFX, gráficos e efeitos sonoros em camadas ou arquivos separados. Isso facilita substituir somente o elemento problemático sem reprocessar todo o vídeo.
+
+7. Limitações apresentadas no vídeo
+
+•
+O processamento pode ser demorado. O criador menciona um exemplo de cerca de 11 minutos para uma tarefa de trimming.
+
+•
+O uso de modelos e MCPs pode consumir créditos rapidamente.
+
+•
+O fluxo depende de assinaturas e softwares pagos.
+
+•
+Algumas integrações de DaVinci podem exigir a versão Studio.
+
+•
+A IA pode interpretar incorretamente pausas, gestos, objetos ou eventos visuais.
+
+•
+Uma câmera gerada pode parecer convincente em um trecho curto e apresentar inconsistências em planos longos.
+
+•
+Uma character sheet melhora a identidade, mas não garante consistência perfeita.
+
+•
+VFX precisam ser verificados frame a frame.
+
+•
+A transformação de Log para Rec. 709 não substitui avaliação técnica de exposição, cor e monitoramento.
+
+•
+Efeitos sonoros gerados automaticamente podem estar sincronizados, mas ter escala, textura ou intensidade erradas.
+
+•
+Os nomes e capacidades dos modelos citados refletem o contexto do vídeo e devem ser confirmados na ferramenta atual.
+
+8. Checklist completo de execução
+
+
+
+
+Fazer backup do projeto original.
+
+
+
+
+Organizar mídia, áudio, referências e pastas.
+
+
+
+
+Escolher software principal.
+
+
+
+
+Definir o nível de autonomia da IA.
+
+
+
+
+Transcrever e analisar o A-roll.
+
+
+
+
+Gerar lista de cortes, sem executar imediatamente.
+
+
+
+
+Aprovar trimming e conferir naturalidade da fala.
+
+
+
+
+Marcar oportunidades de câmera B.
+
+
+
+
+Gerar um ângulo alternativo apenas para um trecho de teste.
+
+
+
+
+Conferir identidade, perspectiva e sincronização.
+
+
+
+
+Fotografar referências para character sheet.
+
+
+
+
+Gerar B-roll com descrição de ação e câmera.
+
+
+
+
+Separar os B-rolls aprovados em uma pasta.
+
+
+
+
+Criar motion graphics com texto legível.
+
+
+
+
+Definir entrada, permanência e saída de cada gráfico.
+
+
+
+
+Identificar frames críticos para VFX.
+
+
+
+
+Aplicar rastreamento, perspectiva, luz e sombra.
+
+
+
+
+Revisar VFX frame a frame.
+
+
+
+
+Corrigir tecnicamente o material Log.
+
+
+
+
+Criar look criativo sem destruir tons de pele ou detalhes.
+
+
+
+
+Detectar eventos que precisam de sound design.
+
+
+
+
+Gerar efeitos em pistas separadas.
+
+
+
+
+Mixar diálogo, música, ambiente e efeitos.
+
+
+
+
+Assistir ao vídeo completo em velocidade normal.
+
+
+
+
+Exportar uma versão de revisão.
+
+
+
+
+Corrigir erros antes do master.
+
+9. Conclusão
+
+O vídeo mostra um fluxo em que a IA deixa de ser apenas uma ferramenta de geração de imagens e passa a funcionar como assistente de pós-produção. Ela pode entender a timeline, localizar eventos, gerar alternativas, operar softwares e preparar uma primeira versão de várias etapas do processo.
+
+As técnicas mais imediatamente úteis são o trimming assistido, a marcação de B-roll e a geração de efeitos sonoros. As técnicas mais impressionantes, mas também mais sensíveis a erros, são a criação de câmeras alternativas, a manutenção de personagens e a integração de VFX em filmagens reais.
+
+A melhor forma de usar esse fluxo é incremental: preservar o original, pedir análise antes de execução, aprovar mudanças, trabalhar em camadas e revisar o resultado final como editor humano. A IA acelera a execução, mas ainda precisa de direção, critérios e controle de qualidade.
+
+Referências
+
+[1] Master AI Video Editing in 25 Minutes (Full Course )

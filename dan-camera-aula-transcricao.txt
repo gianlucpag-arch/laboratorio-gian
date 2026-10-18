@@ -1,0 +1,124 @@
+
+Pesquisar transcrição
+
+Capítulo 1: Introduction to AI filmmaking
+0:000 segundoIf you're into AI film making, then you need to understand camera movements.
+0:099 segundosStatic shots, zoom in, dolly out, tracking shot, just to name a few. It's called casual Friday.
+0:1515 segundosI will show you 30 different shots and explain to you how to prompt them, when to use these, and what kind of intention each and every movement has. I'll also
+0:2424 segundosleave a link in the description down below with all of the assets with the prompts, including a prompt generator that you can use. So, you don't have to
+0:3232 segundospause this video, but you can just click the website, copy the prompt from there, and even customize the prompt to your own liking to get the exact shot that
+0:4040 segundosyou want. To generate all of these examples, I've used Hicksfield, and the main models I used within that is Seance and Cling. If you want to try this out
+0:4848 segundosyourself, I would highly recommend clicking the link in the description down below so you can get started. We're going to start off with the basics.
+Capítulo 2: Basic static and pan shots
+0:5454 segundosThese are the simple type of shots that we all know like static shots, pan shots, whip shots. You just might not know how to prompt them. If you were to
+1:021 minuto e 2 segundosthink of the camera with these type of shots, then it's usually positioned on a tripod. And these are also the type of shots that you will be the first to
+1:101 minuto e 10 segundoslearn if you are learning about film making. So, shot number one is a static shot. And you can play around with close-ups, medium, wide, or extreme
+1:181 minuto e 18 segundosclose-ups. With a static shot, the camera stays completely still. The camera gears are locked and they don't move a millimeter. It forces the
+1:261 minuto e 26 segundosaudience to focus on a subject without distraction. Even with those limitations, you're still able to create different type of shots like close-ups, medium shots, and even wide shots.
+1:351 minuto e 35 segundosHow long do I have to sit here?
+1:361 minuto e 36 segundosNext up, we got pan or whip pan. When you pan, the tripod stays still, but your camera on top of it moves from the left to the right, almost like someone
+1:451 minuto e 45 segundosis shaking their head. No. This action allows you to scan the room, follow the action of a character that was or shows something that was previously offcreen.
+1:541 minuto e 54 segundosThen we got tilt up or tilt down. Tilt up is similar to a pen, but instead of shaking your head no, you're yawning.
+2:012 minutos e 1 segundoYou're nodding your head to say yes. You tilt up and down to show, for example, a tall building or showing someone feet.
+2:082 minutos e 8 segundosIt could be a character looking up to a giant that makes them look small and weak or defeated. Then we got zooms. And this is an interesting one because you
+Capítulo 3: Understanding zoom techniques
+2:162 minutos e 16 segundosgot not only like zoom in, zoom outs, but you also can play around with the way of how you zoom in or out. For example, you can do a slow zoom in to
+2:242 minutos e 24 segundosset the mood. You can do a fast zoom in, a crash zoom in. You can name it. There is a zoom for it. But the way you use the zoom in AI film making really
+2:332 minutos e 33 segundosmatters a lot when it comes to trying to portray the mood that you're trying to bring with that video. We're going to start with a slow zoom in or a slow zoom
+2:412 minutos e 41 segundosout. When it comes to the slow zoom, it can build tension depending on how slow it is. It can make us focus on what the character is saying since we are slowly creeping towards them.
+2:512 minutos e 51 segundosI was there, but I did not stop it.
+2:552 minutos e 55 segundosThe same also goes for the zoom out. It can make us disassociate them from the character or the subject we're looking at. It can also show more of the
+3:033 minutos e 3 segundosenvironment, which makes our character less significant. If you're thinking about slow zoomins, then obviously you also have to think about fast zooms. A
+3:113 minutos e 11 segundosfast zoom quickly changes the lens to bring the subject closer or push them away. It is quicker and more noticeable than a slow zoom, but not quite as
+3:193 minutos e 19 segundosaggressive as a crash zoom. Now, here's an example of when you can use a zoom in. For example, in this scene where a character makes a sudden discovery or
+3:263 minutos e 26 segundosnotices that something is wrong, or when a character suddenly becomes vulnerable and gets a reality check or something unexpected happens suddenly. Next up, we
+3:343 minutos e 34 segundoshave crash zooms. These are one of my favorites. This is a camera technique that is usually used in more of a comedic way, but still does and has a
+3:423 minutos e 42 segundospurpose in films that are a bit more serious, like Kilbill for example. You would use a crash zoom in in moments where a sudden overwhelming shock or a
+3:503 minutos e 50 segundossudden realization or a comedic moment is happening, but also to increase the intensity and extra emphasis of what someone is saying.
+3:583 minutos e 58 segundosAll of it.
+3:593 minutos e 59 segundosNow, the crash zoom out is used to show a character or an object in a very absurd or chaotic wider environment.
+4:064 minutos e 6 segundosMaybe also as a comedic moment. For example, you have a guy in a suit, then punch out and see that he's not even wearing pants.
+4:124 minutos e 12 segundosI don't see the problem. It's called casual Friday.
+4:164 minutos e 16 segundosMoving on, we need to talk about dully shots. In particularly, dully in and out. At first, you might think that this is the same as a zoom in or a zoom out,
+Capítulo 4: Dolly shots for depth
+4:244 minutos e 24 segundosbut it is actually different. With a zoom in, the camera is standing in the same place and the lens is zooming in.
+4:314 minutos e 31 segundosWith a dolly in or a dolly out, the camera is moving while the lens stay the same. This kind of dolly shots can create a realistic feeling where it
+4:394 minutos e 39 segundosfeels like you're actually moving closer or leaving a character behind. So, for example, when you're creeping in a hallway towards a figure that you do not
+4:464 minutos e 46 segundosknow how to react to, it could lead to a jump scare. Or you would use a dolly out when a character is defeated, isolated,
+4:534 minutos e 53 segundosor lonely. It's similar to the zoom out, but this is maybe more intimate because it feels like you're actually leaving the character behind, too. Next up, we
+5:015 minutos e 1 segundogot physical moves, and this is the part that Hollywood loves the most. These are the moves that require big crews, large
+Capítulo 5: Complex physical camera moves
+5:085 minutos e 8 segundosbudgets, and good camera equipment because these are shots where the camera is traveling physically from side to side, straight up and down, or is
+5:175 minutos e 17 segundossliding smoothly around an object or a person. You should imagine the camera moving on a track alongside with your character, walking around it, circling
+5:255 minutos e 25 segundosaround it, or giving it you that three-dimensional feeling to it. The first physical movement that I like is a truck shot. This is where the camera is
+5:345 minutos e 34 segundosmoving physically sideways in a straight line while pointing in the same direction. Because it moves parallel to the environment, you can use this to
+5:415 minutos e 41 segundostravel alongside a moving character that is walking. The camera will track it smoothly and it will follow that character. Then we got pedestal up or
+5:495 minutos e 49 segundospedestal down. Now this is basically where the camera is moving straight up and straight out without tilting its head. This could be used to show a
+5:575 minutos e 57 segundoscharacter from his feet then all the way to his head. And that could be used as a way to introduce that character. Then we got the slider shot. A slider shot is a
+6:066 minutos e 6 segundosshort controlled slide from left to right or right to left using a short reel that can be used to create a sliding effect in a tight space. For
+6:146 minutos e 14 segundosexample, when a detective is leaning over a messy desk, while the slider slowly moves across the table with the evidence visible. Next up, we got push
+6:226 minutos e 22 segundospast or pass by shot. You use this when you want to enter a room or catch a character doing something that is hidden. For example, a mechanic works in
+6:316 minutos e 31 segundosa garage and the camera is pushing forward past the cables, the obstacles behind the lens as he pauses over the tools. Next up, we got arcshot. If you
+6:396 minutos e 39 segundosthink about the arcshot, you also might think about orbiting shots. And these are quite similar. An orbit shot is where it turns fully 360 around the
+6:476 minutos e 47 segundossubject. With the arc shot, you stand at the back of your character and then he slowly shifts around your character to see their face, for example. The orbit
+6:556 minutos e 55 segundosshot is a bit more crazy. You show this to show a crazy action scene or to show a widely fantasy world for example. Then
+7:027 minutos e 2 segundoswe got subject camera movements. These are different variations of tracking shots. Now movies are all about following characters on a journey. A
+Capítulo 6: Subject-based tracking shots
+7:107 minutos e 10 segundostracking shot physically moves the camera to keep up with them. You can follow behind the character to build suspense, walk backward in front of them
+7:187 minutos e 18 segundosto see their facial expressions, or even aggressively chase them during a fast action scene. By moving at the exact same speed as your subject, the audience feels like they are right in the action.
+7:297 minutos e 29 segundosThe tracking shot. A tracking shot is a shot that physically moves the camera through the scene. For example, when a chef is walking through a very crowded,
+7:377 minutos e 37 segundosbusy restaurant kitchen while the camera glides along with him, keeping him centered as he walks along the line of cooks who are cooking with hot pants on the side of screen. Then you have the
+7:457 minutos e 45 segundosfollow shot. This can also be the follow shot over the shoulder. This is when the camera is tracking behind the character's back after using an
+7:527 minutos e 52 segundosover-the-shoulder view. This forces the audience to see the world exactly how our character sees it. This is used to build suspense and curiosity. For
+8:008 minutosexample, a teenager slowly walking down a dark, creaky basement staircase, and the camera falls closely behind his shoulder, making the audience feel like
+8:098 minutos e 9 segundosthey're stepping down into the dark along with him. Next up, we got reverse tracking. Here, the camera's moving backward. It takes the same pace as the
+8:178 minutos e 17 segundoscharacter that walks forward, and the camera is locked to the facial expression or forced to pay attention to their emotion. It could be a shot of a singular person or two people having a conversation. Then we got sidetracking.
+8:288 minutos e 28 segundosThis is when an subject is running or walking. Here the camera is basically parallel to the subject traveling sideways. This can be used in a
+8:368 minutos e 36 segundossituation where the character is running. For example, an athlete on track running as fast as he can. Then we got low tracking shots. Here the camera
+8:438 minutos e 43 segundosis basically pointed to below the belt and is usually not focused on the ice.
+8:488 minutos e 48 segundosFor example, a cowboy is mysterious and walks until he's not alone. And we follow his steps while we are tracking his boots. Next up, vehicle tracking.
+8:578 minutos e 57 segundosVehicle tracking is basically where we track a vehicle at high speed. A moving car, a motorcycle, a train, and this can be used during the travel scene, usually
+9:069 minutos e 6 segundosan action scene. Then chase shots. This is aggressive and messy. A graphic scramble to keep up with the unpredictable action as if the camera is
+9:149 minutos e 14 segundosrunning behind trying to follow up the action as best as he can. Like when or hero is trying to escape from a terrifying beast like a bear or Bigfoot or whatever it is, and the camera is
+9:239 minutos e 23 segundostrying his best to follow up with the action. Then we got human camera movements. And these are some of my favorite because this, especially with
+Capítulo 7: Human camera movements
+9:329 minutos e 32 segundosAI, makes a video feel real. Like handheld shots, slight shakiness. You can feel that it is recorded by humans.
+9:409 minutos e 40 segundosAnd that is the kind of thing that when you have too polished of a zoom or like a slider shot where it will feel robotic
+9:479 minutos e 47 segundosor almost too smooth. With a human camera movement, it's the perfect way to show panic, dizziness, or a character losing control. For example, one of the
+9:569 minutos e 56 segundosmost common is handheld shots. By letting the camera shake lightly, just like a person holding it, will make it feel more raw and realistic. This can be
+10:0410 minutos e 4 segundosused to make a fictional scene feel more real. Or when a family is gathering around a kitchen table during a tense argument and the camera shakes lightly
+10:1210 minutos e 12 segundosand shifts between the faces, making the viewer feel uncomfortable. You write that with them in the room. Then we have
+10:1810 minutos e 18 segundosbodymounted camera or snory cam. This is basically snapping the camera directly to the actor's chest straight back at their face. Because the camera is locked
+10:2710 minutos e 27 segundosto their torso, their head stays completely frozen in the center of the screen while the entire background shakes violently around him. You can use
+10:3410 minutos e 34 segundosthis to illustrate hysteria or being drunk or being in a massive panic attack. For example, when a man is panicking inside a crowded flashing
+10:4210 minutos e 42 segundosnightclub as he stumbles towards the exit. Like Spider-Man also used a scene like this. Let's move on and go over to the big moves. aerial and crane shots.
+Capítulo 8: Aerial and high-altitude shots
+10:5210 minutos e 52 segundosWith these type of shots, you usually need expensive equipment like drones or even cranes. With AI, like all of these
+10:5910 minutos e 59 segundosshots, it's a lot simpler to do. We're going to start off with a crane up and a crane down. It is when you move the camera vertically through a space using
+11:0711 minutos e 7 segundosa massive mechanical arm. That is what a crane is. The crane lifts up the audience away from your subject and can be used for the ending of a scene or a
+11:1511 minutos e 15 segundosfilm, leaving behind the character, showing a place around them. For example, when we have a traveler sitting on a train station bench, the camera lifts straight up into the air rising
+11:2311 minutos e 23 segundosabove the station roof, revealing a massive city layout surrounding it. Then we have the drone. We can do a fly over, a push in, a pullback, orbit, whatever you name it, you can do with the drone.
+11:3411 minutos e 34 segundosWhen it comes to drone moves, those can be used for high altitude camera movements. Those moves are usually smooth unless you use FPV, a show of
+11:4211 minutos e 42 segundoslandscapes, but they can also be used to push towards an object. It can also go through tight spaces like windows or doors without the limitation of heavy
+11:5111 minutos e 51 segundosground gear. When you think of drones, you might also think of helicopter shots. When it comes to helicopter shots, they are like high altitude shots, but a bit more gradual and a bit
+12:0012 minutosmore steady. They can be used for grand opening scenes, immediately establishing a massive set or environment which you can fly over or show of a car driving
+12:0812 minutos e 8 segundosaway or even following a car. Let's end it off with special shots. Especially with AI, these shots are now easier than
+Capítulo 9: Advanced special shots
+12:1612 minutos e 16 segundosever. We're talking about a firsterson view, for example. This puts the lens exactly where the character's eyes would be. You can use this when you want the
+12:2312 minutos e 23 segundosviewer to feel like they're seeing the world directly through that character's eyes. Then we have tilt shift. This is a neat visual effect that blurs the top
+12:3112 minutos e 31 segundosand the bottom of the frame. It is used to make a real full-size location feel exactly like a tiny model world. Tilt
+12:3912 minutos e 39 segundosshift lenses are usually really expensive, too. But of course with AI that doesn't apply to you. Infinite zoom. Here you would have to think of a
+12:4712 minutos e 47 segundoscontinuous zoom that is inwards and that is never stopping. The camera's constantly zooming in into the next
+12:5412 minutos e 54 segundosworld. This is perfect to surreal reveals or dream sequences. Then we have earth zoom out. Now this is one of those things that you might have seen on Tik
+13:0213 minutos e 2 segundosTok, but this shot is actually quite cool. This is where the camera is rapidly moving upward towards the sky.
+13:0913 minutos e 9 segundosIt is used to move from a small human moment or an object or a building all the way out to the city or country or the world. The last shot that is quite
+13:1813 minutos e 18 segundoscool to use with AI is the time-lapse. A time-lapse usually will cost you a lot of time, but with AI, you can make this
+13:2513 minutos e 25 segundossuper fast and easy. This is where the camera stays still and is recording the same scene for long amount of time. For
+13:3313 minutos e 33 segundosexample, see weather changes or crowd moving or light changes. when it takes like these short frames, it creates this
+13:4013 minutos e 40 segundossuper cool effect where you can see all of the movements if you speed it up where it has recorded the entire day. So
+13:4713 minutos e 47 segundosnow you hopefully understand all the different camera movements that can be used in AI. If you want to try this out yourself, I will leave a link to Hickfield in the description down below.
+13:5813 minutos e 58 segundosAlso, make sure that you use the cheat sheet to help you generate these shots.
+14:0214 minutos e 2 segundosYou can just simply copy them and then you can use them yourself in any generation that you're planning to do.
+14:0814 minutos e 8 segundosMake sure to click the video that's on the screen right now if you want to learn more about AI filmmaking.
+
+Sincronizar com o momento do vídeo
